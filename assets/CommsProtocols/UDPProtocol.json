@@ -1,0 +1,82 @@
+{
+  "protocol_version": "1.4.0",
+  "endianness": "little",
+  "frames": [
+    {
+      "id": 0x10,
+      "name": "SENSORS_MAIN",
+      "direction": "RX",
+      "description": "Capteurs principaux chambre + lignes",
+      "fields": [
+        {
+          "name": "timestamp_ms",
+          "type": "uint32",
+          "unit": "ms",
+          "display": false
+        },
+        {
+          "name": "P_chambre",
+          "type": "float32",
+          "unit": "bar",
+          "scale": 1.0,
+          "offset": 0.0,
+          "range": [0, 100],
+          "display": true,
+          "alarm_high": 85.0,
+          "alarm_low": 0.5,
+          "group": "chambre"
+        },
+        {
+          "name": "T_chambre",
+          "type": "int16",
+          "unit": "°C",
+          "scale": 0.1,
+          "offset": 0.0,
+          "range": [-50, 3500],
+          "display": true,
+          "group": "chambre"
+        },
+        {
+          "name": "debit_LOX",
+          "type": "uint16",
+          "unit": "g/s",
+          "scale": 0.01,
+          "offset": 0.0,
+          "display": true,
+          "group": "oxydant"
+        }
+      ],
+      "footer": {
+        "type": "crc16_ccitt",
+        "size": 2
+      }
+    },
+    {
+      "id": 0x20,
+      "name": "CMD_VALVE",
+      "direction": "TX",
+      "description": "Commande ouverture vannes",
+      "fields": [
+        {
+          "name": "valve_id",
+          "type": "uint8",
+          "enum": {
+            "LOX_MAIN": 1,
+            "FUEL_MAIN": 2,
+            "PURGE": 3
+          }
+        },
+        {
+          "name": "position",
+          "type": "uint8",
+          "unit": "%",
+          "range": [0, 100]
+        }
+      ],
+      "footer": {
+        "type": "crc16_ccitt",
+        "size": 2
+      }
+    }
+  ]
+}
