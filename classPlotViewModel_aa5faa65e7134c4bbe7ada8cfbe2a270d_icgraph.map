@@ -1,0 +1,10 @@
+<map id="PlotViewModel::selectedTimeRange" name="PlotViewModel::selectedTimeRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="383,27,597,67"/>
+<area shape="rect" id="Node000002" href="$classPlot.html#a5372a35d6baaeea8bcbed9f52b85fd30" title=" " alt="" coords="177,5,291,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="369,36,291,27,291,22,369,31"/>
+<area shape="rect" id="Node000004" href="$classPlot.html#ace35a9b43d763b8f6371d2770ade6a24" title=" " alt="" coords="133,55,335,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="369,63,335,67,335,62,369,58"/>
+<area shape="rect" id="Node000003" href="$classPlot.html#a5b4b38ebab6fc69bd007d591c2bc61e3" title=" " alt="" coords="5,35,85,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,32,86,44,85,39,163,26"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="119,61,85,56,86,51,120,56"/>
+</map>

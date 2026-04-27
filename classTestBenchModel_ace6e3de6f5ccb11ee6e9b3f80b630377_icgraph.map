@@ -1,0 +1,23 @@
+<map id="TestBenchModel::getStatusID" name="TestBenchModel::getStatusID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="893,95,1105,120"/>
+<area shape="rect" id="Node000002" href="$classPlotViewModel.html#a4f68a4b4160583b92cad8aa82c694445" title=" " alt="" coords="646,5,845,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="958,91,844,46,802,33,803,28,846,41,960,87"/>
+<area shape="rect" id="Node000006" href="$classSensorValueIndicatorViewModel.html#a52a37b6aa8c8b97cbeb288567d4ed2ae" title=" " alt="" coords="650,55,841,95"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="885,96,841,90,841,85,885,90"/>
+<area shape="rect" id="Node000009" href="$classTankPressureControlerViewModel.html#acaab29decfb579b2db988728d55e1a0b" title=" " alt="" coords="645,119,845,159"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="885,124,846,129,845,124,884,119"/>
+<area shape="rect" id="Node000010" href="$classActuatorSwitchViewModel.html#afca1d249f6cd2a0a4ce5833d753b9420" title=" " alt="" coords="649,183,841,223"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="958,128,846,174,812,186,810,181,844,169,956,123"/>
+<area shape="rect" id="Node000003" href="$classPlot.html#a35a46b3d250dc882d2ca1c90ab9c12fd" title=" " alt="" coords="414,5,581,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="632,21,581,21,581,15,632,15"/>
+<area shape="rect" id="Node000004" href="$classPlot.html#a74f12fae74e90c87c72cab9f0d2da28d" title=" " alt="" coords="133,5,349,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="400,21,349,21,349,15,400,15"/>
+<area shape="rect" id="Node000005" href="$classPlot.html#a5b4b38ebab6fc69bd007d591c2bc61e3" title=" " alt="" coords="5,5,85,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="120,21,86,21,86,15,120,15"/>
+<area shape="rect" id="Node000007" href="$classSensorValueIndicator.html#a4f6a6870b71970059f29bf2f0d807f96" title=" " alt="" coords="418,55,577,95"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="636,78,577,78,577,73,636,73"/>
+<area shape="rect" id="Node000008" href="$classSensorValueIndicator.html#a7ae94a59dd425bf5e9c687ea422be82e" title=" " alt="" coords="158,55,325,95"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="405,78,325,78,325,73,405,73"/>
+<area shape="rect" id="Node000011" href="$classActuatorSwitchViewModel.html#a1a906ea170fdf4d96d75901251c1c2a1" title=" " alt="" coords="397,183,597,223"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="636,206,598,206,598,201,636,201"/>
+</map>

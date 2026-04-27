@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['value_0',['value',['../classSensorReading.html#aaf809a27e84d0cf55a04a9d967275a95',1,'SensorReading::value'],['../structSensorData.html#a4781f82b627e0e1ed62da8b22a4bed82',1,'SensorData::value']]],
+  ['valueid_1',['valueID',['../structPlot_1_1Binding.html#ab674d89a06282734b3f9870fbeceb2fa',1,'Plot::Binding']]],
+  ['valuemention_2',['valueMention',['../classSensorValueIndicatorViewModel.html#ae8d599ac6f9a95e0a1044ece62a0b122',1,'SensorValueIndicatorViewModel']]],
+  ['valuenotfound_3',['valueNotFound',['../classSensorValueIndicatorViewModel.html#ac716892dbd1f9f4d4aa6cb6363b8f152',1,'SensorValueIndicatorViewModel']]],
+  ['values_4',['values',['../classSequenceCommand.html#af7d981debc96acb0e4dd1b2041040fff',1,'SequenceCommand']]],
+  ['valueunit_5',['valueUnit',['../classSensorValueIndicatorViewModel.html#ac011b0951ebb10c0899640f7aa261402',1,'SensorValueIndicatorViewModel']]],
+  ['valvecommand_6',['ValveCommand',['../classValveCommand.html',1,'']]],
+  ['valveid_7',['valveID',['../classProtocolCodec.html#a32003577ae70d7506bbd465b58aab7a1',1,'ProtocolCodec']]],
+  ['valvename_8',['valveName',['../classValveCommand.html#a01a2d092f5314f802aed33d05ef6fb6b',1,'ValveCommand']]],
+  ['valvereading_9',['ValveReading',['../classValveReading.html',1,'']]],
+  ['valveswitch_10',['ValveSwitch',['../classValveSwitch.html',1,'ValveSwitch'],['../classValveSwitch.html#a7764850d7ec0c40ff1cc5b6c6f1ab8f5',1,'ValveSwitch::ValveSwitch()']]],
+  ['valveswitchconfig_11',['ValveSwitchConfig',['../structPidTabConfig_1_1ValveSwitchConfig.html',1,'PidTabConfig']]],
+  ['valveswitchs_12',['valveSwitchs',['../structPidTabConfig.html#a7541bd2911177ea907fb3b5cd5392d47',1,'PidTabConfig']]],
+  ['valveswitchwidget_2ecpp_13',['ValveSwitchWidget.cpp',['../ValveSwitchWidget_8cpp.html',1,'']]],
+  ['valveswitchwidget_2eh_14',['ValveSwitchWidget.h',['../ValveSwitchWidget_8h.html',1,'']]],
+  ['variable_15',['Variable',['../DebugDisplayViewModel_8h.html#ae0035d99cb3731721ae2aecc137902d7',1,'DebugDisplayViewModel.h']]],
+  ['viewmodel_16',['viewModel',['../classActuatorSwitchWidget.html#a42152c89d1cb6de91e28cacdd673026c',1,'ActuatorSwitchWidget']]],
+  ['visiblecurves_17',['visibleCurves',['../classPlotViewModel.html#aaabb646950935b2d3e53cf0dcd611c35',1,'PlotViewModel']]],
+  ['visiblecurveschanged_18',['visibleCurvesChanged',['../classPlotViewModel.html#a826d6441b253e1cc9078821daf10a70d',1,'PlotViewModel']]],
+  ['volts_19',['volts',['../classapp.html#a71912a442228d9b98bd87a0ad5910d18a98e8d837b26722c4cf6887fd4ebf60e8',1,'app']]]
+];

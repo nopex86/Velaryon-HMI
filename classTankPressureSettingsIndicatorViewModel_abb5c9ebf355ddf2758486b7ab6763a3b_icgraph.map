@@ -1,0 +1,12 @@
+<map id="TankPressureSettingsIndicatorViewModel::PressureSettingChanged" name="TankPressureSettingsIndicatorViewModel::PressureSettingChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="677,63,939,103"/>
+<area shape="rect" id="Node000002" href="$classTankPressureSettingsIndicatorViewModel.html#a60e793f9b372966700649436d54edb39" title=" " alt="" coords="381,5,600,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="683,63,600,48,601,42,684,58"/>
+<area shape="rect" id="Node000003" href="$classTankPressureIndicador.html#a6759304ab43f8d4676ccac701e004a65" title=" " alt="" coords="67,27,243,67"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="663,77,243,54,243,49,664,72"/>
+<area shape="rect" id="Node000004" href="$classTankPressureSettingsIndicatorViewModel.html#a6709ca061ba729309b6ee14946a2815e" title=" " alt="" coords="352,120,629,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="684,108,602,123,602,117,683,103"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="367,36,243,44,243,38,367,30"/>
+<area shape="rect" id="Node000005" href="$classTankPressureSettingsIndicatorViewModel.html#abd7ce52bdceeefb3bdf1e2b446b83039" title=" " alt="" coords="5,113,304,167"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="338,143,305,143,305,137,338,137"/>
+</map>

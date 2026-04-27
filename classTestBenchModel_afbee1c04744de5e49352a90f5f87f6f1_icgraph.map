@@ -1,0 +1,9 @@
+<map id="TestBenchModel::statesListChanged" name="TestBenchModel::statesListChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="528,35,727,75"/>
+<area shape="rect" id="Node000002" href="$classTestBenchModel.html#aa6e4ca2f6a9c047592a695c188294e50" title=" " alt="" coords="271,5,465,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="514,45,465,39,465,34,514,39"/>
+<area shape="rect" id="Node000004" href="$classPlotViewModel.html#a0e04a39ca08de4c3687003283f90d6f2" title=" " alt="" coords="256,70,480,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="515,69,481,73,480,68,514,64"/>
+<area shape="rect" id="Node000003" href="$classTestBenchModel.html#a0535ffdf371433af1c49e0e20c64ba21" title=" " alt="" coords="5,5,208,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="258,28,208,28,208,23,258,23"/>
+</map>

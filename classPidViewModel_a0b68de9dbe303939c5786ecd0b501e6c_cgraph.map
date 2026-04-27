@@ -1,0 +1,7 @@
+<map id="PidViewModel::onTestStateChanged" name="PidViewModel::onTestStateChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,204,63"/>
+<area shape="rect" id="Node000002" href="$classTestBenchModel.html#aff59f6cb4f4fa5d4335704fb72f2e29a" title=" " alt="" coords="257,5,481,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,31,243,27,243,33,204,36"/>
+<area shape="rect" id="Node000003" href="$classPidViewModel.html#af76ed63fb1cb775047fca9e2729c8b2b" title=" " alt="" coords="252,55,485,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,50,238,53,238,58,204,55"/>
+</map>

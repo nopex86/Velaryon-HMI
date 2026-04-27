@@ -1,0 +1,11 @@
+<map id="features/parameters_window/ParametersWindow.h" name="features/parameters_window/ParametersWindow.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="150,5,370,45"/>
+<area shape="rect" id="Node000002" href="$ParametersWindow_8cpp.html" title=" " alt="" coords="5,93,240,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,55,154,96,151,91,217,51"/>
+<area shape="rect" id="Node000003" href="$ParametersWindowFactory_8h.html" title=" " alt="" coords="264,93,531,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="303,51,369,91,366,96,301,55"/>
+<area shape="rect" id="Node000004" href="$ToolsMenuFactory_8cpp.html" title=" " alt="" coords="179,181,360,221"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="359,144,299,183,296,179,356,139"/>
+<area shape="rect" id="Node000005" href="$ParametersWindowFactory_8cpp.html" title=" " alt="" coords="385,181,666,221"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="439,139,498,179,496,183,436,144"/>
+</map>

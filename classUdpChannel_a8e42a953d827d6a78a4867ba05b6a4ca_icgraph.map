@@ -1,0 +1,21 @@
+<map id="UdpChannel::stopUdpWorker" name="UdpChannel::stopUdpWorker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1244,101,1452,126"/>
+<area shape="rect" id="Node000002" href="$classUdpChannel.html#a818443eac8b5aa21093fe3a1f39492a4" title=" " alt="" coords="1001,75,1196,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1230,104,1196,101,1197,95,1231,99"/>
+<area shape="rect" id="Node000010" href="$classUdpChannel.html#a1d69213eb88b5305686f1ef9ade76e04" title=" " alt="" coords="1005,125,1193,150"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1231,127,1193,131,1193,126,1230,122"/>
+<area shape="rect" id="Node000003" href="$classCSVLogger.html#aeb2a3cbfb18c9e190ee9558b45c2ab63" title=" " alt="" coords="779,15,921,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1031,75,903,43,904,38,1033,69"/>
+<area shape="rect" id="Node000007" href="$classUdpChannelParametersViewModel.html#af74d2aa09f73fc1ce13dca3469848fa8" title=" " alt="" coords="747,68,953,108"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="987,91,954,91,954,85,987,85"/>
+<area shape="rect" id="Node000009" href="$classUdpChannel.html#a81c184bc754fe19c58898f4cb14eed53" title=" " alt="" coords="751,133,949,158"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="1030,106,906,135,905,130,1029,101"/>
+<area shape="rect" id="Node000004" href="$classExportMenuViewModel.html#a3384a193ce5445b24d08bb6b6fed94fb" title=" " alt="" coords="502,5,674,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="765,30,674,29,674,24,765,24"/>
+<area shape="rect" id="Node000005" href="$classExportMenu.html#a8c000516d7139497af90f9b173ca0609" title=" " alt="" coords="240,5,429,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="488,28,429,28,429,23,488,23"/>
+<area shape="rect" id="Node000006" href="$classExportMenu.html#aad47eee6721b4f7a152a093c99672ac9" title=" " alt="" coords="5,13,192,38"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="226,28,192,28,192,23,226,23"/>
+<area shape="rect" id="Node000008" href="$classUdpChannelParametersWidget.html#aef0927083aea2b20033b42465cb2b42f" title=" " alt="" coords="477,69,699,109"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="733,91,699,91,699,86,733,86"/>
+</map>

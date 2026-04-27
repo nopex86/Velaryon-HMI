@@ -1,0 +1,9 @@
+<map id="UdpChannel::setRemoteAddr" name="UdpChannel::setRemoteAddr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="529,42,740,67"/>
+<area shape="rect" id="Node000002" href="$classUdpChannelParametersViewModel.html#af74d2aa09f73fc1ce13dca3469848fa8" title=" " alt="" coords="275,5,481,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="516,44,481,40,482,34,516,38"/>
+<area shape="rect" id="Node000004" href="$classUdpChannel.html#a1d69213eb88b5305686f1ef9ade76e04" title=" " alt="" coords="284,70,472,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="516,70,473,75,472,70,516,65"/>
+<area shape="rect" id="Node000003" href="$classUdpChannelParametersWidget.html#aef0927083aea2b20033b42465cb2b42f" title=" " alt="" coords="5,5,227,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="261,28,227,28,227,23,261,23"/>
+</map>

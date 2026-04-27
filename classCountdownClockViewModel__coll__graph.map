@@ -1,0 +1,22 @@
+<map id="CountdownClockViewModel" name="CountdownClockViewModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1603,225,1728"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="169,5,235,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,76,138,99,117,127,102,158,97,192,97,1319,102,1472,112,1602,107,1603,97,1472,91,1319,91,191,97,156,113,124,134,96,157,72"/>
+<area shape="rect" id="Node000003" href="$classUdpChannel.html" title=" " alt="" coords="293,1095,473,1540"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="178,84,157,135,150,163,147,191,147,951,151,992,161,1033,176,1072,196,1109,243,1178,295,1235,291,1239,239,1181,191,1112,171,1074,156,1034,146,993,142,951,142,191,145,162,152,133,173,82"/>
+<area shape="rect" id="Node000004" href="$classUdpWorker.html" title=" " alt="" coords="182,867,395,1032"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="205,84,208,208,216,387,231,594,257,804,269,866,264,867,251,804,226,594,211,387,203,209,200,84"/>
+<area shape="rect" id="Node000006" href="$classLogger.html" title=" " alt="" coords="321,120,411,265"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="248,78,322,147,319,151,244,82"/>
+<area shape="rect" id="Node000007" href="$classFileSystem.html" title=" " alt="" coords="607,289,730,395"/>
+<area shape="poly" id="edge11_Node000007_Node000002" title=" " alt="" coords="249,48,333,75,380,94,425,118,482,157,536,202,624,287,621,291,533,205,479,161,422,122,378,99,331,80,248,53"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="295,1437,175,1591,171,1588,291,1433"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="312,1032,324,1078,319,1079,307,1033"/>
+<area shape="rect" id="Node000005" href="$classUdpLogger.html" title=" " alt="" coords="359,419,536,804"/>
+<area shape="poly" id="edge13_Node000003_Node000005" title=" " alt="" coords="445,804,438,936,426,1071,425,1078,420,1078,421,1070,432,935,439,804"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="361,769,332,829,323,852,318,850,328,827,356,767"/>
+<area shape="poly" id="edge12_Node000003_Node000006" title=" " alt="" coords="413,258,419,263,436,271,450,274,466,277,482,287,511,317,529,345,540,377,550,418,586,589,595,660,598,726,595,792,585,863,568,942,545,1033,519,1105,484,1173,479,1170,514,1103,539,1031,563,940,580,862,590,792,593,726,590,660,581,590,545,419,535,379,524,348,507,321,479,291,464,282,449,279,434,276,417,268,410,262"/>
+<area shape="poly" id="edge9_Node000004_Node000006" title=" " alt="" coords="331,267,301,339,278,419,264,534,261,650,267,759,276,850,271,851,262,759,256,650,258,534,273,418,296,337,326,265"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="383,265,409,402,404,403,377,266"/>
+<area shape="poly" id="edge10_Node000003_Node000007" title=" " alt="" coords="678,395,689,521,691,603,688,694,680,789,663,887,637,982,599,1072,575,1113,547,1153,487,1223,483,1220,543,1149,571,1110,594,1069,632,980,658,885,674,789,683,693,685,603,683,521,673,395"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="UdpChannel::countdownReceived" name="UdpChannel::countdownReceived">
+<area shape="rect" id="Node000001" title=" " alt="" coords="540,42,780,67"/>
+<area shape="rect" id="Node000002" href="$classCountdownClockViewModel.html#a3b9e3bc4f0c549d6b0438fd88880fb00" title=" " alt="" coords="261,5,472,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="526,44,472,39,473,33,526,39"/>
+<area shape="rect" id="Node000003" href="$classUdpChannel.html#a4f2c0c2ee1edbc192415cbb518bc44dd" title=" " alt="" coords="241,70,492,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="527,70,492,73,492,68,526,65"/>
+<area shape="rect" id="Node000004" href="$classUdpChannel.html#a1d69213eb88b5305686f1ef9ade76e04" title=" " alt="" coords="5,70,193,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="228,85,194,85,194,80,228,80"/>
+</map>

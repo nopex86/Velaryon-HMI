@@ -1,0 +1,15 @@
+<map id="features/test/frames/countdown_clock/CountdownClockWidget.cpp" name="features/test/frames/countdown_clock/CountdownClockWidget.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="127,5,378,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,108,116,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,63,100,105,98,100,193,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="140,108,211,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,62,197,99,193,96,227,58"/>
+<area shape="rect" id="Node000004" href="$CountdownClockWidget_8h.html" title=" " alt="" coords="235,108,425,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="278,58,312,96,308,99,274,62"/>
+<area shape="rect" id="Node000006" href="$CountDownClockViewModel_8h.html" title=" " alt="" coords="449,108,667,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="347,57,505,102,504,107,345,63"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="297,181,363,207"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="333,134,333,168,327,168,327,134"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="521,181,595,207"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="561,134,561,168,555,168,555,134"/>
+</map>

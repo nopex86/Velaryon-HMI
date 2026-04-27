@@ -1,0 +1,9 @@
+<map id="features/menu_bar/tools/ToolsMenu.cpp" name="features/menu_bar/tools/ToolsMenu.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="22,5,203,45"/>
+<area shape="rect" id="Node000002" href="$ToolsMenu_8h.html" title=" " alt="" coords="5,93,108,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,47,75,84,71,80,97,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="132,93,205,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,44,155,80,150,84,124,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="23,167,91,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="59,119,59,153,54,153,54,119"/>
+</map>

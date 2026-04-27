@@ -1,0 +1,11 @@
+<map id="PlotViewModel::titleChanged" name="PlotViewModel::titleChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="459,31,669,56"/>
+<area shape="rect" id="Node000002" href="$classPlotViewModel.html#a5842c23b03eb12fe9e5f80e25a6cf923" title=" " alt="" coords="228,5,411,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="445,34,411,30,411,25,445,28"/>
+<area shape="rect" id="Node000004" href="$classPlotViewModel.html#a127a03cb99dc177fed9c16a6553860de" title=" " alt="" coords="246,55,393,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="445,58,393,63,393,58,445,52"/>
+<area shape="rect" id="Node000003" href="$classPlot.html#a5b4b38ebab6fc69bd007d591c2bc61e3" title=" " alt="" coords="53,5,133,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="214,21,133,21,133,15,214,15"/>
+<area shape="rect" id="Node000005" href="$classGraphicTab.html#a223c161561ddc604b6773b67a7926a79" title=" " alt="" coords="5,55,180,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="232,70,180,70,180,65,232,65"/>
+</map>

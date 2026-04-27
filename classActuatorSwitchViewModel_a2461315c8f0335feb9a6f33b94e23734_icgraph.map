@@ -1,0 +1,15 @@
+<map id="ActuatorSwitchViewModel::statusColor" name="ActuatorSwitchViewModel::statusColor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="709,37,901,77"/>
+<area shape="rect" id="Node000002" href="$classStatusTableWidget.html#a76e50b9a999c694b5d10763bd7473303" title=" " alt="" coords="487,5,637,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="695,46,637,38,638,33,696,40"/>
+<area shape="rect" id="Node000004" href="$classActuatorSwitchWidget.html#a8eaf017f8cd7fcdc7e144fdfe7a2778b" title=" " alt="" coords="463,69,661,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="696,74,662,79,661,74,696,69"/>
+<area shape="rect" id="Node000003" href="$classPidTab.html#acbc2f0dd63aac6e755c0022af8b96c90" title=" " alt="" coords="274,13,389,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="473,28,389,28,389,23,473,23"/>
+<area shape="rect" id="Node000005" href="$classActuatorSwitchWidget.html#af9fbb6ab5d0db3b3f6d6db92c7321f5b" title=" " alt="" coords="248,69,415,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="449,92,415,92,415,87,449,87"/>
+<area shape="rect" id="Node000006" href="$classGlowPlugSwitch.html#a601229de111a3002eab95e6628a809c2" title=" " alt="" coords="5,40,200,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="234,80,200,75,201,70,235,74"/>
+<area shape="rect" id="Node000007" href="$classValveSwitch.html#a7764850d7ec0c40ff1cc5b6c6f1ab8f5" title=" " alt="" coords="9,105,197,130"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="235,104,197,108,197,103,234,99"/>
+</map>

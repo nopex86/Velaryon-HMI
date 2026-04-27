@@ -1,0 +1,26 @@
+<map id="CountdownClock" name="CountdownClock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1791,220,1876"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="59,1633,124,1698"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,1711,110,1790,105,1791,94,1712"/>
+<area shape="rect" id="Node000003" href="$classCountdownClockViewModel.html" title=" " alt="" coords="148,1603,368,1728"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,1730,162,1780,158,1776,202,1726"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="274,5,341,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="266,76,243,99,223,127,208,158,202,192,202,1319,206,1395,216,1472,244,1602,238,1603,211,1473,201,1396,197,1319,197,191,203,156,218,124,239,96,262,72"/>
+<area shape="rect" id="Node000005" href="$classUdpChannel.html" title=" " alt="" coords="399,1095,579,1540"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="284,84,262,135,255,163,253,191,253,951,256,992,266,1033,282,1072,301,1109,349,1178,400,1235,396,1239,345,1181,297,1112,277,1074,261,1034,251,993,247,951,247,191,250,162,257,133,279,82"/>
+<area shape="rect" id="Node000006" href="$classUdpWorker.html" title=" " alt="" coords="287,867,501,1032"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="311,84,327,386,343,593,367,804,378,866,373,867,362,804,338,594,321,387,306,84"/>
+<area shape="rect" id="Node000008" href="$classLogger.html" title=" " alt="" coords="391,120,482,265"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="345,80,393,136,389,139,341,83"/>
+<area shape="rect" id="Node000009" href="$classFileSystem.html" title=" " alt="" coords="713,289,835,395"/>
+<area shape="poly" id="edge13_Node000009_Node000004" title=" " alt="" coords="355,53,423,81,495,118,558,158,618,203,719,287,716,291,615,207,555,163,493,122,420,86,353,58"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="401,1455,310,1591,306,1588,396,1452"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="418,1032,430,1078,425,1079,413,1033"/>
+<area shape="rect" id="Node000007" href="$classUdpLogger.html" title=" " alt="" coords="464,419,641,804"/>
+<area shape="poly" id="edge15_Node000005_Node000007" title=" " alt="" coords="550,804,543,936,531,1071,531,1078,525,1078,526,1070,538,935,545,804"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="466,769,438,829,428,852,423,850,433,827,462,767"/>
+<area shape="poly" id="edge14_Node000005_Node000008" title=" " alt="" coords="484,258,490,263,510,272,528,274,548,277,569,287,603,316,626,343,641,375,655,418,680,509,698,587,707,658,709,725,704,792,692,862,650,1033,624,1105,589,1173,585,1170,619,1103,645,1031,687,861,699,791,704,725,702,658,692,588,675,510,650,419,636,377,621,346,599,320,566,292,546,282,528,280,509,278,487,268,480,262"/>
+<area shape="poly" id="edge11_Node000006_Node000008" title=" " alt="" coords="417,266,398,340,383,419,373,527,373,611,383,804,386,850,381,851,378,804,367,611,368,526,378,418,392,338,412,265"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="459,265,497,402,492,403,454,266"/>
+<area shape="poly" id="edge12_Node000005_Node000009" title=" " alt="" coords="784,395,794,521,796,603,794,694,785,789,768,887,742,982,704,1072,680,1113,653,1153,592,1223,588,1220,648,1149,676,1110,700,1069,737,980,763,885,780,789,788,693,791,603,789,521,778,395"/>
+</map>

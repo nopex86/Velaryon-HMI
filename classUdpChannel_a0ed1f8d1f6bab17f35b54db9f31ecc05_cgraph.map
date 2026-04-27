@@ -1,0 +1,18 @@
+<map id="UdpChannel::startEndpoint" name="UdpChannel::startEndpoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,201,80"/>
+<area shape="rect" id="Node000002" href="$classUdpLogger.html#a55781f93bfc47a004e7b7b8afaa0192c" title=" " alt="" coords="289,29,420,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,55,276,47,276,53,202,60"/>
+<area shape="rect" id="Node000007" href="$classUdpChannel.html#a3d07ac65101443852e45a65f6aeaf277" title=" " alt="" coords="249,79,460,104"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="202,74,236,77,235,83,201,79"/>
+<area shape="rect" id="Node000003" href="$classLogger.html#ad89b36eb9b5a28d1f61b3c74a6975031" title=" " alt="" coords="725,5,840,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="417,27,508,14,593,11,677,14,712,14,712,20,677,19,593,17,508,19,418,32"/>
+<area shape="rect" id="Node000005" href="$classLogger.html#a6c8bf2fc8c89d76b7f4fe25d97ad4bf3" title=" " alt="" coords="730,55,835,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="418,52,508,65,618,69,716,68,716,73,618,74,508,70,417,57"/>
+<area shape="rect" id="Node000006" href="$classUdpLogger.html#a4f7e8bb32128f9186dc452a57134475d" title=" " alt="" coords="508,29,677,55"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="420,39,494,39,494,45,420,45"/>
+<area shape="rect" id="Node000004" href="$classLogger.html#a02453fd0695fe06c495de714399e8bf7" title=" " alt="" coords="888,31,1068,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="841,23,875,27,874,33,840,28"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="835,58,874,53,875,59,836,64"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="677,29,711,24,712,30,678,34"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="678,51,717,56,716,61,677,56"/>
+</map>

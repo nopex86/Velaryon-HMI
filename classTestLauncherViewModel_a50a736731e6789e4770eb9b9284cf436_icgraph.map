@@ -1,0 +1,8 @@
+<map id="TestLauncherViewModel::confirmationRequested" name="TestLauncherViewModel::confirmationRequested">
+<area shape="rect" id="Node000001" title=" " alt="" coords="480,35,661,75"/>
+<area shape="rect" id="Node000002" href="$classTestLauncherViewModel.html#aae85be10e971d7bc96b58fef26b0f1e3" title=" " alt="" coords="253,5,432,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="466,44,432,39,433,34,467,39"/>
+<area shape="rect" id="Node000003" href="$classTestLauncher.html#a0b2015a489c9ef4b4258626629841e5a" title=" " alt="" coords="5,42,205,67"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="466,60,432,60,253,60,206,59,206,54,253,55,432,55,466,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,41,206,45,205,40,240,35"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="UdpChannel::onDatagramReceived" name="UdpChannel::onDatagramReceived">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,145,256,171"/>
+<area shape="rect" id="Node000002" href="$classUdpChannel.html#a2193dfeb846961d6171734814685e689" title=" " alt="" coords="325,5,536,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,143,211,93,255,65,303,41,329,32,331,37,305,46,258,69,214,97,149,147"/>
+<area shape="rect" id="Node000003" href="$classUdpChannel.html#a365d3463ec51e0e296cf7cd1dee7ed61" title=" " alt="" coords="335,55,526,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,143,303,105,335,96,337,101,305,110,174,148"/>
+<area shape="rect" id="Node000004" href="$classUdpChannel.html#a7034be0bcd3d6e544e76914af8de9301" title=" " alt="" coords="311,120,551,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="256,145,297,141,297,147,257,150"/>
+<area shape="rect" id="Node000005" href="$classProtocolCodec.html#ab45b52d99e2ec983883aa25c8ba6f42e" title=" " alt="" coords="345,169,516,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="257,165,332,171,331,177,256,171"/>
+<area shape="rect" id="Node000007" href="$classUdpChannel.html#af3ab9278a84d7d0e1a3d2225637ed310" title=" " alt="" coords="314,219,547,244"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="175,168,305,203,349,213,348,218,303,209,173,173"/>
+<area shape="rect" id="Node000008" href="$classUdpChannel.html#ad3e0230c654c877e37c146a86483dcb5" title=" " alt="" coords="304,268,557,293"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="152,169,217,210,260,233,305,253,335,262,333,267,303,258,258,238,215,215,149,173"/>
+<area shape="rect" id="Node000006" href="$classTestBenchStatesList.html#ac8cae632bf7e555a42e7244fc796d4fb" title=" " alt="" coords="605,162,757,202"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="516,179,592,179,592,185,516,185"/>
+</map>

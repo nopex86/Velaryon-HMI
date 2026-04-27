@@ -1,0 +1,23 @@
+<map id="features/test/TestBenchModel.h" name="features/test/TestBenchModel.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="20,5,247,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,167,80,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,32,58,156,54,153,124,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,167,163,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,31,136,153,131,153,131,31"/>
+<area shape="rect" id="Node000004" href="$Messages_8h.html" title=" " alt="" coords="245,79,382,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,28,259,71,256,76,158,33"/>
+<area shape="poly" id="edge10_Node000004_Node000002" title=" " alt="" coords="249,121,94,166,92,161,248,116"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="271,121,173,164,171,159,269,116"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="187,167,255,192"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="293,121,247,160,244,155,289,117"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="280,167,347,192"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="316,119,316,153,311,153,311,119"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="371,167,469,192"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="341,117,394,156,391,160,338,121"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="493,167,558,192"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="365,116,482,159,480,164,363,121"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="582,167,653,192"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="383,115,569,163,568,168,382,120"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="677,167,737,192"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="383,109,510,132,664,164,663,169,509,137,382,114"/>
+</map>

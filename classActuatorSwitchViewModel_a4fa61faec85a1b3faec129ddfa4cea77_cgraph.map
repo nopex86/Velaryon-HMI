@@ -1,0 +1,10 @@
+<map id="ActuatorSwitchViewModel::setStatusTexts" name="ActuatorSwitchViewModel::setStatusTexts">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,197,75"/>
+<area shape="rect" id="Node000002" href="$classActuatorSwitchViewModel.html#ab4c09aa374e91472f687b5c0c4374548" title=" " alt="" coords="245,63,437,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,63,232,67,232,73,197,69"/>
+<area shape="rect" id="Node000003" href="$classActuatorSwitchViewModel.html#a7aaf2fb748566dee79c0bd0945fcc51b" title=" " alt="" coords="485,5,677,45"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="197,46,472,29,472,35,198,51"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="425,60,483,46,484,51,426,65"/>
+<area shape="rect" id="Node000004" href="$classActuatorSwitchViewModel.html#a3bbde8da90b8046f19e61bf927ca500d" title=" " alt="" coords="485,69,677,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="438,83,472,84,472,89,437,88"/>
+</map>

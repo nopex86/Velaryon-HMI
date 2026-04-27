@@ -1,0 +1,7 @@
+<map id="Plot::onCurvesParametersChanged" name="Plot::onCurvesParametersChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,196,63"/>
+<area shape="rect" id="Node000002" href="$classPlotViewModel.html#ae26a88941efd10822339dee4c2463c69" title=" " alt="" coords="244,5,481,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,31,230,28,230,33,197,37"/>
+<area shape="rect" id="Node000003" href="$classPlot.html#a30f70ec6f1e36cefae1315fc4de3f46d" title=" " alt="" coords="307,55,418,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,49,294,58,293,64,196,55"/>
+</map>

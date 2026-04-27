@@ -1,0 +1,7 @@
+<map id="features/pid/sensors/SensorValueIndicatorWidget.h" name="features/pid/sensors/SensorValueIndicatorWidget.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,5,317,45"/>
+<area shape="rect" id="Node000002" href="$PidTab_8cpp.html" title=" " alt="" coords="5,101,179,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,56,109,102,106,98,168,52"/>
+<area shape="rect" id="Node000003" href="$SensorValueIndicatorWidget_8cpp.html" title=" " alt="" coords="203,93,439,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,52,298,91,294,95,241,56"/>
+</map>

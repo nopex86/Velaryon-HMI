@@ -1,0 +1,9 @@
+<map id="DebugDisplayViewModel::refreshDisplay" name="DebugDisplayViewModel::refreshDisplay">
+<area shape="rect" id="Node000001" title=" " alt="" coords="515,37,700,77"/>
+<area shape="rect" id="Node000002" href="$classDebugDisplayViewModel.html#adef8c701d6cca6a1901f97d6fc452c03" title=" " alt="" coords="269,5,462,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,46,462,41,462,35,501,41"/>
+<area shape="rect" id="Node000003" href="$classDebugDisplay.html#afb81b2c96bb6b80079f459d6fbefdd94" title=" " alt="" coords="264,69,467,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="502,74,467,79,467,73,501,69"/>
+<area shape="rect" id="Node000004" href="$classDebugDisplay.html#ac9467725d063c4814a79923d00eee04a" title=" " alt="" coords="5,77,216,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="250,92,216,92,216,87,250,87"/>
+</map>

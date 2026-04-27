@@ -1,0 +1,26 @@
+var classActuatorSwitchViewModel =
+[
+    [ "ActuatorSwitchViewModel", "classActuatorSwitchViewModel.html#a1a906ea170fdf4d96d75901251c1c2a1", null ],
+    [ "defaultStatus", "classActuatorSwitchViewModel.html#a56b51fdfcc30f6a380858cf7e7d4fd0c", null ],
+    [ "disable", "classActuatorSwitchViewModel.html#ac7d234b190065d18a12df125de8834bc", null ],
+    [ "enable", "classActuatorSwitchViewModel.html#ad30eea0fa195ce8ceb374c6d72e93be9", null ],
+    [ "initialise", "classActuatorSwitchViewModel.html#a15d5e4d185627320177372f1f5402c29", null ],
+    [ "name", "classActuatorSwitchViewModel.html#a166e3b6ceb009e6c088837c83b6ca62a", null ],
+    [ "setDefaultStatus", "classActuatorSwitchViewModel.html#abb67d1899e1a26b54ccb4fa65697aa6c", null ],
+    [ "setName", "classActuatorSwitchViewModel.html#a83e42640f24a341b32969d3a27dd0bc9", null ],
+    [ "setStatus", "classActuatorSwitchViewModel.html#ab4c09aa374e91472f687b5c0c4374548", null ],
+    [ "setStatusTexts", "classActuatorSwitchViewModel.html#a4fa61faec85a1b3faec129ddfa4cea77", null ],
+    [ "status", "classActuatorSwitchViewModel.html#a7aaf2fb748566dee79c0bd0945fcc51b", null ],
+    [ "statusChanged", "classActuatorSwitchViewModel.html#a3bbde8da90b8046f19e61bf927ca500d", null ],
+    [ "statusColor", "classActuatorSwitchViewModel.html#a2461315c8f0335feb9a6f33b94e23734", null ],
+    [ "updateStatus", "classActuatorSwitchViewModel.html#afca1d249f6cd2a0a4ce5833d753b9420", null ],
+    [ "m_defaultStatus", "classActuatorSwitchViewModel.html#abb03cba6a6c20563464783675c2934a1", null ],
+    [ "m_name", "classActuatorSwitchViewModel.html#a8f8d50a8946ae45441e86249ff5fc8bb", null ],
+    [ "m_status", "classActuatorSwitchViewModel.html#a7942dd8ec3ab56da7ca52469658561e1", null ],
+    [ "m_statusColor", "classActuatorSwitchViewModel.html#ae1e3dfb41abce3385434ab050f5def93", null ],
+    [ "m_statusID", "classActuatorSwitchViewModel.html#a4becad50b83c47b47d3e2263deb9bc9a", null ],
+    [ "m_statusTexts", "classActuatorSwitchViewModel.html#ac5ce8076e47bbceb258186f4d2b6a17f", null ],
+    [ "m_testBenchM", "classActuatorSwitchViewModel.html#aa92e1a2276ff89cf3fe1fec8dc3daa0f", null ],
+    [ "m_timer", "classActuatorSwitchViewModel.html#af1d2fbdac771837e111bc06c46eff63f", null ],
+    [ "m_udpChannel", "classActuatorSwitchViewModel.html#a74be5423c1959e7a68ea22b55431e35d", null ]
+];

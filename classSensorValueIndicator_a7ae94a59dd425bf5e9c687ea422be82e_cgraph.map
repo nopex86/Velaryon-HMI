@@ -1,0 +1,21 @@
+<map id="SensorValueIndicator::SensorValueIndicator" name="SensorValueIndicator::SensorValueIndicator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,132,172,172"/>
+<area shape="rect" id="Node000002" href="$classSensorValueIndicator.html#a4f6a6870b71970059f29bf2f0d807f96" title=" " alt="" coords="244,100,403,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,138,230,130,230,135,173,143"/>
+<area shape="rect" id="Node000010" href="$classSensorValueIndicatorViewModel.html#a9b9140aa7e50d7e90cd9e201aebd288e" title=" " alt="" coords="220,164,427,204"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="173,161,207,165,206,171,172,166"/>
+<area shape="rect" id="Node000003" href="$classSensorValueIndicatorViewModel.html#a52a37b6aa8c8b97cbeb288567d4ed2ae" title=" " alt="" coords="475,36,665,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="401,97,479,77,480,82,402,103"/>
+<area shape="rect" id="Node000008" href="$classSensorValueIndicatorViewModel.html#ae8d599ac6f9a95e0a1044ece62a0b122" title=" " alt="" coords="475,100,665,140"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="403,117,461,117,461,123,403,123"/>
+<area shape="rect" id="Node000009" href="$classSensorValueIndicatorViewModel.html#ac011b0951ebb10c0899640f7aa261402" title=" " alt="" coords="475,164,665,204"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="402,137,480,158,479,163,401,143"/>
+<area shape="rect" id="Node000004" href="$classTestBenchModel.html#ad20ac636e12877b99b3bf0e2ee8e5b07" title=" " alt="" coords="720,17,919,42"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="665,43,706,39,706,44,666,48"/>
+<area shape="rect" id="Node000006" href="$classTestBenchModel.html#ace6e3de6f5ccb11ee6e9b3f80b630377" title=" " alt="" coords="713,70,925,95"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="666,64,700,67,699,73,665,69"/>
+<area shape="rect" id="Node000005" href="$classTestBenchStatesList.html#a9c69f8c778b31be6b13d95caa7d618b9" title=" " alt="" coords="973,5,1125,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="919,25,959,24,960,30,919,30"/>
+<area shape="rect" id="Node000007" href="$classTestBenchStatesList.html#ad87ab49f0bb0081c228afd6dae8c9e57" title=" " alt="" coords="973,69,1125,109"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="926,83,960,84,960,89,926,88"/>
+</map>

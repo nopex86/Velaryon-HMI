@@ -1,0 +1,13 @@
+<map id="UdpChannel::~UdpChannel" name="UdpChannel::~UdpChannel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,204,56"/>
+<area shape="rect" id="Node000002" href="$classUdpChannel.html#a818443eac8b5aa21093fe3a1f39492a4" title=" " alt="" coords="252,31,447,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,41,238,41,238,46,204,46"/>
+<area shape="rect" id="Node000003" href="$classUdpLogger.html#a09b32cc5531b9db48cde09d12d1c321f" title=" " alt="" coords="535,5,663,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,31,521,23,521,28,447,36"/>
+<area shape="rect" id="Node000006" href="$classUdpChannel.html#a8e42a953d827d6a78a4867ba05b6a4ca" title=" " alt="" coords="495,55,703,80"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="447,50,481,53,481,59,446,55"/>
+<area shape="rect" id="Node000004" href="$classLogger.html#ad89b36eb9b5a28d1f61b3c74a6975031" title=" " alt="" coords="751,5,865,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="663,15,737,15,737,21,663,21"/>
+<area shape="rect" id="Node000005" href="$classLogger.html#a02453fd0695fe06c495de714399e8bf7" title=" " alt="" coords="913,5,1093,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="866,15,899,15,899,21,866,21"/>
+</map>

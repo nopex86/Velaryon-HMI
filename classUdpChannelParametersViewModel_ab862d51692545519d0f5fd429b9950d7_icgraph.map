@@ -1,0 +1,16 @@
+<map id="UdpChannelParametersViewModel::AdressParametersChanged" name="UdpChannelParametersViewModel::AdressParametersChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="529,101,775,141"/>
+<area shape="rect" id="Node000002" href="$classUdpChannelParametersViewModel.html#a00ef08623a9b85cdece98b48255ee8bd" title=" " alt="" coords="275,5,481,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="586,99,480,60,445,48,446,43,482,55,588,94"/>
+<area shape="rect" id="Node000004" href="$classUdpChannelParametersViewModel.html#a38975c21f7781921e242dafd4a049de3" title=" " alt="" coords="275,69,481,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="515,108,481,104,482,99,516,103"/>
+<area shape="rect" id="Node000005" href="$classUdpChannelParametersViewModel.html#ab718fa92039e5e499b93ead5d104f481" title=" " alt="" coords="275,133,481,173"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="516,140,482,144,481,139,515,135"/>
+<area shape="rect" id="Node000006" href="$classUdpChannelParametersViewModel.html#a7c63870f4facfa8e8c1570d8a3297b5e" title=" " alt="" coords="275,197,481,237"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="588,149,482,188,446,200,445,195,480,183,586,144"/>
+<area shape="rect" id="Node000003" href="$classUdpChannelParametersWidget.html#aef0927083aea2b20033b42465cb2b42f" title=" " alt="" coords="5,101,227,141"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="298,52,276,60,165,104,163,99,274,55,296,47"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="262,106,227,110,227,105,261,101"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="261,142,227,138,227,132,262,136"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="296,196,274,188,163,144,165,139,276,183,298,191"/>
+</map>

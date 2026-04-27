@@ -1,0 +1,9 @@
+<map id="TankPressureIndicador::onDataUpdate" name="TankPressureIndicador::onDataUpdate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,173,109"/>
+<area shape="rect" id="Node000002" href="$classTankPressureSettingsIndicatorViewModel.html#aa11e1234016bb0915e8d86cdd92e58ec" title=" " alt="" coords="221,5,447,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,67,243,46,245,51,167,72"/>
+<area shape="rect" id="Node000003" href="$classTankPressureSettingsIndicatorViewModel.html#a2ba421e06ae18e786ecc96ed2418f7ac" title=" " alt="" coords="225,69,443,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,87,211,87,211,92,174,92"/>
+<area shape="rect" id="Node000004" href="$classTankPressureSettingsIndicatorViewModel.html#aaa9cd7f9ba99808958a8297f9be51773" title=" " alt="" coords="225,133,443,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="167,107,245,127,243,132,166,112"/>
+</map>

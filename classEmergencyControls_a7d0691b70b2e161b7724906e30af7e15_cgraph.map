@@ -1,0 +1,13 @@
+<map id="EmergencyControls::EmergencyControls" name="EmergencyControls::EmergencyControls">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,163,67"/>
+<area shape="rect" id="Node000002" href="$classEmergencyControlsViewModel.html#ae77635067993ac4afca50a009a40d853" title=" " alt="" coords="211,27,432,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,45,197,45,197,50,163,50"/>
+<area shape="rect" id="Node000003" href="$classUdpChannel.html#a439664ce9bf094d21d0234a1943dfc07" title=" " alt="" coords="506,8,677,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="432,34,492,28,493,33,432,39"/>
+<area shape="rect" id="Node000005" href="$classTestBenchModel.html#a54c863e0fad71787463b3cca612b1ee3" title=" " alt="" coords="480,59,703,84"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="432,55,467,58,466,63,432,60"/>
+<area shape="rect" id="Node000004" href="$classProtocolCodec.html#a7d9ae5526622c37b683d418fd9f800c4" title=" " alt="" coords="767,5,937,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="677,17,753,16,753,22,677,22"/>
+<area shape="rect" id="Node000006" href="$classTestBenchModel.html#a0d3f80fa37e00cdbd143c2354d28d74f" title=" " alt="" coords="751,55,953,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="703,70,737,71,737,76,703,76"/>
+</map>

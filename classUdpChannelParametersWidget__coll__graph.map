@@ -1,0 +1,26 @@
+<map id="UdpChannelParametersWidget" name="UdpChannelParametersWidget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,2000,243,2125"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="67,1737,138,1803"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,1816,122,2000,117,2000,103,1817"/>
+<area shape="rect" id="Node000003" href="$classUdpChannelParametersViewModel.html" title=" " alt="" coords="163,1603,376,1937"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,1939,165,1986,160,1984,184,1936"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="285,5,352,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="277,76,254,99,234,127,219,158,213,192,213,1319,221,1464,240,1602,235,1603,216,1465,208,1319,208,191,214,156,229,124,250,96,273,72"/>
+<area shape="rect" id="Node000005" href="$classUdpChannel.html" title=" " alt="" coords="410,1095,590,1540"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="295,84,274,135,267,163,264,191,264,951,268,992,278,1033,293,1072,312,1109,360,1178,412,1235,408,1239,356,1181,308,1112,288,1074,272,1034,262,993,259,951,259,191,261,162,269,133,290,82"/>
+<area shape="rect" id="Node000006" href="$classUdpWorker.html" title=" " alt="" coords="299,867,512,1032"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="323,84,338,386,355,593,379,804,389,866,384,867,373,804,349,594,333,387,317,84"/>
+<area shape="rect" id="Node000008" href="$classLogger.html" title=" " alt="" coords="403,120,493,265"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="356,80,404,136,400,139,352,83"/>
+<area shape="rect" id="Node000009" href="$classFileSystem.html" title=" " alt="" coords="724,289,847,395"/>
+<area shape="poly" id="edge13_Node000009_Node000004" title=" " alt="" coords="366,53,434,81,507,118,569,158,630,203,731,287,727,291,626,207,566,163,504,122,432,86,364,58"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="412,1496,364,1589,360,1587,407,1493"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="429,1032,441,1078,436,1079,424,1033"/>
+<area shape="rect" id="Node000007" href="$classUdpLogger.html" title=" " alt="" coords="475,419,653,804"/>
+<area shape="poly" id="edge15_Node000005_Node000007" title=" " alt="" coords="561,804,554,936,543,1071,542,1078,537,1078,537,1070,549,935,556,804"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="478,769,449,829,440,852,435,850,444,827,473,767"/>
+<area shape="poly" id="edge14_Node000005_Node000008" title=" " alt="" coords="495,258,501,263,521,272,540,274,559,277,580,287,614,316,637,343,653,375,667,418,692,509,709,587,718,658,720,725,715,792,703,862,661,1033,635,1105,601,1173,596,1170,630,1103,656,1031,698,861,710,791,715,725,713,658,704,588,687,510,661,419,648,377,632,346,611,320,577,292,557,282,539,280,520,278,499,268,492,262"/>
+<area shape="poly" id="edge11_Node000006_Node000008" title=" " alt="" coords="428,266,409,340,395,419,385,527,384,611,395,804,398,850,392,851,389,804,379,611,379,526,389,418,404,338,423,265"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="471,265,509,402,504,403,465,266"/>
+<area shape="poly" id="edge12_Node000005_Node000009" title=" " alt="" coords="795,395,805,521,807,603,805,694,796,789,780,887,753,982,716,1072,692,1113,664,1153,603,1223,599,1220,660,1149,687,1110,711,1069,748,980,775,885,791,789,800,693,802,603,800,521,790,395"/>
+</map>

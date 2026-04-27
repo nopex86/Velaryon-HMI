@@ -1,0 +1,9 @@
+<map id="LogTerminalViewModel::displayLog" name="LogTerminalViewModel::displayLog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="505,37,679,77"/>
+<area shape="rect" id="Node000002" href="$classlogTerminalFrame.html#a7775d4ca9aff415f1d59f6369ccf4759" title=" " alt="" coords="235,5,457,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,47,457,42,458,37,492,42"/>
+<area shape="rect" id="Node000003" href="$classLogTerminalViewModel.html#a9f667ac6e725a43bf51fb1f5823da492" title=" " alt="" coords="259,69,433,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="492,73,433,81,433,75,492,68"/>
+<area shape="rect" id="Node000004" href="$classLogTerminalViewModel.html#add61286fc0c8ef4f527f043846caa1b3" title=" " alt="" coords="5,69,187,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="245,92,187,92,187,87,245,87"/>
+</map>

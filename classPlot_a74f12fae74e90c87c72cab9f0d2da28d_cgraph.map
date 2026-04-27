@@ -1,0 +1,21 @@
+<map id="Plot::onCurvesValuesChanged" name="Plot::onCurvesValuesChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,221,80"/>
+<area shape="rect" id="Node000002" href="$classPlotViewModel.html#aa3ecb219bfb82a46bf07c5986a7cc8d5" title=" " alt="" coords="269,5,476,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,52,291,31,292,36,181,57"/>
+<area shape="rect" id="Node000003" href="$classPlotViewModel.html#aa174ada724c54f97d5b902de2ea49fc7" title=" " alt="" coords="281,55,465,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,65,267,65,267,70,222,70"/>
+<area shape="rect" id="Node000006" href="$classPlot.html#a35a46b3d250dc882d2ca1c90ab9c12fd" title=" " alt="" coords="289,104,456,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="181,77,292,99,291,104,180,83"/>
+<area shape="rect" id="Node000004" href="$classTestBenchModel.html#ad20ac636e12877b99b3bf0e2ee8e5b07" title=" " alt="" coords="543,55,742,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="465,65,529,65,529,70,465,70"/>
+<area shape="rect" id="Node000005" href="$classTestBenchStatesList.html#a9c69f8c778b31be6b13d95caa7d618b9" title=" " alt="" coords="839,47,991,87"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="742,65,825,65,825,70,742,70"/>
+<area shape="rect" id="Node000007" href="$classPlotViewModel.html#ae26a88941efd10822339dee4c2463c69" title=" " alt="" coords="524,104,761,129"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="456,114,510,114,510,119,456,119"/>
+<area shape="rect" id="Node000008" href="$classPlotViewModel.html#a4f68a4b4160583b92cad8aa82c694445" title=" " alt="" coords="543,153,742,179"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="443,127,559,148,558,153,442,132"/>
+<area shape="rect" id="Node000009" href="$classTestBenchModel.html#ace6e3de6f5ccb11ee6e9b3f80b630377" title=" " alt="" coords="809,153,1021,179"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="742,163,796,163,796,169,742,169"/>
+<area shape="rect" id="Node000010" href="$classTestBenchStatesList.html#ad87ab49f0bb0081c228afd6dae8c9e57" title=" " alt="" coords="1069,146,1221,186"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1022,163,1056,163,1056,169,1022,169"/>
+</map>

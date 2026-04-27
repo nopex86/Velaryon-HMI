@@ -1,0 +1,17 @@
+<map id="TestLauncherViewModel::TestLauncherViewModel" name="TestLauncherViewModel::TestLauncherViewModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,92,192,132"/>
+<area shape="rect" id="Node000002" href="$classUdpChannel.html#a365d3463ec51e0e296cf7cd1dee7ed61" title=" " alt="" coords="240,5,431,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,89,239,55,260,47,262,52,241,60,151,94"/>
+<area shape="rect" id="Node000003" href="$classTxtParser.html#a7cd1923d1d1fa00cc53ef4ce794a830b" title=" " alt="" coords="257,70,414,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,98,242,91,243,97,192,103"/>
+<area shape="rect" id="Node000004" href="$classTestLauncherViewModel.html#a3843fc648d675f2770fd7780b104e477" title=" " alt="" coords="246,120,425,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,120,233,125,232,130,192,126"/>
+<area shape="rect" id="Node000006" href="$classTestLauncherViewModel.html#a265a1e3bb839de77a7439a4c3dc08c0f" title=" " alt="" coords="246,184,425,224"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="145,130,241,170,261,177,259,182,239,174,143,135"/>
+<area shape="rect" id="Node000005" href="$classTestLauncherViewModel.html#a34b64a79fa056641a062bf36bd74f118" title=" " alt="" coords="479,120,701,160"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="425,137,465,137,465,143,425,143"/>
+<area shape="rect" id="Node000007" href="$classTestBenchModel.html#a54c863e0fad71787463b3cca612b1ee3" title=" " alt="" coords="479,191,701,217"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="425,201,465,201,465,207,425,207"/>
+<area shape="rect" id="Node000008" href="$classTestBenchModel.html#a0d3f80fa37e00cdbd143c2354d28d74f" title=" " alt="" coords="749,184,952,224"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="701,201,735,201,735,207,701,207"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="features/parameters_window/ParametersWindowFactory.cpp" name="features/parameters_window/ParametersWindowFactory.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="222,5,503,45"/>
+<area shape="rect" id="Node000002" href="$ParametersWindowFactory_8h.html" title=" " alt="" coords="5,108,211,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="312,48,153,106,151,101,310,43"/>
+<area shape="rect" id="Node000005" href="$UdpChannelParametersViewModel_8h.html" title=" " alt="" coords="235,93,490,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="365,45,365,80,360,80,360,45"/>
+<area shape="rect" id="Node000007" href="$AppViewModels_8h.html" title=" " alt="" coords="515,101,685,141"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="412,43,540,93,539,98,410,48"/>
+<area shape="rect" id="Node000003" href="$ParametersWindow_8h.html" title=" " alt="" coords="29,196,187,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,134,111,182,105,182,105,134"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="69,269,147,295"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="111,222,111,256,105,256,105,222"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="391,196,465,221"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="385,146,413,183,409,187,381,150"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="563,143,464,192,462,187,561,138"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="557,196,643,221"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="603,141,603,182,597,182,597,141"/>
+</map>

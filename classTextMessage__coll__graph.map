@@ -1,0 +1,5 @@
+<map id="TextMessage" name="TextMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="10,119,109,204"/>
+<area shape="rect" id="Node000002" href="$classMessage.html" title=" " alt="" coords="5,5,113,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,85,62,119,57,119,57,85"/>
+</map>

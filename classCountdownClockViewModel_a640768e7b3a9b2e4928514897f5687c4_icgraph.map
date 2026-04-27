@@ -1,0 +1,12 @@
+<map id="CountdownClockViewModel::timeRemainingChanged" name="CountdownClockViewModel::timeRemainingChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="516,33,719,73"/>
+<area shape="rect" id="Node000002" href="$classCountdownClock.html#a94ddc7083c6d17d893edab847642a719" title=" " alt="" coords="5,5,217,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="524,33,468,24,338,17,218,20,217,15,338,12,468,19,525,28"/>
+<area shape="rect" id="Node000003" href="$classCountdownClockViewModel.html#a6d6d3c5d244c8895e6c007e9c181efbb" title=" " alt="" coords="265,33,468,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="502,56,468,56,468,51,502,51"/>
+<area shape="rect" id="Node000004" href="$classCountdownClockViewModel.html#a5eb9f9880bdbf202ed03a5ba7ebbc97d" title=" " alt="" coords="265,97,468,137"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="526,79,446,100,445,95,525,74"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="251,43,217,40,218,34,252,38"/>
+<area shape="rect" id="Node000005" href="$classCountdownClockViewModel.html#a3b9e3bc4f0c549d6b0438fd88880fb00" title=" " alt="" coords="6,97,217,137"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="252,120,217,120,217,115,252,115"/>
+</map>

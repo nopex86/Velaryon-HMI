@@ -1,0 +1,9 @@
+<map id="TankPressureControlerViewModel::onPressureSettingSelected" name="TankPressureControlerViewModel::onPressureSettingSelected">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,249,77"/>
+<area shape="rect" id="Node000002" href="$classTankPressureControlerViewModel.html#a0c190a166a82209847f4b07e2133a753" title=" " alt="" coords="297,5,527,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,41,284,37,284,42,250,46"/>
+<area shape="rect" id="Node000003" href="$classPressureTanksModel.html#a8912c60be7aadfe6ff24fa9a52ce839e" title=" " alt="" coords="335,69,489,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,68,321,76,320,82,249,74"/>
+<area shape="rect" id="Node000004" href="$classPressureTanksModel.html#acc5628f0ceb33f3c0a87fe7b3807015a" title=" " alt="" coords="575,69,764,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="489,87,561,87,561,92,489,92"/>
+</map>

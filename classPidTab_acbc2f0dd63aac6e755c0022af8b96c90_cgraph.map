@@ -1,0 +1,30 @@
+<map id="PidTab::PidTab" name="PidTab::PidTab">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,262,120,287"/>
+<area shape="rect" id="Node000002" href="$classStatusTableWidget.html#a76e50b9a999c694b5d10763bd7473303" title=" " alt="" coords="202,133,353,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,260,112,222,138,201,167,183,188,173,190,178,169,188,142,205,116,226,77,264"/>
+<area shape="rect" id="Node000008" href="$classPidLayout.html#ad2b4fc86313cf6591f70bb093d8c6129" title=" " alt="" coords="195,262,359,287"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="120,272,182,272,182,277,120,277"/>
+<area shape="rect" id="Node000009" href="$classActuatorSwitchViewModel.html#a83e42640f24a341b32969d3a27dd0bc9" title=" " alt="" coords="181,37,373,77"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="68,260,105,196,133,156,166,119,192,99,219,82,222,86,195,103,170,123,137,159,109,199,73,263"/>
+<area shape="rect" id="Node000010" href="$classSensorValueIndicatorViewModel.html#aef0edfa7841cfd3c72b35d2c9dad4b20" title=" " alt="" coords="182,312,373,352"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="112,285,190,306,188,311,110,290"/>
+<area shape="rect" id="Node000011" href="$classSensorValueIndicatorViewModel.html#a60d7e4b92a185d13cc2c8460302e1e01" title=" " alt="" coords="182,376,373,416"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="77,286,116,323,142,344,169,362,183,368,180,373,167,366,138,348,112,327,74,289"/>
+<area shape="rect" id="Node000012" href="$classActuatorSwitchViewModel.html#ab4c09aa374e91472f687b5c0c4374548" title=" " alt="" coords="181,197,373,237"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="110,259,188,238,190,243,112,265"/>
+<area shape="rect" id="Node000013" href="$classTankPressureSettingsIndicatorViewModel.html#ab9f9c0e59cadaa1146ecb3b7c5bde7a4" title=" " alt="" coords="168,440,387,480"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="71,286,106,353,134,392,170,426,178,431,175,436,166,430,130,396,101,356,67,289"/>
+<area shape="rect" id="Node000003" href="$classActuatorSwitchViewModel.html#a166e3b6ceb009e6c088837c83b6ca62a" title=" " alt="" coords="435,5,627,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="312,131,385,87,409,70,433,55,449,48,451,53,436,60,412,75,388,92,315,136"/>
+<area shape="rect" id="Node000004" href="$classActuatorSwitchViewModel.html#a7aaf2fb748566dee79c0bd0945fcc51b" title=" " alt="" coords="435,261,627,301"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="354,166,388,183,405,199,413,216,421,232,436,247,445,253,442,257,433,251,417,235,408,218,400,203,385,187,352,171"/>
+<area shape="rect" id="Node000005" href="$classActuatorSwitchViewModel.html#a3bbde8da90b8046f19e61bf927ca500d" title=" " alt="" coords="435,197,627,237"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="354,170,439,191,437,197,352,175"/>
+<area shape="rect" id="Node000006" href="$classActuatorSwitchViewModel.html#a2461315c8f0335feb9a6f33b94e23734" title=" " alt="" coords="435,133,627,173"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="353,151,421,151,421,156,353,156"/>
+<area shape="rect" id="Node000007" href="$classActuatorSwitchWidget.html#a42152c89d1cb6de91e28cacdd673026c" title=" " alt="" coords="447,69,614,109"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="352,132,437,110,439,115,354,137"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="373,43,421,36,422,42,374,48"/>
+<area shape="poly" id="edge13_Node000012_Node000004" title=" " alt="" coords="358,235,438,255,437,261,357,240"/>
+<area shape="poly" id="edge14_Node000012_Node000005" title=" " alt="" coords="373,215,421,215,421,220,373,220"/>
+</map>

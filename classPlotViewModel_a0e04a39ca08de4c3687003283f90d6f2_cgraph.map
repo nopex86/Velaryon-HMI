@@ -1,0 +1,15 @@
+<map id="PlotViewModel::PlotViewModel" name="PlotViewModel::PlotViewModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,99,229,125"/>
+<area shape="rect" id="Node000002" href="$classPlotViewModel.html#afa427002b5ebcd80b47eaf73b57e2f6a" title=" " alt="" coords="281,5,500,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,97,277,56,307,47,308,52,278,61,157,102"/>
+<area shape="rect" id="Node000004" href="$classPlotViewModel.html#a62f58f43a0e9361771712694affd307b" title=" " alt="" coords="277,70,504,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,97,264,94,264,99,230,103"/>
+<area shape="rect" id="Node000006" href="$classTestBenchModel.html#afbee1c04744de5e49352a90f5f87f6f1" title=" " alt="" coords="291,120,490,160"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="230,121,278,126,278,131,229,126"/>
+<area shape="rect" id="Node000007" href="$classTimer.html#ab8b4318d87a4ce20f552168be58dce1f" title=" " alt="" coords="331,185,450,210"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="150,122,209,146,278,169,318,180,317,185,277,175,207,151,148,127"/>
+<area shape="rect" id="Node000003" href="$classPlotViewModel.html#aad9e6d7cb039bad3252242d1003f0946" title=" " alt="" coords="552,5,765,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="500,23,538,23,538,28,500,28"/>
+<area shape="rect" id="Node000005" href="$classPlotViewModel.html#a28a8ef3da5f027fba87a8edb8fbf4235" title=" " alt="" coords="576,70,741,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="504,80,562,80,562,85,504,85"/>
+</map>

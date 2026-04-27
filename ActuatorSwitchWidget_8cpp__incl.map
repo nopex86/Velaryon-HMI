@@ -1,0 +1,17 @@
+<map id="features/pid/actuator/ActuatorSwitchWidget.cpp" name="features/pid/actuator/ActuatorSwitchWidget.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="266,5,463,45"/>
+<area shape="rect" id="Node000002" href="$ActuatorSwitchWidget_8h.html" title=" " alt="" coords="57,93,235,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="313,48,192,91,190,86,311,43"/>
+<area shape="rect" id="Node000006" href="$ActuatorSwitchViewModel_8h.html" title=" " alt="" coords="263,93,467,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="367,46,367,79,362,79,362,46"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="491,93,601,119"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="409,43,508,85,506,90,407,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,167,84,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,121,74,161,71,156,128,116"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="109,167,175,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="148,119,146,153,141,153,143,119"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="199,167,306,192"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="165,116,225,157,222,161,162,121"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="330,167,405,192"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="368,119,369,153,364,153,362,119"/>
+</map>

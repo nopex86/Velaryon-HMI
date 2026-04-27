@@ -1,0 +1,9 @@
+<map id="features/communication/udp/ui/UdpChannelParametersWidget.h" name="features/communication/udp/ui/UdpChannelParametersWidget.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="67,5,290,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,108,115,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,62,89,102,86,98,141,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="139,108,218,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,60,181,94,176,94,176,60"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="242,108,326,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,58,261,97,257,101,209,62"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="features/pid/misc/CloseButtonWidget.h" name="features/pid/misc/CloseButtonWidget.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="125,5,343,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,84,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,48,86,90,84,85,188,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="109,93,215,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,47,184,85,180,81,215,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="240,93,375,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="254,44,289,81,285,85,250,47"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="399,93,514,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="288,43,412,86,410,91,286,48"/>
+</map>

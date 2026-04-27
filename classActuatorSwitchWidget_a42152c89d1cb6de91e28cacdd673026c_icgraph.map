@@ -1,0 +1,7 @@
+<map id="ActuatorSwitchWidget::viewModel" name="ActuatorSwitchWidget::viewModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="367,5,533,45"/>
+<area shape="rect" id="Node000002" href="$classStatusTableWidget.html#a76e50b9a999c694b5d10763bd7473303" title=" " alt="" coords="168,5,319,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="353,28,319,28,319,23,353,23"/>
+<area shape="rect" id="Node000003" href="$classPidTab.html#acbc2f0dd63aac6e755c0022af8b96c90" title=" " alt="" coords="5,13,120,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,28,120,28,120,23,154,23"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="AppViewModel::AppViewModel" name="AppViewModel::AppViewModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,229,80"/>
+<area shape="rect" id="Node000002" href="$classAppModels.html#a2d0944cd53cdeb58a13e0b66e3b10bdf" title=" " alt="" coords="318,5,461,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,52,304,31,305,36,189,57"/>
+<area shape="rect" id="Node000003" href="$classAppServices.html#a5e4c7f374537c081ee46a028b19d4456" title=" " alt="" coords="314,55,465,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,65,300,65,300,70,229,70"/>
+<area shape="rect" id="Node000004" href="$classAppViewModel.html#ad41487445a2eca2c94c868ee88a5d105" title=" " alt="" coords="277,104,501,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="189,77,305,99,304,104,188,83"/>
+</map>

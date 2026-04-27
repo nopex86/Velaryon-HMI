@@ -1,0 +1,40 @@
+<map id="features/communication/udp/frames_logger/UdpLogger.h" name="features/communication/udp/frames_logger/UdpLogger.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2491,5,2724,45"/>
+<area shape="rect" id="Node000002" href="$UdpChannel_8h.html" title=" " alt="" coords="1770,93,1951,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2477,44,1952,104,1951,99,2477,39"/>
+<area shape="rect" id="Node000018" href="$UdpWorker_8h.html" title=" " alt="" coords="3386,93,3567,133"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="2738,37,3386,100,3385,106,2738,42"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html" title=" " alt="" coords="5,196,116,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1756,117,1409,118,938,126,695,134,469,146,274,162,128,184,85,198,83,193,127,179,274,157,468,141,695,128,937,120,1409,112,1756,111"/>
+<area shape="rect" id="Node000004" href="$UdpChannel_8cpp.html" title=" " alt="" coords="3386,189,3567,229"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1965,114,2272,121,2678,133,3081,152,3248,165,3374,179,3411,186,3410,191,3374,184,3247,170,3080,158,2678,139,2272,126,1965,119"/>
+<area shape="rect" id="Node000005" href="$UdpChannelParametersViewModel_8cpp.html" title=" " alt="" coords="140,181,363,236"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1756,116,1511,117,1168,125,775,146,573,162,376,184,363,186,362,180,375,179,572,157,774,140,1168,120,1511,112,1756,111"/>
+<area shape="rect" id="Node000006" href="$CsvExporter_8cpp.html" title=" " alt="" coords="387,189,545,229"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="1757,120,1489,127,1143,140,804,159,664,170,557,184,525,191,524,186,556,179,663,165,803,153,1143,134,1489,122,1756,114"/>
+<area shape="rect" id="Node000007" href="$ActuatorSwitchViewModel_8cpp.html" title=" " alt="" coords="569,189,792,229"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="1756,119,1575,124,1338,135,1072,154,804,184,761,191,760,186,803,179,1071,149,1338,130,1575,119,1756,114"/>
+<area shape="rect" id="Node000008" href="$InitialiseValveButtonViewModel_8cpp.html" title=" " alt="" coords="816,181,1052,236"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1756,122,1446,143,1256,161,1065,184,1053,186,1052,181,1064,179,1255,156,1445,138,1756,117"/>
+<area shape="rect" id="Node000009" href="$TestBenchModel_8cpp.html" title=" " alt="" coords="1077,196,1319,221"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="1756,128,1559,152,1332,184,1253,198,1252,193,1331,179,1558,146,1756,123"/>
+<area shape="rect" id="Node000010" href="$CountDownClockViewModel_8cpp.html" title=" " alt="" coords="1343,181,1597,236"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="1769,139,1580,184,1579,179,1768,134"/>
+<area shape="rect" id="Node000011" href="$EmergencyControlsViewModel_8cpp.html" title=" " alt="" coords="1621,181,1855,236"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="1827,144,1774,183,1771,179,1823,140"/>
+<area shape="rect" id="Node000012" href="$TankPressureControlerViewModel_8cpp.html" title=" " alt="" coords="1879,181,2087,236"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="1898,140,1950,179,1947,183,1895,144"/>
+<area shape="rect" id="Node000013" href="$LogTerminalViewModel_8cpp.html" title=" " alt="" coords="2112,189,2375,229"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="1952,134,2167,186,2165,191,1951,139"/>
+<area shape="rect" id="Node000014" href="$TestLauncherViewModel_8cpp.html" title=" " alt="" coords="2399,181,2602,236"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="1965,122,2161,145,2386,179,2399,181,2398,186,2386,184,2161,150,1965,128"/>
+<area shape="rect" id="Node000015" href="$AppModels_8cpp.html" title=" " alt="" coords="2626,196,2845,221"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="1965,117,2258,138,2436,156,2614,179,2689,193,2688,199,2614,184,2436,161,2258,143,1965,123"/>
+<area shape="rect" id="Node000016" href="$AppViewModels_8cpp.html" title=" " alt="" coords="2869,196,3151,221"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="1966,116,2358,135,2607,154,2857,179,2952,193,2951,199,2856,184,2606,159,2358,141,1965,121"/>
+<area shape="rect" id="Node000017" href="$AppServices_8cpp.html" title=" " alt="" coords="3175,196,3362,221"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="1965,115,2578,137,2917,155,3057,166,3164,179,3231,193,3229,199,3163,184,3056,172,2916,161,2578,142,1965,120"/>
+<area shape="poly" id="edge18_Node000018_Node000004" title=" " alt="" coords="3479,147,3479,189,3474,189,3474,147"/>
+<area shape="rect" id="Node000019" href="$UdpWorker_8cpp.html" title=" " alt="" coords="3591,189,3773,229"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="3532,136,3642,186,3639,191,3529,141"/>
+</map>

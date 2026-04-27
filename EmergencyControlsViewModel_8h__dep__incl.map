@@ -1,0 +1,13 @@
+<map id="features/test/frames/emergency_controls/EmergencyControlsViewModel.h" name="features/test/frames/emergency_controls/EmergencyControlsViewModel.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="499,5,733,60"/>
+<area shape="rect" id="Node000002" href="$TestTabFactory_8cpp.html" title=" " alt="" coords="5,123,235,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="485,63,247,111,176,125,175,120,246,105,484,58"/>
+<area shape="rect" id="Node000003" href="$TestTabView_8cpp.html" title=" " alt="" coords="259,123,474,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="539,68,396,125,394,120,537,63"/>
+<area shape="rect" id="Node000004" href="$EmergencyControlsViewModel_8cpp.html" title=" " alt="" coords="499,108,733,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="619,74,619,108,613,108,613,74"/>
+<area shape="rect" id="Node000005" href="$EmergencyControlsWidget_8cpp.html" title=" " alt="" coords="757,108,992,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="697,62,808,105,806,110,695,67"/>
+<area shape="rect" id="Node000006" href="$AppViewModels_8cpp.html" title=" " alt="" coords="1016,123,1299,148"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="747,56,1096,120,1095,125,746,61"/>
+</map>

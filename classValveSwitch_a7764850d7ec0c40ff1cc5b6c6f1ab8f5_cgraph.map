@@ -1,0 +1,38 @@
+<map id="ValveSwitch::ValveSwitch" name="ValveSwitch::ValveSwitch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,463,193,489"/>
+<area shape="rect" id="Node000002" href="$classActuatorSwitchWidget.html#af9fbb6ab5d0db3b3f6d6db92c7321f5b" title=" " alt="" coords="254,191,421,231"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,461,307,239,311,243,114,465"/>
+<area shape="rect" id="Node000011" href="$classActuatorSwitchViewModel.html#a7aaf2fb748566dee79c0bd0945fcc51b" title=" " alt="" coords="728,437,920,477"/>
+<area shape="poly" id="edge21_Node000001_Node000011" title=" " alt="" coords="193,475,241,476,433,476,714,462,714,468,433,481,241,481,193,481"/>
+<area shape="rect" id="Node000013" href="$classActuatorSwitchViewModel.html#abb67d1899e1a26b54ccb4fa65697aa6c" title=" " alt="" coords="241,541,433,581"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="137,486,269,534,267,539,135,491"/>
+<area shape="rect" id="Node000014" href="$classActuatorSwitchViewModel.html#a4fa61faec85a1b3faec129ddfa4cea77" title=" " alt="" coords="241,427,433,467"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="193,462,227,458,228,463,194,467"/>
+<area shape="rect" id="Node000003" href="$classActuatorSwitchViewModel.html#ac7d234b190065d18a12df125de8834bc" title=" " alt="" coords="485,69,677,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="365,188,417,154,480,119,497,112,499,117,483,124,420,158,368,193"/>
+<area shape="rect" id="Node000006" href="$classActuatorSwitchViewModel.html#ad30eea0fa195ce8ceb374c6d72e93be9" title=" " alt="" coords="485,5,677,45"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="350,189,402,123,439,87,480,55,491,49,493,53,483,60,442,91,406,127,355,192"/>
+<area shape="rect" id="Node000007" href="$classActuatorSwitchViewModel.html#a15d5e4d185627320177372f1f5402c29" title=" " alt="" coords="485,248,677,288"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="421,228,483,242,481,247,420,233"/>
+<area shape="rect" id="Node000008" href="$classActuatorSwitchViewModel.html#a3bbde8da90b8046f19e61bf927ca500d" title=" " alt="" coords="728,248,920,288"/>
+<area shape="poly" id="edge13_Node000002_Node000008" title=" " alt="" coords="421,211,544,218,680,233,730,243,729,248,680,239,543,224,421,216"/>
+<area shape="rect" id="Node000009" href="$classActuatorSwitchViewModel.html#a166e3b6ceb009e6c088837c83b6ca62a" title=" " alt="" coords="485,133,677,173"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="420,189,481,174,483,179,421,194"/>
+<area shape="rect" id="Node000010" href="$classActuatorSwitchWidget.html#a8eaf017f8cd7fcdc7e144fdfe7a2778b" title=" " alt="" coords="481,376,680,416"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="355,229,406,294,442,331,483,362,493,368,491,372,480,366,439,335,402,298,350,233"/>
+<area shape="rect" id="Node000004" href="$classUdpChannel.html#a439664ce9bf094d21d0234a1943dfc07" title=" " alt="" coords="739,45,909,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="676,74,725,68,726,73,677,79"/>
+<area shape="rect" id="Node000005" href="$classProtocolCodec.html#a7d9ae5526622c37b683d418fd9f800c4" title=" " alt="" coords="968,45,1139,70"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="910,55,954,55,954,60,910,60"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="677,35,726,42,725,47,676,41"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="677,265,714,265,714,271,677,271"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="661,413,731,431,730,436,660,419"/>
+<area shape="rect" id="Node000012" href="$classActuatorSwitchViewModel.html#a2461315c8f0335feb9a6f33b94e23734" title=" " alt="" coords="728,373,920,413"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="680,392,714,392,714,397,680,398"/>
+<area shape="poly" id="edge15_Node000013_Node000011" title=" " alt="" coords="433,556,552,545,616,535,679,520,729,502,774,481,776,486,731,507,681,525,617,540,553,550,434,561"/>
+<area shape="poly" id="edge20_Node000014_Node000011" title=" " alt="" coords="434,446,714,452,714,458,434,451"/>
+<area shape="rect" id="Node000015" href="$classActuatorSwitchViewModel.html#ab4c09aa374e91472f687b5c0c4374548" title=" " alt="" coords="485,312,677,352"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="368,424,420,393,480,362,498,354,500,359,482,366,422,397,371,429"/>
+<area shape="poly" id="edge19_Node000015_Node000008" title=" " alt="" coords="657,309,734,289,735,294,658,315"/>
+<area shape="poly" id="edge18_Node000015_Node000011" title=" " alt="" coords="660,350,682,362,698,378,706,393,715,408,730,423,738,429,735,433,726,427,710,412,702,396,693,381,678,366,658,355"/>
+</map>

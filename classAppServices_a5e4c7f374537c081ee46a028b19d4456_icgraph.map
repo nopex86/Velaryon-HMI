@@ -1,0 +1,9 @@
+<map id="AppServices::create" name="AppServices::create">
+<area shape="rect" id="Node000001" title=" " alt="" coords="277,55,428,80"/>
+<area shape="rect" id="Node000002" href="$classAppModels.html#a673bac89e82b54741c72d63a2317e25a" title=" " alt="" coords="30,5,205,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,54,178,33,179,28,279,49"/>
+<area shape="rect" id="Node000003" href="$classAppViewModel.html#a856d7ba901d8c9c6069730ac8b9d9d84" title=" " alt="" coords="5,55,229,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,70,230,70,230,65,264,65"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="90,104,145,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="279,85,145,114,144,109,278,80"/>
+</map>

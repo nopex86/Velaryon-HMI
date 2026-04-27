@@ -1,0 +1,19 @@
+<map id="features/communication/udp/ui/UdpChannelParametersWidget.cpp" name="features/communication/udp/ui/UdpChannelParametersWidget.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="319,5,542,60"/>
+<area shape="rect" id="Node000002" href="$UdpChannelParametersWidget_8h.html" title=" " alt="" coords="62,115,295,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="361,63,223,113,221,108,359,58"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="319,115,430,141"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="417,62,391,105,387,102,412,59"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="455,115,521,141"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="449,59,476,102,471,105,445,62"/>
+<area shape="rect" id="Node000008" href="$UdpChannelParametersViewModel_8h.html" title=" " alt="" coords="546,108,753,148"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="493,58,594,100,592,105,491,63"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,196,115,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="163,143,91,190,88,186,160,139"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="139,196,218,221"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="181,141,181,182,176,182,176,141"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="242,196,326,221"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="196,139,259,186,256,190,193,143"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="612,196,687,221"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="652,148,652,182,647,182,647,148"/>
+</map>

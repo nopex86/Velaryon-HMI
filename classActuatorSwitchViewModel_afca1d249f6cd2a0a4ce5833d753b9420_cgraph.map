@@ -1,0 +1,19 @@
+<map id="ActuatorSwitchViewModel::updateStatus" name="ActuatorSwitchViewModel::updateStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,116,197,156"/>
+<area shape="rect" id="Node000002" href="$classTestBenchModel.html#ad20ac636e12877b99b3bf0e2ee8e5b07" title=" " alt="" coords="252,17,451,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,114,185,85,244,58,285,43,286,48,246,62,188,90,137,118"/>
+<area shape="rect" id="Node000004" href="$classTestBenchModel.html#ace6e3de6f5ccb11ee6e9b3f80b630377" title=" " alt="" coords="245,73,457,98"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,114,274,98,275,103,198,119"/>
+<area shape="rect" id="Node000006" href="$classActuatorSwitchViewModel.html#ab4c09aa374e91472f687b5c0c4374548" title=" " alt="" coords="255,173,447,213"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="190,153,251,168,250,173,189,159"/>
+<area shape="rect" id="Node000007" href="$classActuatorSwitchViewModel.html#a7aaf2fb748566dee79c0bd0945fcc51b" title=" " alt="" coords="505,140,697,180"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="198,138,492,152,491,157,197,143"/>
+<area shape="rect" id="Node000008" href="$classActuatorSwitchViewModel.html#a3bbde8da90b8046f19e61bf927ca500d" title=" " alt="" coords="505,219,697,259"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="128,154,180,191,212,209,246,223,308,237,372,245,434,247,492,246,492,252,434,253,371,250,307,242,245,228,210,214,177,196,124,158"/>
+<area shape="rect" id="Node000003" href="$classTestBenchStatesList.html#a9c69f8c778b31be6b13d95caa7d618b9" title=" " alt="" coords="525,5,677,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,25,512,24,512,29,451,30"/>
+<area shape="rect" id="Node000005" href="$classTestBenchStatesList.html#ad87ab49f0bb0081c228afd6dae8c9e57" title=" " alt="" coords="525,69,677,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="458,84,512,85,511,91,458,90"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="447,178,491,172,492,177,448,183"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="448,208,492,216,491,221,447,213"/>
+</map>

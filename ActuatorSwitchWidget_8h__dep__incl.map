@@ -1,0 +1,18 @@
+<map id="features/pid/actuator/ActuatorSwitchWidget.h" name="features/pid/actuator/ActuatorSwitchWidget.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="342,5,525,45"/>
+<area shape="rect" id="Node000002" href="$ActuatorSwitchWidget_8cpp.html" title=" " alt="" coords="5,93,203,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="349,51,177,96,175,91,347,46"/>
+<area shape="rect" id="Node000003" href="$StatusTableWidget_8cpp.html" title=" " alt="" coords="227,93,402,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="397,56,342,95,339,91,394,51"/>
+<area shape="rect" id="Node000004" href="$GlowPlugSwitchWidget_8h.html" title=" " alt="" coords="427,93,677,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="472,51,527,91,524,95,469,56"/>
+<area shape="rect" id="Node000007" href="$ValveSwitchWidget_8h.html" title=" " alt="" coords="701,93,904,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="528,46,722,91,721,96,527,51"/>
+<area shape="rect" id="Node000005" href="$PidTab_8cpp.html" title=" " alt="" coords="603,189,776,214"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="595,138,672,186,670,191,592,143"/>
+<area shape="rect" id="Node000006" href="$GlowPlugSwitchWidget_8cpp.html" title=" " alt="" coords="312,181,579,221"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="519,144,471,183,467,179,516,140"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="768,144,707,190,703,186,765,140"/>
+<area shape="rect" id="Node000008" href="$ValveSwitchWidget_8cpp.html" title=" " alt="" coords="800,181,1019,221"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="839,140,887,179,884,183,835,144"/>
+</map>

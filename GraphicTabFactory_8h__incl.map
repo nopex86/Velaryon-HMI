@@ -1,0 +1,13 @@
+<map id="features/graphics/GraphicTabFactory.h" name="features/graphics/GraphicTabFactory.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,5,296,45"/>
+<area shape="rect" id="Node000002" href="$AppViewModels_8h.html" title=" " alt="" coords="27,93,197,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,48,144,86,140,82,180,44"/>
+<area shape="rect" id="Node000005" href="$GraphicTabView_8h.html" title=" " alt="" coords="222,101,359,126"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="223,44,270,89,267,93,219,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,181,80,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,135,64,172,60,169,93,132"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="105,181,191,207"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="123,132,139,167,134,170,118,135"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="251,181,330,207"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="293,126,293,167,288,167,288,126"/>
+</map>

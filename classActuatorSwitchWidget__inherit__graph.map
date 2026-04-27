@@ -1,0 +1,9 @@
+<map id="ActuatorSwitchWidget" name="ActuatorSwitchWidget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="50,119,258,424"/>
+<area shape="rect" id="Node000003" href="$classGlowPlugSwitch.html" title=" " alt="" coords="5,472,148,537"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="101,438,90,473,85,471,96,437"/>
+<area shape="rect" id="Node000004" href="$classValveSwitch.html" title=" " alt="" coords="173,472,290,537"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,437,223,471,218,473,207,438"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="121,5,187,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,84,157,119,151,119,151,84"/>
+</map>

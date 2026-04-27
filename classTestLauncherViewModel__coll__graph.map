@@ -1,0 +1,31 @@
+<map id="TestLauncherViewModel" name="TestLauncherViewModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,1941,227,2367"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="240,5,307,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,47,160,61,124,72,88,87,57,106,31,129,14,158,8,192,8,1777,15,1859,34,1941,29,1942,10,1860,3,1777,3,191,9,156,27,126,53,102,86,82,122,67,159,56,226,42"/>
+<area shape="rect" id="Node000003" href="$classUdpChannel.html" title=" " alt="" coords="234,1165,414,1611"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="276,84,276,191,276,1021,279,1093,286,1165,281,1165,273,1093,271,1021,271,191,271,84"/>
+<area shape="rect" id="Node000004" href="$classUdpWorker.html" title=" " alt="" coords="507,937,720,1103"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="321,50,388,76,423,95,456,118,538,186,595,248,618,281,638,319,676,418,693,487,701,558,701,630,696,701,686,769,673,832,645,938,639,937,668,831,681,768,691,701,696,630,696,559,688,488,671,419,633,322,613,284,591,251,534,190,453,122,421,100,386,81,319,55"/>
+<area shape="rect" id="Node000006" href="$classLogger.html" title=" " alt="" coords="352,120,443,265"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="310,80,354,134,350,137,306,83"/>
+<area shape="rect" id="Node000007" href="$classFileSystem.html" title=" " alt="" coords="121,289,244,395"/>
+<area shape="poly" id="edge11_Node000007_Node000002" title=" " alt="" coords="261,84,257,95,200,290,195,288,252,94,256,83"/>
+<area shape="rect" id="Node000008" href="$classTxtParser.html" title=" " alt="" coords="25,828,125,913"/>
+<area shape="poly" id="edge15_Node000008_Node000002" title=" " alt="" coords="233,82,201,122,146,201,129,239,112,290,94,365,82,443,70,596,69,730,74,828,69,828,64,731,65,596,77,442,89,364,107,289,124,237,142,199,197,118,229,79"/>
+<area shape="rect" id="Node000009" href="$classTestBenchModel.html" title=" " alt="" coords="544,1673,723,1879"/>
+<area shape="poly" id="edge17_Node000009_Node000002" title=" " alt="" coords="321,41,441,57,585,86,652,106,707,129,729,143,746,158,756,174,760,191,760,1389,753,1466,737,1541,713,1612,687,1674,683,1672,708,1610,731,1540,748,1465,755,1389,755,192,751,176,742,161,726,147,705,134,650,111,584,91,440,62,320,47"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,1612,183,1926,178,1924,262,1610"/>
+<area shape="poly" id="edge19_Node000009_Node000003" title=" " alt="" coords="416,1500,544,1659,540,1662,412,1503"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="551,1105,427,1261,422,1258,547,1101"/>
+<area shape="rect" id="Node000005" href="$classUdpLogger.html" title=" " alt="" coords="362,419,539,804"/>
+<area shape="poly" id="edge13_Node000003_Node000005" title=" " alt="" coords="422,805,400,938,365,1150,360,1149,395,937,417,804"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="445,804,456,860,477,912,497,940,493,943,472,915,451,861,439,805"/>
+<area shape="poly" id="edge12_Node000003_Node000006" title=" " alt="" coords="382,266,367,340,353,419,333,610,323,803,318,986,319,1149,314,1149,313,986,317,803,328,609,348,418,361,339,377,265"/>
+<area shape="poly" id="edge9_Node000004_Node000006" title=" " alt="" coords="445,228,473,256,499,288,521,321,535,350,555,418,572,515,587,650,610,921,604,921,582,650,567,516,549,419,530,352,516,324,495,291,469,259,441,232"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="409,265,427,402,421,403,404,266"/>
+<area shape="poly" id="edge10_Node000003_Node000007" title=" " alt="" coords="175,395,161,492,148,621,145,767,149,841,159,913,172,977,189,1041,231,1165,226,1167,184,1043,167,978,153,914,144,841,140,767,143,621,156,491,170,394"/>
+<area shape="poly" id="edge14_Node000001_Node000008" title=" " alt="" coords="81,913,88,1013,92,1133,92,1777,98,1925,93,1925,87,1777,87,1133,83,1013,76,914"/>
+<area shape="poly" id="edge16_Node000001_Node000009" title=" " alt="" coords="545,1845,242,2067,239,2062,542,1841"/>
+<area shape="rect" id="Node000010" href="$classTestBenchStatesList.html" title=" " alt="" coords="795,1315,939,1461"/>
+<area shape="poly" id="edge18_Node000009_Node000010" title=" " alt="" coords="855,1462,826,1555,805,1605,778,1651,737,1699,733,1696,774,1648,800,1602,821,1553,850,1460"/>
+</map>

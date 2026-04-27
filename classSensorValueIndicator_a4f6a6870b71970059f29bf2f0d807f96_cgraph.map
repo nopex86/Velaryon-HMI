@@ -1,0 +1,17 @@
+<map id="SensorValueIndicator::onValueChanged" name="SensorValueIndicator::onValueChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,100,164,140"/>
+<area shape="rect" id="Node000002" href="$classSensorValueIndicatorViewModel.html#a52a37b6aa8c8b97cbeb288567d4ed2ae" title=" " alt="" coords="212,36,403,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,97,223,77,225,82,156,102"/>
+<area shape="rect" id="Node000007" href="$classSensorValueIndicatorViewModel.html#ae8d599ac6f9a95e0a1044ece62a0b122" title=" " alt="" coords="212,100,403,140"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="164,117,198,117,198,123,164,123"/>
+<area shape="rect" id="Node000008" href="$classSensorValueIndicatorViewModel.html#ac011b0951ebb10c0899640f7aa261402" title=" " alt="" coords="212,164,403,204"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="156,138,225,158,223,163,154,143"/>
+<area shape="rect" id="Node000003" href="$classTestBenchModel.html#ad20ac636e12877b99b3bf0e2ee8e5b07" title=" " alt="" coords="457,17,656,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,43,443,39,444,44,403,48"/>
+<area shape="rect" id="Node000005" href="$classTestBenchModel.html#ace6e3de6f5ccb11ee6e9b3f80b630377" title=" " alt="" coords="451,70,663,95"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="403,64,437,67,437,73,403,69"/>
+<area shape="rect" id="Node000004" href="$classTestBenchStatesList.html#a9c69f8c778b31be6b13d95caa7d618b9" title=" " alt="" coords="711,5,863,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="656,25,697,24,697,30,656,30"/>
+<area shape="rect" id="Node000006" href="$classTestBenchStatesList.html#ad87ab49f0bb0081c228afd6dae8c9e57" title=" " alt="" coords="711,69,863,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="663,83,697,84,697,89,663,88"/>
+</map>

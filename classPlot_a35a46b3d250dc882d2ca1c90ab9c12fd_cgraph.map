@@ -1,0 +1,11 @@
+<map id="Plot::initialiseBindings" name="Plot::initialiseBindings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,172,56"/>
+<area shape="rect" id="Node000002" href="$classPlotViewModel.html#ae26a88941efd10822339dee4c2463c69" title=" " alt="" coords="220,5,457,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,32,206,29,206,34,172,38"/>
+<area shape="rect" id="Node000003" href="$classPlotViewModel.html#a4f68a4b4160583b92cad8aa82c694445" title=" " alt="" coords="239,55,438,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,49,226,54,225,59,172,54"/>
+<area shape="rect" id="Node000004" href="$classTestBenchModel.html#ace6e3de6f5ccb11ee6e9b3f80b630377" title=" " alt="" coords="505,55,717,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="438,65,492,65,492,70,438,70"/>
+<area shape="rect" id="Node000005" href="$classTestBenchStatesList.html#ad87ab49f0bb0081c228afd6dae8c9e57" title=" " alt="" coords="765,47,917,87"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="718,65,752,65,752,70,718,70"/>
+</map>

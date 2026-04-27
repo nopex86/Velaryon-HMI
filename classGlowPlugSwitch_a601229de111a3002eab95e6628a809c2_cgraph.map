@@ -1,0 +1,35 @@
+<map id="GlowPlugSwitch::GlowPlugSwitch" name="GlowPlugSwitch::GlowPlugSwitch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,348,200,388"/>
+<area shape="rect" id="Node000002" href="$classActuatorSwitchWidget.html#af9fbb6ab5d0db3b3f6d6db92c7321f5b" title=" " alt="" coords="261,191,427,231"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,346,299,236,302,241,136,350"/>
+<area shape="rect" id="Node000013" href="$classActuatorSwitchViewModel.html#ab4c09aa374e91472f687b5c0c4374548" title=" " alt="" coords="491,376,683,416"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="201,371,478,387,477,392,200,376"/>
+<area shape="rect" id="Node000014" href="$classActuatorSwitchViewModel.html#a4fa61faec85a1b3faec129ddfa4cea77" title=" " alt="" coords="248,405,440,445"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="188,385,247,400,245,405,187,391"/>
+<area shape="rect" id="Node000003" href="$classActuatorSwitchViewModel.html#ac7d234b190065d18a12df125de8834bc" title=" " alt="" coords="491,5,683,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="357,189,409,123,445,87,487,55,497,49,500,53,489,60,449,91,413,127,361,192"/>
+<area shape="rect" id="Node000006" href="$classActuatorSwitchViewModel.html#ad30eea0fa195ce8ceb374c6d72e93be9" title=" " alt="" coords="491,133,683,173"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="427,189,488,174,489,179,428,194"/>
+<area shape="rect" id="Node000007" href="$classActuatorSwitchViewModel.html#a15d5e4d185627320177372f1f5402c29" title=" " alt="" coords="491,248,683,288"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="428,228,489,242,488,247,427,233"/>
+<area shape="rect" id="Node000008" href="$classActuatorSwitchViewModel.html#a3bbde8da90b8046f19e61bf927ca500d" title=" " alt="" coords="735,248,927,288"/>
+<area shape="poly" id="edge13_Node000002_Node000008" title=" " alt="" coords="428,211,550,218,687,233,737,243,736,248,686,239,550,224,427,216"/>
+<area shape="rect" id="Node000009" href="$classActuatorSwitchViewModel.html#a166e3b6ceb009e6c088837c83b6ca62a" title=" " alt="" coords="491,69,683,109"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="372,188,424,154,487,119,504,112,506,117,489,124,427,158,375,193"/>
+<area shape="rect" id="Node000010" href="$classActuatorSwitchWidget.html#a8eaf017f8cd7fcdc7e144fdfe7a2778b" title=" " alt="" coords="488,312,687,352"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="375,229,427,263,489,298,506,305,504,310,487,302,424,268,372,233"/>
+<area shape="rect" id="Node000004" href="$classUdpChannel.html#a439664ce9bf094d21d0234a1943dfc07" title=" " alt="" coords="745,77,916,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="665,43,769,71,768,76,663,48"/>
+<area shape="rect" id="Node000005" href="$classProtocolCodec.html#a7d9ae5526622c37b683d418fd9f800c4" title=" " alt="" coords="975,77,1145,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="916,87,961,87,961,92,916,92"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="663,131,768,103,769,108,665,136"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="683,265,721,265,721,271,683,271"/>
+<area shape="rect" id="Node000011" href="$classActuatorSwitchViewModel.html#a7aaf2fb748566dee79c0bd0945fcc51b" title=" " alt="" coords="735,376,927,416"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="665,349,742,370,740,375,663,355"/>
+<area shape="rect" id="Node000012" href="$classActuatorSwitchViewModel.html#a2461315c8f0335feb9a6f33b94e23734" title=" " alt="" coords="735,312,927,352"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="687,329,721,329,721,335,687,335"/>
+<area shape="poly" id="edge16_Node000013_Node000008" title=" " alt="" coords="664,374,685,362,700,347,708,331,717,314,733,298,742,292,745,297,736,302,721,317,713,333,704,350,688,366,667,378"/>
+<area shape="poly" id="edge15_Node000013_Node000011" title=" " alt="" coords="683,393,721,393,721,399,683,399"/>
+<area shape="poly" id="edge19_Node000014_Node000011" title=" " alt="" coords="440,429,558,432,686,425,740,416,741,422,687,431,558,437,440,435"/>
+<area shape="poly" id="edge18_Node000014_Node000013" title=" " alt="" coords="440,411,477,407,478,412,440,416"/>
+</map>

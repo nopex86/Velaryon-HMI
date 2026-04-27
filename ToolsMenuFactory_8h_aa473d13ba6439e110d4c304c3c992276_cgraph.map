@@ -1,0 +1,7 @@
+<map id="makeToolsMenu" name="makeToolsMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,132,31"/>
+<area shape="rect" id="Node000002" href="$ParametersWindowFactory_8cpp.html#ac014b3b990f0c9178e75fbdbe44f88ba" title=" " alt="" coords="180,5,364,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,15,166,15,166,21,132,21"/>
+<area shape="rect" id="Node000003" href="$classAppViewModel.html#accb3d3a0f4d4c93741dd4d72b319d748" title=" " alt="" coords="412,5,580,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="365,15,398,15,398,21,365,21"/>
+</map>
