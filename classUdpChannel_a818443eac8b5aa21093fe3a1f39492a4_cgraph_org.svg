@@ -11,7 +11,7 @@
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title=" ">
+<g id="a_Node000001"><a xlink:title="Stop UDP endpoint and his subsystems.">
 <polygon fill="#999999" stroke="#666666" points="146,-37 0,-37 0,-18 146,-18 146,-37"/>
 <text text-anchor="middle" x="73" y="-25" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::stopEndpoint</text>
 </a>
@@ -38,7 +38,7 @@
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="classUdpChannel.html#a8e42a953d827d6a78a4867ba05b6a4ca" target="_top" xlink:title=" ">
+<g id="a_Node000005"><a xlink:href="classUdpChannel.html#a8e42a953d827d6a78a4867ba05b6a4ca" target="_top" xlink:title="Signal to the UDP worker that it should stop.">
 <polygon fill="white" stroke="#666666" points="338,-19 182,-19 182,0 338,0 338,-19"/>
 <text text-anchor="middle" x="260" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::stopUdpWorker</text>
 </a>

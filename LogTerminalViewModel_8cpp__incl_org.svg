@@ -77,7 +77,7 @@
 <!-- Node14 -->
 <g id="Node000014" class="node">
 <title>Node14</title>
-<g id="a_Node000014"><a xlink:href="UdpChannel_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000014"><a xlink:href="UdpChannel_8h.html" target="_top" xlink:title="UDP Communicaton channel between the microcontroler and the HMI.">
 <polygon fill="white" stroke="#666666" points="443,-327 290,-327 290,-297 443,-297 443,-327"/>
 <text text-anchor="start" x="298" y="-315" font-family="Helvetica,sans-Serif" font-size="10.00">src/features/communication</text>
 <text text-anchor="middle" x="366.5" y="-304" font-family="Helvetica,sans-Serif" font-size="10.00">/udp/UdpChannel.h</text>

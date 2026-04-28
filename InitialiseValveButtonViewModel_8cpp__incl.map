@@ -2,7 +2,7 @@
 <area shape="rect" id="Node000001" title=" " alt="" coords="183,5,419,60"/>
 <area shape="rect" id="Node000002" href="$InitialiseValveButtonViewModel_8h.html" title=" " alt="" coords="5,108,195,148"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,62,154,105,152,100,244,58"/>
-<area shape="rect" id="Node000004" href="$UdpChannel_8h.html" title=" " alt="" coords="330,108,534,148"/>
+<area shape="rect" id="Node000004" href="$UdpChannel_8h.html" title="UDP Communicaton channel between the microcontroler and the HMI." alt="" coords="330,108,534,148"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="340,58,396,98,393,102,337,62"/>
 <area shape="rect" id="Node000005" title=" " alt="" coords="788,196,865,221"/>
 <area shape="poly" id="edge38_Node000001_Node000005" title=" " alt="" coords="392,57,548,105,784,189,783,194,546,111,391,63"/>

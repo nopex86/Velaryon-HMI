@@ -11,7 +11,7 @@
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title=" ">
+<g id="a_Node000001"><a xlink:title="Start UDP channel and his subsystems.">
 <polygon fill="#999999" stroke="#666666" points="147,-37 0,-37 0,-18 147,-18 147,-37"/>
 <text text-anchor="middle" x="73.5" y="-25" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::startEndpoint</text>
 </a>
@@ -38,7 +38,7 @@
 <!-- Node7 -->
 <g id="Node000007" class="node">
 <title>Node7</title>
-<g id="a_Node000007"><a xlink:href="classUdpChannel.html#a3d07ac65101443852e45a65f6aeaf277" target="_top" xlink:title=" ">
+<g id="a_Node000007"><a xlink:href="classUdpChannel.html#a48718b685a3059703ffbb06980376f7e" target="_top" xlink:title="Signal to the UDP worker that it should start.">
 <polygon fill="white" stroke="#666666" points="341,-19 183,-19 183,0 341,0 341,-19"/>
 <text text-anchor="middle" x="262" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::startUdpWorker</text>
 </a>

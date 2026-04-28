@@ -71,7 +71,7 @@ var searchData=
   ['socket_68',['socket',['../classUdpWorker.html#af87ebc02c2e2dd58fcebae828f4a00e9',1,'UdpWorker']]],
   ['start_69',['start',['../classUdpLogger.html#a55781f93bfc47a004e7b7b8afaa0192c',1,'UdpLogger::start()'],['../classUdpWorker.html#ad4f92bc17d443237d045d35ec46f3bac',1,'UdpWorker::start()']]],
   ['startendpoint_70',['startEndpoint',['../classUdpChannel.html#a0ed1f8d1f6bab17f35b54db9f31ecc05',1,'UdpChannel']]],
-  ['startudpworker_71',['startUdpWorker',['../classUdpChannel.html#a3d07ac65101443852e45a65f6aeaf277',1,'UdpChannel']]],
+  ['startudpworker_71',['startUdpWorker',['../classUdpChannel.html#a48718b685a3059703ffbb06980376f7e',1,'UdpChannel']]],
   ['stateslistchanged_72',['statesListChanged',['../classTestBenchModel.html#afbee1c04744de5e49352a90f5f87f6f1',1,'TestBenchModel']]],
   ['stateslistreceived_73',['StatesListReceived',['../classUdpChannel.html#af3ab9278a84d7d0e1a3d2225637ed310',1,'UdpChannel']]],
   ['status_74',['status',['../classValveReading.html#a3172fda0594dec0a7f4302c9d1c8308c',1,'ValveReading::status'],['../structPidTabConfig_1_1ValveSwitchConfig.html#ac89fa40dac0172db16d0e55ec7eaad9c',1,'PidTabConfig::ValveSwitchConfig::status'],['../classActuatorSwitchViewModel.html#a7aaf2fb748566dee79c0bd0945fcc51b',1,'ActuatorSwitchViewModel::status()']]],

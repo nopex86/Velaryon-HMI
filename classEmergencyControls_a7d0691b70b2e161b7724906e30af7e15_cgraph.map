@@ -2,7 +2,7 @@
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,27,163,67"/>
 <area shape="rect" id="Node000002" href="$classEmergencyControlsViewModel.html#ae77635067993ac4afca50a009a40d853" title=" " alt="" coords="211,27,432,67"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,45,197,45,197,50,163,50"/>
-<area shape="rect" id="Node000003" href="$classUdpChannel.html#a439664ce9bf094d21d0234a1943dfc07" title=" " alt="" coords="506,8,677,33"/>
+<area shape="rect" id="Node000003" href="$classUdpChannel.html#a439664ce9bf094d21d0234a1943dfc07" title="Send data via UDP to other devices." alt="" coords="506,8,677,33"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="432,34,492,28,493,33,432,39"/>
 <area shape="rect" id="Node000005" href="$classTestBenchModel.html#a54c863e0fad71787463b3cca612b1ee3" title=" " alt="" coords="480,59,703,84"/>
 <area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="432,55,467,58,466,63,432,60"/>

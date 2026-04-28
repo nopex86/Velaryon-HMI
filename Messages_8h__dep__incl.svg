@@ -66,7 +66,7 @@ var sectionId = 'dynsection-1';
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="UdpChannel_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="UdpChannel_8h.html" target="_top" xlink:title="UDP Communicaton channel between the microcontroler and the HMI.">
 <polygon fill="white" stroke="#666666" points="3232.5,-178.5 3096.5,-178.5 3096.5,-148.5 3232.5,-148.5 3232.5,-178.5"/>
 <text text-anchor="start" x="3104.5" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00">features/communication</text>
 <text text-anchor="middle" x="3164.5" y="-155.5" font-family="Helvetica,sans-Serif" font-size="10.00">/udp/UdpChannel.h</text>

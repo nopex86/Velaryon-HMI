@@ -19,7 +19,7 @@ var classUdpChannel =
     [ "setRemoteAddr", "classUdpChannel.html#a98a242e2766c5f1919577ae3f1b5b8eb", null ],
     [ "setRemotePort", "classUdpChannel.html#abfabfe8bbb5e582c17c40315be3664c1", null ],
     [ "startEndpoint", "classUdpChannel.html#a0ed1f8d1f6bab17f35b54db9f31ecc05", null ],
-    [ "startUdpWorker", "classUdpChannel.html#a3d07ac65101443852e45a65f6aeaf277", null ],
+    [ "startUdpWorker", "classUdpChannel.html#a48718b685a3059703ffbb06980376f7e", null ],
     [ "StatesListReceived", "classUdpChannel.html#af3ab9278a84d7d0e1a3d2225637ed310", null ],
     [ "stopEndpoint", "classUdpChannel.html#a818443eac8b5aa21093fe3a1f39492a4", null ],
     [ "stopUdpWorker", "classUdpChannel.html#a8e42a953d827d6a78a4867ba05b6a4ca", null ],

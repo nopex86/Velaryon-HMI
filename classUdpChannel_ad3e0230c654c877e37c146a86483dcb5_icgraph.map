@@ -2,7 +2,7 @@
 <area shape="rect" id="Node000001" title=" " alt="" coords="540,42,793,67"/>
 <area shape="rect" id="Node000002" href="$classLogTerminalViewModel.html#add61286fc0c8ef4f527f043846caa1b3" title=" " alt="" coords="276,5,457,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="526,44,457,37,458,32,526,38"/>
-<area shape="rect" id="Node000003" href="$classUdpChannel.html#a4f2c0c2ee1edbc192415cbb518bc44dd" title=" " alt="" coords="241,70,492,95"/>
+<area shape="rect" id="Node000003" href="$classUdpChannel.html#a4f2c0c2ee1edbc192415cbb518bc44dd" title="Decode and dispatch the data received via UDP for it to be used in the entire program." alt="" coords="241,70,492,95"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="527,70,493,74,492,68,526,65"/>
 <area shape="rect" id="Node000004" href="$classUdpChannel.html#a1d69213eb88b5305686f1ef9ade76e04" title=" " alt="" coords="5,70,193,95"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="228,85,194,85,194,80,228,80"/>

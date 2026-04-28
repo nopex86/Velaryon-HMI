@@ -2,7 +2,7 @@
 <area shape="rect" id="Node000001" title=" " alt="" coords="159,5,394,60"/>
 <area shape="rect" id="Node000002" href="$EmergencyControlsViewModel_8h.html" title=" " alt="" coords="5,115,239,141"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,62,154,111,151,106,232,58"/>
-<area shape="rect" id="Node000004" href="$UdpChannel_8h.html" title=" " alt="" coords="365,108,569,148"/>
+<area shape="rect" id="Node000004" href="$UdpChannel_8h.html" title="UDP Communicaton channel between the microcontroler and the HMI." alt="" coords="365,108,569,148"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="331,58,418,100,415,104,329,62"/>
 <area shape="rect" id="Node000027" href="$TestBenchModel_8h.html" title=" " alt="" coords="280,350,444,375"/>
 <area shape="poly" id="edge37_Node000001_Node000027" title=" " alt="" coords="286,60,358,336,353,337,281,61"/>

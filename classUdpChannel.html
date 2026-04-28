@@ -121,13 +121,16 @@ Collaboration diagram for UdpChannel:</div>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-slots" name="pub-slots"></a>
 Public Slots</h2></td></tr>
 <tr class="memitem:a4f2c0c2ee1edbc192415cbb518bc44dd" id="r_a4f2c0c2ee1edbc192415cbb518bc44dd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a4f2c0c2ee1edbc192415cbb518bc44dd">onDatagramReceived</a> (const QByteArray &amp;datagram)</td></tr>
+<tr class="memdesc:a4f2c0c2ee1edbc192415cbb518bc44dd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Decode and dispatch the data received via UDP for it to be used in the entire program.  <br /></td></tr>
 <tr class="separator:a4f2c0c2ee1edbc192415cbb518bc44dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="signals" name="signals"></a>
 Signals</h2></td></tr>
-<tr class="memitem:a3d07ac65101443852e45a65f6aeaf277" id="r_a3d07ac65101443852e45a65f6aeaf277"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a3d07ac65101443852e45a65f6aeaf277">startUdpWorker</a> (QHostAddress, quint16)</td></tr>
-<tr class="separator:a3d07ac65101443852e45a65f6aeaf277"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a48718b685a3059703ffbb06980376f7e" id="r_a48718b685a3059703ffbb06980376f7e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a48718b685a3059703ffbb06980376f7e">startUdpWorker</a> (QHostAddress remoteHostAdress, quint16 remoteHostPort)</td></tr>
+<tr class="memdesc:a48718b685a3059703ffbb06980376f7e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Signal to the UDP worker that it should start.  <br /></td></tr>
+<tr class="separator:a48718b685a3059703ffbb06980376f7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8e42a953d827d6a78a4867ba05b6a4ca" id="r_a8e42a953d827d6a78a4867ba05b6a4ca"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a8e42a953d827d6a78a4867ba05b6a4ca">stopUdpWorker</a> ()</td></tr>
+<tr class="memdesc:a8e42a953d827d6a78a4867ba05b6a4ca"><td class="mdescLeft">&#160;</td><td class="mdescRight">Signal to the UDP worker that it should stop.  <br /></td></tr>
 <tr class="separator:a8e42a953d827d6a78a4867ba05b6a4ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af3ab9278a84d7d0e1a3d2225637ed310" id="r_af3ab9278a84d7d0e1a3d2225637ed310"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#af3ab9278a84d7d0e1a3d2225637ed310">StatesListReceived</a> (const <a class="el" href="classTestBenchStatesList.html">TestBenchStatesList</a> &amp;list)</td></tr>
 <tr class="separator:af3ab9278a84d7d0e1a3d2225637ed310"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -147,12 +150,16 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a81c184bc754fe19c58898f4cb14eed53" id="r_a81c184bc754fe19c58898f4cb14eed53"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a81c184bc754fe19c58898f4cb14eed53">~UdpChannel</a> ()</td></tr>
 <tr class="separator:a81c184bc754fe19c58898f4cb14eed53"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0ed1f8d1f6bab17f35b54db9f31ecc05" id="r_a0ed1f8d1f6bab17f35b54db9f31ecc05"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a0ed1f8d1f6bab17f35b54db9f31ecc05">startEndpoint</a> ()</td></tr>
+<tr class="memdesc:a0ed1f8d1f6bab17f35b54db9f31ecc05"><td class="mdescLeft">&#160;</td><td class="mdescRight">Start UDP channel and his subsystems.  <br /></td></tr>
 <tr class="separator:a0ed1f8d1f6bab17f35b54db9f31ecc05"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a818443eac8b5aa21093fe3a1f39492a4" id="r_a818443eac8b5aa21093fe3a1f39492a4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a818443eac8b5aa21093fe3a1f39492a4">stopEndpoint</a> ()</td></tr>
+<tr class="memdesc:a818443eac8b5aa21093fe3a1f39492a4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Stop UDP endpoint and his subsystems.  <br /></td></tr>
 <tr class="separator:a818443eac8b5aa21093fe3a1f39492a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a439664ce9bf094d21d0234a1943dfc07" id="r_a439664ce9bf094d21d0234a1943dfc07"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a439664ce9bf094d21d0234a1943dfc07">sendData</a> (const <a class="el" href="Messages_8h.html#a181e652658b99cf9eab9ebf7fb4a1ac7">Command</a> &amp;command)</td></tr>
+<tr class="memdesc:a439664ce9bf094d21d0234a1943dfc07"><td class="mdescLeft">&#160;</td><td class="mdescRight">Send data via UDP to other devices.  <br /></td></tr>
 <tr class="separator:a439664ce9bf094d21d0234a1943dfc07"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa8a4da515eb9941d6f26f6536b1243b4" id="r_aa8a4da515eb9941d6f26f6536b1243b4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aa8a4da515eb9941d6f26f6536b1243b4">running</a> ()</td></tr>
+<tr class="memdesc:aa8a4da515eb9941d6f26f6536b1243b4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns UDP channel status.  <br /></td></tr>
 <tr class="separator:aa8a4da515eb9941d6f26f6536b1243b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9c90995d4daf5bf83c2ce1c0a4877f0e" id="r_a9c90995d4daf5bf83c2ce1c0a4877f0e"><td class="memItemLeft" align="right" valign="top">QHostAddress&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a9c90995d4daf5bf83c2ce1c0a4877f0e">remoteAddr</a> () const</td></tr>
 <tr class="separator:a9c90995d4daf5bf83c2ce1c0a4877f0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -171,8 +178,10 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:aaa49cc41565da600fd7b89d34bf4c389" id="r_aaa49cc41565da600fd7b89d34bf4c389"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aaa49cc41565da600fd7b89d34bf4c389">setLocalPort</a> (quint16 port)</td></tr>
 <tr class="separator:aaa49cc41565da600fd7b89d34bf4c389"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad51526e8a51623839a32da79d57d4cd5" id="r_ad51526e8a51623839a32da79d57d4cd5"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad51526e8a51623839a32da79d57d4cd5">loggRateHz</a> ()</td></tr>
+<tr class="memdesc:ad51526e8a51623839a32da79d57d4cd5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return the rate of telemetry frames being logged by the UDP logger.  <br /></td></tr>
 <tr class="separator:ad51526e8a51623839a32da79d57d4cd5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a61ddbdfec15afacd97f386714ae0aa85" id="r_a61ddbdfec15afacd97f386714ae0aa85"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a61ddbdfec15afacd97f386714ae0aa85">frameLossRateHz</a> ()</td></tr>
+<tr class="memdesc:a61ddbdfec15afacd97f386714ae0aa85"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return the rate of telemetry trames being ditched by the UDP logger when buffers are full.  <br /></td></tr>
 <tr class="separator:a61ddbdfec15afacd97f386714ae0aa85"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
@@ -371,6 +380,9 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Return the rate of telemetry trames being ditched by the UDP logger when buffers are full. </p>
+<dl class="section return"><dt>Returns</dt><dd>ditching rate in Hertz. </dd></dl>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -437,6 +449,9 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Return the rate of telemetry frames being logged by the UDP logger. </p>
+<dl class="section return"><dt>Returns</dt><dd>logging rate in Hertz. </dd></dl>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -467,6 +482,14 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Decode and dispatch the data received via UDP for it to be used in the entire program. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">datagram</td><td>contain the bytes comming from the UDP socket waiting to be decoded. </td></tr>
+  </table>
+  </dd>
+</dl>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -538,6 +561,9 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Returns UDP channel status. </p>
+<dl class="section return"><dt>Returns</dt><dd>true if UDP channel is running, false if not </dd></dl>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -560,6 +586,14 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Send data via UDP to other devices. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">command</td><td>Struct contenant diverses instruction qui seront converties en trames puis envoyés. </td></tr>
+  </table>
+  </dd>
+</dl>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -675,6 +709,9 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Start UDP channel and his subsystems. </p>
+<p>Begin to start the UDP logger (to log the telemetry frames comming at high frequency from others devices), start the UDP worker and send the first message to the distant device in order for it to begin sending the telemetry frames. </p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -688,8 +725,8 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a id="a3d07ac65101443852e45a65f6aeaf277" name="a3d07ac65101443852e45a65f6aeaf277"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3d07ac65101443852e45a65f6aeaf277">&#9670;&#160;</a></span>startUdpWorker</h2>
+<a id="a48718b685a3059703ffbb06980376f7e" name="a48718b685a3059703ffbb06980376f7e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a48718b685a3059703ffbb06980376f7e">&#9670;&#160;</a></span>startUdpWorker</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -700,12 +737,12 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="memname">void UdpChannel::startUdpWorker </td>
           <td>(</td>
-          <td class="paramtype">QHostAddress</td>          <td class="paramname"><span class="paramname"><em></em></span>, </td>
+          <td class="paramtype">QHostAddress</td>          <td class="paramname"><span class="paramname"><em>remoteHostAdress</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">quint16</td>          <td class="paramname"><span class="paramname"><em></em></span>&#160;)</td>
+          <td class="paramtype">quint16</td>          <td class="paramname"><span class="paramname"><em>remoteHostPort</em></span>&#160;)</td>
         </tr>
       </table>
   </td>
@@ -714,10 +751,19 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Signal to the UDP worker that it should start. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">remoteHostAdress</td><td>IP adress of the remote host. </td></tr>
+    <tr><td class="paramname">remoteHostPort</td><td>Designated remote port. </td></tr>
+  </table>
+  </dd>
+</dl>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classUdpChannel_a3d07ac65101443852e45a65f6aeaf277_icgraph.svg" width="100%" height="418"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classUdpChannel_a48718b685a3059703ffbb06980376f7e_icgraph.svg" width="100%" height="418"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 
 </div>
@@ -766,6 +812,9 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Stop UDP endpoint and his subsystems. </p>
+<p>Stop UDP worker and UDP logger. </p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -801,6 +850,8 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Signal to the UDP worker that it should stop. </p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">

@@ -94,7 +94,7 @@
 <!-- Node7 -->
 <g id="Node000007" class="node">
 <title>Node7</title>
-<g id="a_Node000007"><a xlink:href="classUdpChannel.html#aa8a4da515eb9941d6f26f6536b1243b4" target="_top" xlink:title=" ">
+<g id="a_Node000007"><a xlink:href="classUdpChannel.html#aa8a4da515eb9941d6f26f6536b1243b4" target="_top" xlink:title="Returns UDP channel status.">
 <polygon fill="white" stroke="#666666" points="649,-132 530,-132 530,-113 649,-113 649,-132"/>
 <text text-anchor="middle" x="589.5" y="-120" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::running</text>
 </a>
@@ -112,7 +112,7 @@
 <!-- Node8 -->
 <g id="Node000008" class="node">
 <title>Node8</title>
-<g id="a_Node000008"><a xlink:href="classUdpChannel.html#a0ed1f8d1f6bab17f35b54db9f31ecc05" target="_top" xlink:title=" ">
+<g id="a_Node000008"><a xlink:href="classUdpChannel.html#a0ed1f8d1f6bab17f35b54db9f31ecc05" target="_top" xlink:title="Start UDP channel and his subsystems.">
 <polygon fill="white" stroke="#666666" points="663,-95 516,-95 516,-76 663,-76 663,-95"/>
 <text text-anchor="middle" x="589.5" y="-83" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::startEndpoint</text>
 </a>
@@ -130,7 +130,7 @@
 <!-- Node15 -->
 <g id="Node000015" class="node">
 <title>Node15</title>
-<g id="a_Node000015"><a xlink:href="classUdpChannel.html#a818443eac8b5aa21093fe3a1f39492a4" target="_top" xlink:title=" ">
+<g id="a_Node000015"><a xlink:href="classUdpChannel.html#a818443eac8b5aa21093fe3a1f39492a4" target="_top" xlink:title="Stop UDP endpoint and his subsystems.">
 <polygon fill="white" stroke="#666666" points="662.5,-57 516.5,-57 516.5,-38 662.5,-38 662.5,-57"/>
 <text text-anchor="middle" x="589.5" y="-45" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::stopEndpoint</text>
 </a>
@@ -185,7 +185,7 @@
 <!-- Node14 -->
 <g id="Node000014" class="node">
 <title>Node14</title>
-<g id="a_Node000014"><a xlink:href="classUdpChannel.html#a3d07ac65101443852e45a65f6aeaf277" target="_top" xlink:title=" ">
+<g id="a_Node000014"><a xlink:href="classUdpChannel.html#a48718b685a3059703ffbb06980376f7e" target="_top" xlink:title="Signal to the UDP worker that it should start.">
 <polygon fill="white" stroke="#666666" points="857,-131 699,-131 699,-112 857,-112 857,-131"/>
 <text text-anchor="middle" x="778" y="-119" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::startUdpWorker</text>
 </a>
@@ -320,7 +320,7 @@
 <!-- Node17 -->
 <g id="Node000017" class="node">
 <title>Node17</title>
-<g id="a_Node000017"><a xlink:href="classUdpChannel.html#a8e42a953d827d6a78a4867ba05b6a4ca" target="_top" xlink:title=" ">
+<g id="a_Node000017"><a xlink:href="classUdpChannel.html#a8e42a953d827d6a78a4867ba05b6a4ca" target="_top" xlink:title="Signal to the UDP worker that it should stop.">
 <polygon fill="white" stroke="#666666" points="856,-57 700,-57 700,-38 856,-38 856,-57"/>
 <text text-anchor="middle" x="778" y="-45" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::stopUdpWorker</text>
 </a>

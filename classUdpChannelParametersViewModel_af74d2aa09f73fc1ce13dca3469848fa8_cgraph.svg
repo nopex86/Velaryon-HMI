@@ -139,7 +139,7 @@ var sectionId = 'dynsection-6';
 <!-- Node6 -->
 <g id="Node000006" class="node">
 <title>Node6</title>
-<g id="a_Node000006"><a xlink:href="classUdpChannel.html#a0ed1f8d1f6bab17f35b54db9f31ecc05" target="_top" xlink:title=" ">
+<g id="a_Node000006"><a xlink:href="classUdpChannel.html#a0ed1f8d1f6bab17f35b54db9f31ecc05" target="_top" xlink:title="Start UDP channel and his subsystems.">
 <polygon fill="white" stroke="#666666" points="343.5,-95 196.5,-95 196.5,-76 343.5,-76 343.5,-95"/>
 <text text-anchor="middle" x="270" y="-83" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::startEndpoint</text>
 </a>
@@ -157,7 +157,7 @@ var sectionId = 'dynsection-6';
 <!-- Node13 -->
 <g id="Node000013" class="node">
 <title>Node13</title>
-<g id="a_Node000013"><a xlink:href="classUdpChannel.html#a818443eac8b5aa21093fe3a1f39492a4" target="_top" xlink:title=" ">
+<g id="a_Node000013"><a xlink:href="classUdpChannel.html#a818443eac8b5aa21093fe3a1f39492a4" target="_top" xlink:title="Stop UDP endpoint and his subsystems.">
 <polygon fill="white" stroke="#666666" points="343,-57 197,-57 197,-38 343,-38 343,-57"/>
 <text text-anchor="middle" x="270" y="-45" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::stopEndpoint</text>
 </a>
@@ -193,7 +193,7 @@ var sectionId = 'dynsection-6';
 <!-- Node12 -->
 <g id="Node000012" class="node">
 <title>Node12</title>
-<g id="a_Node000012"><a xlink:href="classUdpChannel.html#a3d07ac65101443852e45a65f6aeaf277" target="_top" xlink:title=" ">
+<g id="a_Node000012"><a xlink:href="classUdpChannel.html#a48718b685a3059703ffbb06980376f7e" target="_top" xlink:title="Signal to the UDP worker that it should start.">
 <polygon fill="white" stroke="#666666" points="543,-95 385,-95 385,-76 543,-76 543,-95"/>
 <text text-anchor="middle" x="464" y="-83" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::startUdpWorker</text>
 </a>
@@ -328,7 +328,7 @@ var sectionId = 'dynsection-6';
 <!-- Node15 -->
 <g id="Node000015" class="node">
 <title>Node15</title>
-<g id="a_Node000015"><a xlink:href="classUdpChannel.html#a8e42a953d827d6a78a4867ba05b6a4ca" target="_top" xlink:title=" ">
+<g id="a_Node000015"><a xlink:href="classUdpChannel.html#a8e42a953d827d6a78a4867ba05b6a4ca" target="_top" xlink:title="Signal to the UDP worker that it should stop.">
 <polygon fill="white" stroke="#666666" points="542,-19 386,-19 386,0 542,0 542,-19"/>
 <text text-anchor="middle" x="464" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::stopUdpWorker</text>
 </a>

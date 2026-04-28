@@ -1,5 +1,5 @@
 <map id="UdpChannel::loggRateHz" name="UdpChannel::loggRateHz">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,189,31"/>
+<area shape="rect" id="Node000001" title="Return the rate of telemetry frames being logged by the UDP logger." alt="" coords="5,5,189,31"/>
 <area shape="rect" id="Node000002" href="$classUdpLogger.html#a02e23a02b8a578500e1a114bbe8f8c4b" title=" " alt="" coords="237,5,416,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,15,223,15,223,21,190,21"/>
 </map>

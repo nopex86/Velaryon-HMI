@@ -1,5 +1,5 @@
 <map id="UdpChannel::onDatagramReceived" name="UdpChannel::onDatagramReceived">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,145,256,171"/>
+<area shape="rect" id="Node000001" title="Decode and dispatch the data received via UDP for it to be used in the entire program." alt="" coords="5,145,256,171"/>
 <area shape="rect" id="Node000002" href="$classUdpChannel.html#a2193dfeb846961d6171734814685e689" title=" " alt="" coords="325,5,536,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,143,211,93,255,65,303,41,329,32,331,37,305,46,258,69,214,97,149,147"/>
 <area shape="rect" id="Node000003" href="$classUdpChannel.html#a365d3463ec51e0e296cf7cd1dee7ed61" title=" " alt="" coords="335,55,526,95"/>

@@ -18,13 +18,13 @@
 <area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="482,158,533,159,533,165,481,163"/>
 <area shape="rect" id="Node000006" href="$classUdpChannel.html#abfabfe8bbb5e582c17c40315be3664c1" title=" " alt="" coords="549,203,755,228"/>
 <area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="469,174,530,187,576,197,575,202,529,193,468,179"/>
-<area shape="rect" id="Node000007" href="$classUdpChannel.html#a0ed1f8d1f6bab17f35b54db9f31ecc05" title=" " alt="" coords="554,252,750,277"/>
+<area shape="rect" id="Node000007" href="$classUdpChannel.html#a0ed1f8d1f6bab17f35b54db9f31ecc05" title="Start UDP channel and his subsystems." alt="" coords="554,252,750,277"/>
 <area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="459,174,483,186,498,200,507,213,516,226,531,237,547,245,545,250,528,242,512,229,503,216,494,203,480,191,457,179"/>
-<area shape="rect" id="Node000014" href="$classUdpChannel.html#a818443eac8b5aa21093fe3a1f39492a4" title=" " alt="" coords="555,5,749,31"/>
+<area shape="rect" id="Node000014" href="$classUdpChannel.html#a818443eac8b5aa21093fe3a1f39492a4" title="Stop UDP endpoint and his subsystems." alt="" coords="555,5,749,31"/>
 <area shape="poly" id="edge16_Node000002_Node000014" title=" " alt="" coords="397,135,453,86,489,61,528,40,548,32,550,37,530,44,492,65,456,90,401,139"/>
 <area shape="rect" id="Node000008" href="$classUdpLogger.html#a55781f93bfc47a004e7b7b8afaa0192c" title=" " alt="" coords="863,180,993,205"/>
 <area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="719,249,774,237,875,207,877,212,775,242,720,255"/>
-<area shape="rect" id="Node000013" href="$classUdpChannel.html#a3d07ac65101443852e45a65f6aeaf277" title=" " alt="" coords="823,252,1033,277"/>
+<area shape="rect" id="Node000013" href="$classUdpChannel.html#a48718b685a3059703ffbb06980376f7e" title="Signal to the UDP worker that it should start." alt="" coords="823,252,1033,277"/>
 <area shape="poly" id="edge15_Node000007_Node000013" title=" " alt="" coords="750,262,809,262,809,267,750,267"/>
 <area shape="rect" id="Node000009" href="$classLogger.html#ad89b36eb9b5a28d1f61b3c74a6975031" title=" " alt="" coords="1299,105,1413,131"/>
 <area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="960,177,1016,157,1081,139,1188,124,1285,117,1285,122,1188,129,1082,145,1017,162,962,182"/>
@@ -39,7 +39,7 @@
 <area shape="poly" id="edge14_Node000012_Node000011" title=" " alt="" coords="1251,165,1290,165,1290,170,1251,170"/>
 <area shape="rect" id="Node000015" href="$classUdpLogger.html#a09b32cc5531b9db48cde09d12d1c321f" title=" " alt="" coords="1102,29,1230,55"/>
 <area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="750,20,1089,36,1088,41,749,25"/>
-<area shape="rect" id="Node000016" href="$classUdpChannel.html#a8e42a953d827d6a78a4867ba05b6a4ca" title=" " alt="" coords="824,56,1032,81"/>
+<area shape="rect" id="Node000016" href="$classUdpChannel.html#a8e42a953d827d6a78a4867ba05b6a4ca" title="Signal to the UDP worker that it should stop." alt="" coords="824,56,1032,81"/>
 <area shape="poly" id="edge19_Node000014_Node000016" title=" " alt="" coords="722,28,845,51,844,56,721,33"/>
 <area shape="poly" id="edge18_Node000015_Node000009" title=" " alt="" coords="1200,52,1312,98,1310,103,1198,57"/>
 <area shape="rect" id="Node000018" href="$classUdpChannelParametersViewModel.html#ab862d51692545519d0f5fd429b9950d7" title=" " alt="" coords="529,311,775,351"/>

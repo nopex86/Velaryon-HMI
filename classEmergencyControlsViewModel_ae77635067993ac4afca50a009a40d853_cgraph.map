@@ -1,6 +1,6 @@
 <map id="EmergencyControlsViewModel::onTestAbortion" name="EmergencyControlsViewModel::onTestAbortion">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,27,227,67"/>
-<area shape="rect" id="Node000002" href="$classUdpChannel.html#a439664ce9bf094d21d0234a1943dfc07" title=" " alt="" coords="301,8,471,33"/>
+<area shape="rect" id="Node000002" href="$classUdpChannel.html#a439664ce9bf094d21d0234a1943dfc07" title="Send data via UDP to other devices." alt="" coords="301,8,471,33"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,34,287,28,287,33,227,39"/>
 <area shape="rect" id="Node000004" href="$classTestBenchModel.html#a54c863e0fad71787463b3cca612b1ee3" title=" " alt="" coords="275,59,497,84"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="227,55,261,58,261,63,227,60"/>

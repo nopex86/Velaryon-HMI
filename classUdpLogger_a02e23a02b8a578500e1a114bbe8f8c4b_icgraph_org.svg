@@ -20,7 +20,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classUdpChannel.html#ad51526e8a51623839a32da79d57d4cd5" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="classUdpChannel.html#ad51526e8a51623839a32da79d57d4cd5" target="_top" xlink:title="Return the rate of telemetry frames being logged by the UDP logger.">
 <polygon fill="white" stroke="#666666" points="138,-19 0,-19 0,0 138,0 138,-19"/>
 <text text-anchor="middle" x="69" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::loggRateHz</text>
 </a>

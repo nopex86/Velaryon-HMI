@@ -56,7 +56,7 @@
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="classUdpChannel.html#a4f2c0c2ee1edbc192415cbb518bc44dd" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="classUdpChannel.html#a4f2c0c2ee1edbc192415cbb518bc44dd" target="_top" xlink:title="Decode and dispatch the data received via UDP for it to be used in the entire program.">
 <polygon fill="white" stroke="#666666" points="365,-278 177,-278 177,-259 365,-259 365,-278"/>
 <text text-anchor="middle" x="271" y="-266" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::onDatagramReceived</text>
 </a>
@@ -164,7 +164,7 @@
 <!-- Node23 -->
 <g id="Node000023" class="node">
 <title>Node23</title>
-<g id="a_Node000023"><a xlink:href="classUdpChannel.html#a3d07ac65101443852e45a65f6aeaf277" target="_top" xlink:title=" ">
+<g id="a_Node000023"><a xlink:href="classUdpChannel.html#a48718b685a3059703ffbb06980376f7e" target="_top" xlink:title="Signal to the UDP worker that it should start.">
 <polygon fill="white" stroke="#666666" points="350,-93 192,-93 192,-74 350,-74 350,-93"/>
 <text text-anchor="middle" x="271" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::startUdpWorker</text>
 </a>
@@ -200,7 +200,7 @@
 <!-- Node25 -->
 <g id="Node000025" class="node">
 <title>Node25</title>
-<g id="a_Node000025"><a xlink:href="classUdpChannel.html#a8e42a953d827d6a78a4867ba05b6a4ca" target="_top" xlink:title=" ">
+<g id="a_Node000025"><a xlink:href="classUdpChannel.html#a8e42a953d827d6a78a4867ba05b6a4ca" target="_top" xlink:title="Signal to the UDP worker that it should stop.">
 <polygon fill="white" stroke="#666666" points="349,-19 193,-19 193,0 349,0 349,-19"/>
 <text text-anchor="middle" x="271" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::stopUdpWorker</text>
 </a>

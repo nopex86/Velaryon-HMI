@@ -1,5 +1,5 @@
 <map id="UdpChannel::sendData" name="UdpChannel::sendData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="804,234,975,259"/>
+<area shape="rect" id="Node000001" title="Send data via UDP to other devices." alt="" coords="804,234,975,259"/>
 <area shape="rect" id="Node000002" href="$classTestLauncherViewModel.html#ad20212b4b5a52ff48e23de190ea430c7" title=" " alt="" coords="556,133,735,173"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="850,230,755,188,720,176,722,171,757,183,852,225"/>
 <area shape="rect" id="Node000005" href="$classActuatorSwitchViewModel.html#ac7d234b190065d18a12df125de8834bc" title=" " alt="" coords="549,5,741,45"/>

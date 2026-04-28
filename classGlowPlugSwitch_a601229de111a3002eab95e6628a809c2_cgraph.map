@@ -18,7 +18,7 @@
 <area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="372,188,424,154,487,119,504,112,506,117,489,124,427,158,375,193"/>
 <area shape="rect" id="Node000010" href="$classActuatorSwitchWidget.html#a8eaf017f8cd7fcdc7e144fdfe7a2778b" title=" " alt="" coords="488,312,687,352"/>
 <area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="375,229,427,263,489,298,506,305,504,310,487,302,424,268,372,233"/>
-<area shape="rect" id="Node000004" href="$classUdpChannel.html#a439664ce9bf094d21d0234a1943dfc07" title=" " alt="" coords="745,77,916,102"/>
+<area shape="rect" id="Node000004" href="$classUdpChannel.html#a439664ce9bf094d21d0234a1943dfc07" title="Send data via UDP to other devices." alt="" coords="745,77,916,102"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="665,43,769,71,768,76,663,48"/>
 <area shape="rect" id="Node000005" href="$classProtocolCodec.html#a7d9ae5526622c37b683d418fd9f800c4" title=" " alt="" coords="975,77,1145,102"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="916,87,961,87,961,92,916,92"/>

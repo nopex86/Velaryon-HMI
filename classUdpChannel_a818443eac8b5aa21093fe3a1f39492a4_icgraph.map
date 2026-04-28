@@ -1,5 +1,5 @@
 <map id="UdpChannel::stopEndpoint" name="UdpChannel::stopEndpoint">
-<area shape="rect" id="Node000001" title=" " alt="" coords="1001,74,1196,99"/>
+<area shape="rect" id="Node000001" title="Stop UDP endpoint and his subsystems." alt="" coords="1001,74,1196,99"/>
 <area shape="rect" id="Node000002" href="$classCSVLogger.html#aeb2a3cbfb18c9e190ee9558b45c2ab63" title=" " alt="" coords="779,14,921,39"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1031,73,903,42,904,37,1033,68"/>
 <area shape="rect" id="Node000006" href="$classUdpChannelParametersViewModel.html#af74d2aa09f73fc1ce13dca3469848fa8" title=" " alt="" coords="747,67,953,107"/>

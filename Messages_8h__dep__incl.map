@@ -1,6 +1,6 @@
 <map id="core/Protocols/Messages.h" name="core/Protocols/Messages.h">
 <area shape="rect" id="Node000001" title=" " alt="" coords="3973,5,4167,31"/>
-<area shape="rect" id="Node000002" href="$UdpChannel_8h.html" title=" " alt="" coords="4134,335,4315,375"/>
+<area shape="rect" id="Node000002" href="$UdpChannel_8h.html" title="UDP Communicaton channel between the microcontroler and the HMI." alt="" coords="4134,335,4315,375"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="4072,44,4077,112,4085,152,4098,191,4121,234,4150,273,4206,333,4202,337,4146,277,4117,237,4093,193,4080,154,4072,113,4067,45"/>
 <area shape="rect" id="Node000008" href="$InitialiseValveButtonViewModel_8cpp.html" title=" " alt="" coords="1645,431,1881,485"/>
 <area shape="poly" id="edge31_Node000001_Node000008" title=" " alt="" coords="3959,21,3581,24,3342,30,3097,42,2870,60,2769,73,2681,88,2608,105,2552,124,2518,147,2509,158,2506,171,2506,262,2500,270,2486,278,2436,298,2271,344,2067,393,1882,434,1881,429,2066,388,2270,339,2435,292,2484,274,2497,266,2501,261,2501,170,2504,156,2514,143,2550,120,2606,100,2680,82,2769,68,2869,55,3097,36,3341,25,3581,18,3959,16"/>

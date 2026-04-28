@@ -6,7 +6,7 @@
 <area shape="poly" id="edge48_Node000001_Node000007" title=" " alt="" coords="351,62,312,88,275,121,248,161,240,183,237,207,237,283,240,307,248,329,261,349,277,368,316,399,357,422,355,427,313,403,273,371,257,352,243,331,234,308,231,284,231,207,234,182,243,159,271,117,309,84,348,58"/>
 <area shape="rect" id="Node000013" href="$TxtParser_8h.html" title=" " alt="" coords="323,343,508,383"/>
 <area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="396,61,386,108,375,202,377,243,386,294,399,329,394,331,381,295,371,243,370,202,381,108,391,60"/>
-<area shape="rect" id="Node000014" href="$UdpChannel_8h.html" title=" " alt="" coords="683,108,887,148"/>
+<area shape="rect" id="Node000014" href="$UdpChannel_8h.html" title="UDP Communicaton channel between the microcontroler and the HMI." alt="" coords="683,108,887,148"/>
 <area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="504,56,695,102,694,107,503,61"/>
 <area shape="rect" id="Node000029" href="$TestBenchModel_8h.html" title=" " alt="" coords="532,350,696,375"/>
 <area shape="poly" id="edge44_Node000001_Node000029" title=" " alt="" coords="416,59,460,147,534,255,598,337,594,341,530,258,456,149,411,61"/>

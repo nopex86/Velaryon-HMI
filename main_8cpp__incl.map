@@ -14,7 +14,7 @@
 <area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="771,33,700,80,697,76,769,29"/>
 <area shape="rect" id="Node000010" href="$AppModels_8h.html" title=" " alt="" coords="791,86,1018,111"/>
 <area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="806,29,877,76,874,80,803,33"/>
-<area shape="rect" id="Node000011" href="$UdpChannel_8h.html" title=" " alt="" coords="1093,79,1297,119"/>
+<area shape="rect" id="Node000011" href="$UdpChannel_8h.html" title="UDP Communicaton channel between the microcontroler and the HMI." alt="" coords="1093,79,1297,119"/>
 <area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="843,27,1085,73,1084,79,842,33"/>
 <area shape="rect" id="Node000027" href="$Logger_8h.html" title=" " alt="" coords="1262,313,1409,353"/>
 <area shape="poly" id="edge50_Node000001_Node000027" title=" " alt="" coords="843,19,966,26,1113,38,1242,54,1287,65,1312,77,1331,102,1344,130,1352,160,1355,191,1354,251,1346,301,1341,300,1348,251,1350,192,1347,161,1339,132,1326,104,1308,81,1285,70,1241,59,1112,43,965,31,843,24"/>
