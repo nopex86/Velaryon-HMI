@@ -57,7 +57,7 @@ var sectionId = 'dynsection-11';
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title="Decode and dispatch the data received via UDP for it to be used in the entire program.">
+<g id="a_Node000001"><a xlink:title="Decode and dispatch an incoming UDP datagram.">
 <polygon fill="#999999" stroke="#666666" points="188,-111 0,-111 0,-92 188,-92 188,-111"/>
 <text text-anchor="middle" x="94" y="-99" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::onDatagramReceived</text>
 </a>

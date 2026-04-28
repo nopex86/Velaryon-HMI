@@ -2,7 +2,7 @@
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,5,171,45"/>
 <area shape="rect" id="Node000002" href="$classInitialiseValveButtonViewModel.html#aa2ed158448aab0eebc491e6dfe7b15eb" title=" " alt="" coords="219,5,408,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,23,205,23,205,28,171,28"/>
-<area shape="rect" id="Node000003" href="$classUdpChannel.html#a439664ce9bf094d21d0234a1943dfc07" title="Send data via UDP to other devices." alt="" coords="456,13,627,38"/>
+<area shape="rect" id="Node000003" href="$classUdpChannel.html#a439664ce9bf094d21d0234a1943dfc07" title="Send a command to the remote device via UDP." alt="" coords="456,13,627,38"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,23,442,23,442,28,408,28"/>
 <area shape="rect" id="Node000004" href="$classProtocolCodec.html#a7d9ae5526622c37b683d418fd9f800c4" title=" " alt="" coords="675,13,845,38"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="627,23,661,23,661,28,627,28"/>

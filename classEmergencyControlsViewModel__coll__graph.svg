@@ -97,7 +97,7 @@ var sectionId = 'dynsection-1';
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="classUdpChannel.html" target="_top" xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="classUdpChannel.html" target="_top" xlink:title="UDP communication channel between the microcontroller and the HMI.">
 <polygon fill="white" stroke="transparent" points="357.5,-646 222.5,-646 222.5,-312 357.5,-312 357.5,-646"/>
 <text text-anchor="start" x="260.5" y="-634" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel</text>
 <text text-anchor="start" x="229.5" y="-619" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
@@ -160,7 +160,7 @@ var sectionId = 'dynsection-1';
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="classUdpWorker.html" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="classUdpWorker.html" target="_top" xlink:title="UDP socket worker running on a dedicated thread.">
 <polygon fill="white" stroke="transparent" points="226,-817 66,-817 66,-693 226,-693 226,-817"/>
 <text text-anchor="start" x="119" y="-805" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker</text>
 <text text-anchor="start" x="72.5" y="-790" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
@@ -170,11 +170,11 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="70" y="-760" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="83" y="-760" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker()</text>
 <text text-anchor="start" x="70" y="-745" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="83" y="-745" font-family="Helvetica,sans-Serif" font-size="10.00">decimate()</text>
+<text text-anchor="start" x="83" y="-745" font-family="Helvetica,sans-Serif" font-size="10.00">start()</text>
 <text text-anchor="start" x="70" y="-730" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="83" y="-730" font-family="Helvetica,sans-Serif" font-size="10.00">start()</text>
-<text text-anchor="start" x="70" y="-715" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="83" y="-715" font-family="Helvetica,sans-Serif" font-size="10.00">stop()</text>
+<text text-anchor="start" x="83" y="-730" font-family="Helvetica,sans-Serif" font-size="10.00">stop()</text>
+<text text-anchor="start" x="72.5" y="-715" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="83" y="-715" font-family="Helvetica,sans-Serif" font-size="10.00">decimate()</text>
 <text text-anchor="start" x="72.5" y="-700" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="83" y="-700" font-family="Helvetica,sans-Serif" font-size="10.00">processPendingDatagrams()</text>
 <polygon fill="#666666" stroke="#666666" points="66,-800 66,-800 226,-800 226,-800 66,-800"/>
@@ -328,7 +328,7 @@ var sectionId = 'dynsection-1';
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="classUdpLogger.html" target="_top" xlink:title=" ">
+<g id="a_Node000005"><a xlink:href="classUdpLogger.html" target="_top" xlink:title="High&#45;frequency binary logger for UDP telemetry frames.">
 <polygon fill="white" stroke="transparent" points="331.5,-1153 198.5,-1153 198.5,-864 331.5,-864 331.5,-1153"/>
 <text text-anchor="start" x="239" y="-1140.5" font-family="Helvetica,sans-Serif" font-size="10.00">UdpLogger</text>
 <text text-anchor="start" x="205.5" y="-1125.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>

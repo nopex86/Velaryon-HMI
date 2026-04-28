@@ -1,8 +1,9 @@
 var searchData=
 [
   ['name_0',['name',['../classSequenceFileFrame.html#a9b5bff55617e0145d65d19d861ffc417',1,'SequenceFileFrame::name'],['../structCurveParameters.html#aced504e9e4cc2a59acf0baaa2b409de9',1,'CurveParameters::name'],['../structtimeRangeButton.html#aaeabcaf98acd0e7be9f114f99dd68614',1,'timeRangeButton::name'],['../structPlot_1_1Binding.html#a516c096be5ecab9e6cb1f6ecd09fdb36',1,'Plot::Binding::name'],['../structDisplayBinding.html#acb5e743229d0efe15f8c797765e59805',1,'DisplayBinding::name'],['../structPidTabConfig_1_1SensorValueIndicatorConfig.html#a3abe310339ca358a5c0386e4a0585584',1,'PidTabConfig::SensorValueIndicatorConfig::name'],['../structPidTabConfig_1_1ValveSwitchConfig.html#a4d500aa0670e152f47d8fa6380d54faf',1,'PidTabConfig::ValveSwitchConfig::name'],['../structPidTabConfig_1_1TankPressureIndicadorConfig.html#acaa6cd3f46ccfc6858d17fa070f8f38b',1,'PidTabConfig::TankPressureIndicadorConfig::name'],['../structPidTabConfig_1_1GlowPlugSwitchConfig.html#ac532f1842332f84fc593cbbdc7756c52',1,'PidTabConfig::GlowPlugSwitchConfig::name'],['../classActuatorSwitchViewModel.html#a166e3b6ceb009e6c088837c83b6ca62a',1,'ActuatorSwitchViewModel::name()']]],
-  ['newtons_1',['newtons',['../classapp.html#a71912a442228d9b98bd87a0ad5910d18a14db14c1246ecaca51c2150d3a01b605',1,'app']]],
-  ['noconstraints_2',['noConstraints',['../classPidLayout.html#a7d3d173bd2b074294e2dd86ea49bfe97a06f084c8cfec348297dd1fde7a1170d5',1,'PidLayout']]],
-  ['numberofbindings_3',['numberOfBindings',['../classDebugDisplayViewModel.html#a6bf470644b579789a34668da89932dab',1,'DebugDisplayViewModel']]],
-  ['numberofbindingschanged_4',['numberOfBindingsChanged',['../classDebugDisplayViewModel.html#ad272f1c0a025d856e9cc247e9313db04',1,'DebugDisplayViewModel']]]
+  ['network_1',['Network',['../group__Network.html',1,'']]],
+  ['newtons_2',['newtons',['../classapp.html#a71912a442228d9b98bd87a0ad5910d18a14db14c1246ecaca51c2150d3a01b605',1,'app']]],
+  ['noconstraints_3',['noConstraints',['../classPidLayout.html#a7d3d173bd2b074294e2dd86ea49bfe97a06f084c8cfec348297dd1fde7a1170d5',1,'PidLayout']]],
+  ['numberofbindings_4',['numberOfBindings',['../classDebugDisplayViewModel.html#a6bf470644b579789a34668da89932dab',1,'DebugDisplayViewModel']]],
+  ['numberofbindingschanged_5',['numberOfBindingsChanged',['../classDebugDisplayViewModel.html#ad272f1c0a025d856e9cc247e9313db04',1,'DebugDisplayViewModel']]]
 ];

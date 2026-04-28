@@ -6,9 +6,9 @@
 <area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="259,64,240,78,223,96,196,142,176,192,162,243,153,290,148,289,157,242,171,191,191,140,219,93,236,74,256,60"/>
 <area shape="rect" id="Node000004" href="$classTestBenchModel.html" title=" " alt="" coords="249,1753,427,1959"/>
 <area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="351,40,480,54,558,66,638,82,711,101,772,126,796,140,814,155,826,172,830,191,830,1469,827,1506,818,1541,805,1574,787,1605,740,1661,682,1709,618,1750,551,1784,486,1811,429,1832,427,1827,485,1806,549,1779,615,1746,679,1705,736,1657,783,1602,800,1572,813,1540,822,1506,825,1469,825,192,821,175,810,159,793,144,770,130,710,106,637,87,557,71,479,59,350,46"/>
-<area shape="rect" id="Node000006" href="$classUdpChannel.html" title=" " alt="" coords="357,1245,537,1691"/>
+<area shape="rect" id="Node000006" href="$classUdpChannel.html" title="UDP communication channel between the microcontroller and the HMI." alt="" coords="357,1245,537,1691"/>
 <area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="306,84,306,191,306,1101,310,1134,322,1175,360,1274,355,1276,317,1177,305,1135,301,1102,301,191,301,84"/>
-<area shape="rect" id="Node000007" href="$classUdpWorker.html" title=" " alt="" coords="341,1017,554,1183"/>
+<area shape="rect" id="Node000007" href="$classUdpWorker.html" title="UDP socket worker running on a dedicated thread." alt="" coords="341,1017,554,1183"/>
 <area shape="poly" id="edge10_Node000007_Node000002" title=" " alt="" coords="322,83,325,94,350,229,365,345,373,447,377,543,386,741,398,857,421,993,426,1017,421,1018,415,994,393,858,381,742,371,543,368,448,360,345,345,230,319,95,317,85"/>
 <area shape="rect" id="Node000009" href="$classLogger.html" title=" " alt="" coords="477,120,567,265"/>
 <area shape="poly" id="edge13_Node000009_Node000002" title=" " alt="" coords="350,68,478,158,475,162,347,73"/>
@@ -20,7 +20,7 @@
 <area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="274,1540,309,1729,310,1737,305,1738,303,1730,269,1541"/>
 <area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="389,1691,378,1730,376,1738,370,1737,373,1729,384,1690"/>
 <area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="450,1183,450,1229,445,1229,445,1183"/>
-<area shape="rect" id="Node000008" href="$classUdpLogger.html" title=" " alt="" coords="513,479,691,864"/>
+<area shape="rect" id="Node000008" href="$classUdpLogger.html" title="High&#45;frequency binary logger for UDP telemetry frames." alt="" coords="513,479,691,864"/>
 <area shape="poly" id="edge18_Node000006_Node000008" title=" " alt="" coords="605,864,595,1021,584,1103,569,1183,554,1222,546,1241,541,1239,549,1220,563,1182,579,1102,589,1021,600,864"/>
 <area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="516,829,491,889,475,945,463,1001,458,1000,470,944,486,887,511,827"/>
 <area shape="poly" id="edge17_Node000006_Node000009" title=" " alt="" coords="569,220,607,250,641,288,671,336,687,378,697,422,706,478,723,633,732,834,731,937,726,1033,714,1117,696,1184,669,1240,633,1293,592,1341,551,1383,548,1380,589,1338,628,1290,664,1238,692,1182,709,1116,720,1033,726,936,727,834,718,634,701,479,692,423,682,379,666,339,637,291,604,254,566,224"/>

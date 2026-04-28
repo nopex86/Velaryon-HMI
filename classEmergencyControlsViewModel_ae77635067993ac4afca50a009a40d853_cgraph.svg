@@ -67,7 +67,7 @@ var sectionId = 'dynsection-2';
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classUdpChannel.html#a439664ce9bf094d21d0234a1943dfc07" target="_top" xlink:title="Send data via UDP to other devices.">
+<g id="a_Node000002"><a xlink:href="classUdpChannel.html#a439664ce9bf094d21d0234a1943dfc07" target="_top" xlink:title="Send a command to the remote device via UDP.">
 <polygon fill="white" stroke="#666666" points="349.5,-65.5 221.5,-65.5 221.5,-46.5 349.5,-46.5 349.5,-65.5"/>
 <text text-anchor="middle" x="285.5" y="-53.5" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::sendData</text>
 </a>

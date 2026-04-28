@@ -1,5 +1,5 @@
 <map id="UdpChannel::remoteAddr" name="UdpChannel::remoteAddr">
-<area shape="rect" id="Node000001" title=" " alt="" coords="348,13,535,38"/>
+<area shape="rect" id="Node000001" title="Returns the remote host address." alt="" coords="348,13,535,38"/>
 <area shape="rect" id="Node000002" href="$classUdpChannelParametersViewModel.html#a27f3b4eef7f7ffc0b16c5a4ec87bc937" title=" " alt="" coords="5,5,300,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="334,28,300,28,300,23,334,23"/>
 </map>

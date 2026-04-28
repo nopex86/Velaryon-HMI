@@ -20,7 +20,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classUdpWorker.html#abf76f544794092e13cfcad6ad275f96b" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="classUdpWorker.html#abf76f544794092e13cfcad6ad275f96b" target="_top" xlink:title="Emitted when a datagram has passed logging and decimation.">
 <polygon fill="white" stroke="#666666" points="795,-488 627,-488 627,-469 795,-469 795,-488"/>
 <text text-anchor="middle" x="711" y="-476" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker::datagramRecieved</text>
 </a>
@@ -56,7 +56,7 @@
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="classUdpChannel.html#a4f2c0c2ee1edbc192415cbb518bc44dd" target="_top" xlink:title="Decode and dispatch the data received via UDP for it to be used in the entire program.">
+<g id="a_Node000004"><a xlink:href="classUdpChannel.html#a4f2c0c2ee1edbc192415cbb518bc44dd" target="_top" xlink:title="Decode and dispatch an incoming UDP datagram.">
 <polygon fill="white" stroke="#666666" points="365,-278 177,-278 177,-259 365,-259 365,-278"/>
 <text text-anchor="middle" x="271" y="-266" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::onDatagramReceived</text>
 </a>
@@ -74,7 +74,7 @@
 <!-- Node12 -->
 <g id="Node000012" class="node">
 <title>Node12</title>
-<g id="a_Node000012"><a xlink:href="classUdpChannel.html#af57daa37448bd7c2707eeb6b2290b723" target="_top" xlink:title=" ">
+<g id="a_Node000012"><a xlink:href="classUdpChannel.html#af57daa37448bd7c2707eeb6b2290b723" target="_top" xlink:title="Sets the local bind address.">
 <polygon fill="white" stroke="#666666" points="343.5,-241 198.5,-241 198.5,-222 343.5,-222 343.5,-241"/>
 <text text-anchor="middle" x="271" y="-229" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::setLocalAddr</text>
 </a>
@@ -92,7 +92,7 @@
 <!-- Node13 -->
 <g id="Node000013" class="node">
 <title>Node13</title>
-<g id="a_Node000013"><a xlink:href="classUdpChannel.html#aaa49cc41565da600fd7b89d34bf4c389" target="_top" xlink:title=" ">
+<g id="a_Node000013"><a xlink:href="classUdpChannel.html#aaa49cc41565da600fd7b89d34bf4c389" target="_top" xlink:title="Sets the local bind port.">
 <polygon fill="white" stroke="#666666" points="342,-204 200,-204 200,-185 342,-185 342,-204"/>
 <text text-anchor="middle" x="271" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::setLocalPort</text>
 </a>
@@ -110,7 +110,7 @@
 <!-- Node14 -->
 <g id="Node000014" class="node">
 <title>Node14</title>
-<g id="a_Node000014"><a xlink:href="classUdpChannel.html#a98a242e2766c5f1919577ae3f1b5b8eb" target="_top" xlink:title=" ">
+<g id="a_Node000014"><a xlink:href="classUdpChannel.html#a98a242e2766c5f1919577ae3f1b5b8eb" target="_top" xlink:title="Sets the remote host address.">
 <polygon fill="white" stroke="#666666" points="350,-167 192,-167 192,-148 350,-148 350,-167"/>
 <text text-anchor="middle" x="271" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::setRemoteAddr</text>
 </a>
@@ -128,7 +128,7 @@
 <!-- Node15 -->
 <g id="Node000015" class="node">
 <title>Node15</title>
-<g id="a_Node000015"><a xlink:href="classUdpChannel.html#abfabfe8bbb5e582c17c40315be3664c1" target="_top" xlink:title=" ">
+<g id="a_Node000015"><a xlink:href="classUdpChannel.html#abfabfe8bbb5e582c17c40315be3664c1" target="_top" xlink:title="Sets the remote host port.">
 <polygon fill="white" stroke="#666666" points="348.5,-130 193.5,-130 193.5,-111 348.5,-111 348.5,-130"/>
 <text text-anchor="middle" x="271" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::setRemotePort</text>
 </a>
@@ -146,7 +146,7 @@
 <!-- Node16 -->
 <g id="Node000016" class="node">
 <title>Node16</title>
-<g id="a_Node000016"><a xlink:href="classUdpWorker.html#ad4f92bc17d443237d045d35ec46f3bac" target="_top" xlink:title=" ">
+<g id="a_Node000016"><a xlink:href="classUdpWorker.html#ad4f92bc17d443237d045d35ec46f3bac" target="_top" xlink:title="Bind the socket and begin receiving datagrams.">
 <polygon fill="white" stroke="#666666" points="320,-379 222,-379 222,-360 320,-360 320,-379"/>
 <text text-anchor="middle" x="271" y="-367" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker::start</text>
 </a>
@@ -164,7 +164,7 @@
 <!-- Node23 -->
 <g id="Node000023" class="node">
 <title>Node23</title>
-<g id="a_Node000023"><a xlink:href="classUdpChannel.html#a48718b685a3059703ffbb06980376f7e" target="_top" xlink:title="Signal to the UDP worker that it should start.">
+<g id="a_Node000023"><a xlink:href="classUdpChannel.html#a48718b685a3059703ffbb06980376f7e" target="_top" xlink:title="Instructs the UdpWorker to start listening.">
 <polygon fill="white" stroke="#666666" points="350,-93 192,-93 192,-74 350,-74 350,-93"/>
 <text text-anchor="middle" x="271" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::startUdpWorker</text>
 </a>
@@ -182,7 +182,7 @@
 <!-- Node24 -->
 <g id="Node000024" class="node">
 <title>Node24</title>
-<g id="a_Node000024"><a xlink:href="classUdpWorker.html#a115cb53844cbccda0e880ba25a518ffa" target="_top" xlink:title=" ">
+<g id="a_Node000024"><a xlink:href="classUdpWorker.html#a115cb53844cbccda0e880ba25a518ffa" target="_top" xlink:title="Close the socket and stop receiving datagrams.">
 <polygon fill="white" stroke="#666666" points="319.5,-56 222.5,-56 222.5,-37 319.5,-37 319.5,-56"/>
 <text text-anchor="middle" x="271" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker::stop</text>
 </a>
@@ -200,7 +200,7 @@
 <!-- Node25 -->
 <g id="Node000025" class="node">
 <title>Node25</title>
-<g id="a_Node000025"><a xlink:href="classUdpChannel.html#a8e42a953d827d6a78a4867ba05b6a4ca" target="_top" xlink:title="Signal to the UDP worker that it should stop.">
+<g id="a_Node000025"><a xlink:href="classUdpChannel.html#a8e42a953d827d6a78a4867ba05b6a4ca" target="_top" xlink:title="Instructs the UdpWorker to stop.">
 <polygon fill="white" stroke="#666666" points="349,-19 193,-19 193,0 349,0 349,-19"/>
 <text text-anchor="middle" x="271" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::stopUdpWorker</text>
 </a>
@@ -364,7 +364,7 @@
 <!-- Node19 -->
 <g id="Node000019" class="node">
 <title>Node19</title>
-<g id="a_Node000019"><a xlink:href="classUdpWorker.html#a052037523508f888aff917428879c089" target="_top" xlink:title=" ">
+<g id="a_Node000019"><a xlink:href="classUdpWorker.html#a052037523508f888aff917428879c089" target="_top" xlink:title="Drain and process all datagrams pending on the socket.">
 <polygon fill="white" stroke="#666666" points="572,-427.5 420,-427.5 420,-397.5 572,-397.5 572,-427.5"/>
 <text text-anchor="start" x="428" y="-415.5" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker::processPending</text>
 <text text-anchor="middle" x="496" y="-404.5" font-family="Helvetica,sans-Serif" font-size="10.00">Datagrams</text>
@@ -410,7 +410,7 @@
 <!-- Node20 -->
 <g id="Node000020" class="node">
 <title>Node20</title>
-<g id="a_Node000020"><a xlink:href="classUdpWorker.html#a45d906596983ae73bc230e6474ab44cb" target="_top" xlink:title=" ">
+<g id="a_Node000020"><a xlink:href="classUdpWorker.html#a45d906596983ae73bc230e6474ab44cb" target="_top" xlink:title="Decimation gate — returns true at most once per period.">
 <polygon fill="white" stroke="#666666" points="772,-451 650,-451 650,-432 772,-432 772,-451"/>
 <text text-anchor="middle" x="711" y="-439" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker::decimate</text>
 </a>
@@ -446,7 +446,7 @@
 <!-- Node22 -->
 <g id="Node000022" class="node">
 <title>Node22</title>
-<g id="a_Node000022"><a xlink:href="classUdpLogger.html#af906a235ecd2b3ce89f8fe052e46991e" target="_top" xlink:title=" ">
+<g id="a_Node000022"><a xlink:href="classUdpLogger.html#af906a235ecd2b3ce89f8fe052e46991e" target="_top" xlink:title="Push a binary frame into the ring buffer.">
 <polygon fill="white" stroke="#666666" points="756,-377 666,-377 666,-358 756,-358 756,-377"/>
 <text text-anchor="middle" x="711" y="-365" font-family="Helvetica,sans-Serif" font-size="10.00">UdpLogger::log</text>
 </a>

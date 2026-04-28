@@ -1,5 +1,5 @@
 <map id="UdpLogger::writerLoop" name="UdpLogger::writerLoop">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,175,56"/>
+<area shape="rect" id="Node000001" title="Writer loop executed on m_writerThread." alt="" coords="5,31,175,56"/>
 <area shape="rect" id="Node000002" href="$classLogger.html#ad89b36eb9b5a28d1f61b3c74a6975031" title=" " alt="" coords="223,5,337,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,29,209,25,209,30,175,35"/>
 <area shape="rect" id="Node000004" href="$classLogger.html#a6c8bf2fc8c89d76b7f4fe25d97ad4bf3" title=" " alt="" coords="227,55,333,80"/>

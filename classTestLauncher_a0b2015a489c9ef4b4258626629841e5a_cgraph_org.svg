@@ -348,7 +348,7 @@
 <!-- Node12 -->
 <g id="Node000012" class="node">
 <title>Node12</title>
-<g id="a_Node000012"><a xlink:href="classUdpChannel.html#a439664ce9bf094d21d0234a1943dfc07" target="_top" xlink:title="Send data via UDP to other devices.">
+<g id="a_Node000012"><a xlink:href="classUdpChannel.html#a439664ce9bf094d21d0234a1943dfc07" target="_top" xlink:title="Send a command to the remote device via UDP.">
 <polygon fill="white" stroke="#666666" points="700,-399.5 572,-399.5 572,-380.5 700,-380.5 700,-399.5"/>
 <text text-anchor="middle" x="636" y="-387.5" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::sendData</text>
 </a>

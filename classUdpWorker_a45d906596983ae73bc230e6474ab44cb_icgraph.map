@@ -1,8 +1,8 @@
 <map id="UdpWorker::decimate" name="UdpWorker::decimate">
-<area shape="rect" id="Node000001" title=" " alt="" coords="671,13,833,38"/>
-<area shape="rect" id="Node000002" href="$classUdpWorker.html#a052037523508f888aff917428879c089" title=" " alt="" coords="420,5,623,45"/>
+<area shape="rect" id="Node000001" title="Decimation gate — returns true at most once per period." alt="" coords="671,13,833,38"/>
+<area shape="rect" id="Node000002" href="$classUdpWorker.html#a052037523508f888aff917428879c089" title="Drain and process all datagrams pending on the socket." alt="" coords="420,5,623,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="657,28,623,28,623,23,657,23"/>
-<area shape="rect" id="Node000003" href="$classUdpWorker.html#ad4f92bc17d443237d045d35ec46f3bac" title=" " alt="" coords="241,13,372,38"/>
+<area shape="rect" id="Node000003" href="$classUdpWorker.html#ad4f92bc17d443237d045d35ec46f3bac" title="Bind the socket and begin receiving datagrams." alt="" coords="241,13,372,38"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="406,28,372,28,372,23,406,23"/>
 <area shape="rect" id="Node000004" href="$classUdpChannel.html#a1d69213eb88b5305686f1ef9ade76e04" title=" " alt="" coords="5,13,193,38"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="228,28,193,28,193,23,228,23"/>

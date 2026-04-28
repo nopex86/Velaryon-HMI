@@ -3,7 +3,6 @@ var classUdpWorker =
     [ "UdpWorker", "classUdpWorker.html#a48cff580e1a225d88f6db56f7de60078", null ],
     [ "datagramRecieved", "classUdpWorker.html#abf76f544794092e13cfcad6ad275f96b", null ],
     [ "decimate", "classUdpWorker.html#a45d906596983ae73bc230e6474ab44cb", null ],
-    [ "logDatagram", "classUdpWorker.html#a413fca89e03151485a7c905733ed85c0", null ],
     [ "processPendingDatagrams", "classUdpWorker.html#a052037523508f888aff917428879c089", null ],
     [ "start", "classUdpWorker.html#ad4f92bc17d443237d045d35ec46f3bac", null ],
     [ "stop", "classUdpWorker.html#a115cb53844cbccda0e880ba25a518ffa", null ],

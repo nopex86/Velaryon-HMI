@@ -46,10 +46,10 @@
 <area shape="poly" id="edge51_Node000000_Node000022" title=" " alt="" coords="48,678,55,770,70,893,80,955,94,1012,111,1057,130,1088,147,1101,167,1109,209,1114,208,1119,166,1114,145,1106,126,1092,106,1060,89,1013,75,956,64,894,50,770,43,678"/>
 <area shape="rect" id="Node000023" href="$classTxtParser.html" title=" " alt="" coords="197,1152,280,1177"/>
 <area shape="poly" id="edge52_Node000000_Node000023" title=" " alt="" coords="47,678,53,779,66,917,77,987,91,1051,109,1103,130,1138,144,1149,161,1156,198,1163,197,1168,160,1161,142,1153,126,1141,104,1105,86,1052,72,988,61,918,48,779,42,678"/>
-<area shape="rect" id="Node000024" href="$classUdpChannel.html" title=" " alt="" coords="188,1201,289,1227"/>
+<area shape="rect" id="Node000024" href="$classUdpChannel.html" title="UDP communication channel between the microcontroller and the HMI." alt="" coords="188,1201,289,1227"/>
 <area shape="poly" id="edge53_Node000000_Node000024" title=" " alt="" coords="47,678,51,788,63,941,74,1019,88,1090,107,1148,118,1170,130,1187,142,1197,156,1204,188,1212,187,1217,155,1209,139,1201,126,1190,113,1173,102,1150,83,1091,69,1020,58,942,46,788,42,678"/>
 <area shape="rect" id="Node000025" href="$classUdpChannelParametersViewModel.html" title=" " alt="" coords="135,1251,342,1291"/>
 <area shape="poly" id="edge54_Node000000_Node000025" title=" " alt="" coords="47,678,50,797,62,964,72,1050,87,1128,106,1193,117,1217,130,1236,145,1249,141,1253,126,1240,113,1220,101,1194,81,1129,67,1051,56,965,45,797,41,678"/>
-<area shape="rect" id="Node000026" href="$classUdpWorker.html" title=" " alt="" coords="192,1316,285,1341"/>
+<area shape="rect" id="Node000026" href="$classUdpWorker.html" title="UDP socket worker running on a dedicated thread." alt="" coords="192,1316,285,1341"/>
 <area shape="poly" id="edge55_Node000000_Node000026" title=" " alt="" coords="46,678,47,809,56,996,66,1093,81,1181,102,1253,115,1281,130,1302,143,1312,158,1320,192,1327,191,1332,157,1325,140,1317,126,1305,111,1283,97,1255,76,1182,61,1094,51,997,42,809,41,678"/>
 </map>

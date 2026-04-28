@@ -1,10 +1,10 @@
 <map id="UdpWorker" name="UdpWorker">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,776,219,941"/>
+<area shape="rect" id="Node000001" title="UDP socket worker running on a dedicated thread." alt="" coords="5,776,219,941"/>
 <area shape="rect" id="Node000002" title=" " alt="" coords="33,5,100,71"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,84,79,265,109,776,104,776,73,265,66,85"/>
 <area shape="rect" id="Node000004" href="$classLogger.html" title=" " alt="" coords="88,120,179,265"/>
 <area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="88,82,104,119,100,121,83,84"/>
-<area shape="rect" id="Node000003" href="$classUdpLogger.html" title=" " alt="" coords="207,328,385,713"/>
+<area shape="rect" id="Node000003" href="$classUdpLogger.html" title="High&#45;frequency binary logger for UDP telemetry frames." alt="" coords="207,328,385,713"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,685,167,763,162,761,205,682"/>
 <area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="131,266,128,328,116,759,111,759,123,328,126,265"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="171,264,202,326,197,328,167,267"/>

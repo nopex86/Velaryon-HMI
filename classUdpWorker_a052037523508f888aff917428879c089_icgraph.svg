@@ -21,7 +21,7 @@
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title=" ">
+<g id="a_Node000001"><a xlink:title="Drain and process all datagrams pending on the socket.">
 <polygon fill="#999999" stroke="#666666" points="463,-30 311,-30 311,0 463,0 463,-30"/>
 <text text-anchor="start" x="319" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker::processPending</text>
 <text text-anchor="middle" x="387" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Datagrams</text>
@@ -31,7 +31,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classUdpWorker.html#ad4f92bc17d443237d045d35ec46f3bac" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="classUdpWorker.html#ad4f92bc17d443237d045d35ec46f3bac" target="_top" xlink:title="Bind the socket and begin receiving datagrams.">
 <polygon fill="white" stroke="#666666" points="275,-24.5 177,-24.5 177,-5.5 275,-5.5 275,-24.5"/>
 <text text-anchor="middle" x="226" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker::start</text>
 </a>

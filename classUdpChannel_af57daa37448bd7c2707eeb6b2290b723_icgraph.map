@@ -1,5 +1,5 @@
 <map id="UdpChannel::setLocalAddr" name="UdpChannel::setLocalAddr">
-<area shape="rect" id="Node000001" title=" " alt="" coords="529,42,723,67"/>
+<area shape="rect" id="Node000001" title="Sets the local bind address." alt="" coords="529,42,723,67"/>
 <area shape="rect" id="Node000002" href="$classUdpChannelParametersViewModel.html#af74d2aa09f73fc1ce13dca3469848fa8" title=" " alt="" coords="275,5,481,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="516,44,481,40,482,35,516,39"/>
 <area shape="rect" id="Node000004" href="$classUdpChannel.html#a1d69213eb88b5305686f1ef9ade76e04" title=" " alt="" coords="284,70,472,95"/>

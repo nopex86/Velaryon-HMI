@@ -57,7 +57,7 @@ var sectionId = 'dynsection-5';
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title=" ">
+<g id="a_Node000001"><a xlink:title="Initialize the writer and start the writer thread.">
 <polygon fill="#999999" stroke="#666666" points="98,-38 0,-38 0,-19 98,-19 98,-38"/>
 <text text-anchor="middle" x="49" y="-26" font-family="Helvetica,sans-Serif" font-size="10.00">UdpLogger::start</text>
 </a>
@@ -102,7 +102,7 @@ var sectionId = 'dynsection-5';
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="classUdpLogger.html#a4f7e8bb32128f9186dc452a57134475d" target="_top" xlink:title=" ">
+<g id="a_Node000005"><a xlink:href="classUdpLogger.html#a4f7e8bb32128f9186dc452a57134475d" target="_top" xlink:title="Writer loop executed on m_writerThread.">
 <polygon fill="white" stroke="#666666" points="261,-38 134,-38 134,-19 261,-19 261,-38"/>
 <text text-anchor="middle" x="197.5" y="-26" font-family="Helvetica,sans-Serif" font-size="10.00">UdpLogger::writerLoop</text>
 </a>

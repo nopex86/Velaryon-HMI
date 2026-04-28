@@ -1,15 +1,15 @@
 <map id="UdpChannel" name="UdpChannel">
-<area shape="rect" id="Node000001" title=" " alt="" coords="205,1095,385,1540"/>
+<area shape="rect" id="Node000001" title="UDP communication channel between the microcontroller and the HMI." alt="" coords="205,1095,385,1540"/>
 <area shape="rect" id="Node000002" title=" " alt="" coords="452,5,519,71"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="439,47,320,63,177,91,111,111,57,134,37,147,21,161,11,176,8,192,8,951,13,998,27,1043,48,1086,75,1126,106,1164,139,1197,206,1254,203,1258,136,1201,102,1167,71,1130,44,1089,22,1045,8,999,3,951,3,191,6,174,17,158,33,143,55,130,110,106,176,86,320,57,438,41"/>
-<area shape="rect" id="Node000003" href="$classUdpWorker.html" title=" " alt="" coords="188,867,401,1032"/>
+<area shape="rect" id="Node000003" href="$classUdpWorker.html" title="UDP socket worker running on a dedicated thread." alt="" coords="188,867,401,1032"/>
 <area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="494,84,514,248,531,472,534,586,530,691,518,780,507,816,494,844,481,859,459,875,403,905,400,901,456,870,477,855,490,841,502,814,512,779,525,691,528,586,526,472,508,248,489,85"/>
 <area shape="rect" id="Node000005" href="$classLogger.html" title=" " alt="" coords="292,120,383,265"/>
 <area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="447,83,385,146,381,142,443,79"/>
 <area shape="rect" id="Node000006" href="$classFileSystem.html" title=" " alt="" coords="531,289,653,395"/>
 <area shape="poly" id="edge9_Node000006_Node000002" title=" " alt="" coords="524,81,532,93,553,143,569,196,588,288,583,290,563,197,548,145,527,96,520,84"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="297,1032,297,1078,292,1078,292,1032"/>
-<area shape="rect" id="Node000004" href="$classUdpLogger.html" title=" " alt="" coords="86,419,263,804"/>
+<area shape="rect" id="Node000004" href="$classUdpLogger.html" title="High&#45;frequency binary logger for UDP telemetry frames." alt="" coords="86,419,263,804"/>
 <area shape="poly" id="edge11_Node000001_Node000004" title=" " alt="" coords="89,805,75,861,68,918,69,975,81,1031,103,1082,130,1130,162,1174,195,1215,191,1218,158,1178,126,1133,98,1084,76,1033,64,976,63,918,70,860,84,804"/>
 <area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="188,803,201,842,206,851,201,854,196,844,183,805"/>
 <area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="365,265,387,338,404,418,430,590,444,726,445,791,441,861,416,1033,393,1118,388,1116,411,1031,435,861,439,791,439,726,425,591,399,419,382,340,360,267"/>

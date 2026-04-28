@@ -57,7 +57,7 @@ var sectionId = 'dynsection-24';
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title="Signal to the UDP worker that it should start.">
+<g id="a_Node000001"><a xlink:title="Instructs the UdpWorker to start listening.">
 <polygon fill="#999999" stroke="#666666" points="1088,-48.5 930,-48.5 930,-29.5 1088,-29.5 1088,-48.5"/>
 <text text-anchor="middle" x="1009" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::startUdpWorker</text>
 </a>
@@ -66,7 +66,7 @@ var sectionId = 'dynsection-24';
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classUdpChannel.html#a0ed1f8d1f6bab17f35b54db9f31ecc05" target="_top" xlink:title="Start UDP channel and his subsystems.">
+<g id="a_Node000002"><a xlink:href="classUdpChannel.html#a0ed1f8d1f6bab17f35b54db9f31ecc05" target="_top" xlink:title="Start the UDP channel and its subsystems.">
 <polygon fill="white" stroke="#666666" points="894,-67.5 747,-67.5 747,-48.5 894,-48.5 894,-67.5"/>
 <text text-anchor="middle" x="820.5" y="-55.5" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::startEndpoint</text>
 </a>

@@ -101,11 +101,15 @@ $(function(){initNavTree('classUdpWorker.html',''); initResizable(true); });
 <a href="#signals">Signals</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-slots">Private Slots</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="classUdpWorker-members.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">UdpWorker Class Reference</div></div>
+  <div class="headertitle"><div class="title">UdpWorker Class Reference<div class="ingroups"><a class="el" href="group__Network.html">Network</a></div></div></div>
 </div><!--header-->
 <div class="contents">
+
+<p>UDP socket worker running on a dedicated thread.  
+ <a href="#details">More...</a></p>
 
 <p><code>#include &lt;<a class="el" href="UdpWorker_8h_source.html">features/communication/udp/UdpWorker.h</a>&gt;</code></p>
 <div class="dynheader">
@@ -122,28 +126,34 @@ Collaboration diagram for UdpWorker:</div>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-slots" name="pub-slots"></a>
 Public Slots</h2></td></tr>
 <tr class="memitem:ad4f92bc17d443237d045d35ec46f3bac" id="r_ad4f92bc17d443237d045d35ec46f3bac"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad4f92bc17d443237d045d35ec46f3bac">start</a> (QHostAddress localAddr, quint16 localPort)</td></tr>
+<tr class="memdesc:ad4f92bc17d443237d045d35ec46f3bac"><td class="mdescLeft">&#160;</td><td class="mdescRight">Bind the socket and begin receiving datagrams.  <br /></td></tr>
 <tr class="separator:ad4f92bc17d443237d045d35ec46f3bac"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a115cb53844cbccda0e880ba25a518ffa" id="r_a115cb53844cbccda0e880ba25a518ffa"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a115cb53844cbccda0e880ba25a518ffa">stop</a> ()</td></tr>
+<tr class="memdesc:a115cb53844cbccda0e880ba25a518ffa"><td class="mdescLeft">&#160;</td><td class="mdescRight">Close the socket and stop receiving datagrams.  <br /></td></tr>
 <tr class="separator:a115cb53844cbccda0e880ba25a518ffa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="signals" name="signals"></a>
 Signals</h2></td></tr>
 <tr class="memitem:abf76f544794092e13cfcad6ad275f96b" id="r_abf76f544794092e13cfcad6ad275f96b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#abf76f544794092e13cfcad6ad275f96b">datagramRecieved</a> (const QByteArray datagram)</td></tr>
+<tr class="memdesc:abf76f544794092e13cfcad6ad275f96b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Emitted when a datagram has passed logging and decimation.  <br /></td></tr>
 <tr class="separator:abf76f544794092e13cfcad6ad275f96b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a413fca89e03151485a7c905733ed85c0" id="r_a413fca89e03151485a7c905733ed85c0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a413fca89e03151485a7c905733ed85c0">logDatagram</a> (const QByteArray datagram)</td></tr>
-<tr class="separator:a413fca89e03151485a7c905733ed85c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a48cff580e1a225d88f6db56f7de60078" id="r_a48cff580e1a225d88f6db56f7de60078"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a48cff580e1a225d88f6db56f7de60078">UdpWorker</a> (<a class="el" href="classUdpLogger.html">UdpLogger</a> *udplogger, <a class="el" href="classLogger.html">Logger</a> *logger, QObject *parent=nullptr)</td></tr>
 <tr class="separator:a48cff580e1a225d88f6db56f7de60078"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a45d906596983ae73bc230e6474ab44cb" id="r_a45d906596983ae73bc230e6474ab44cb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a45d906596983ae73bc230e6474ab44cb">decimate</a> (int frequency)</td></tr>
-<tr class="separator:a45d906596983ae73bc230e6474ab44cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-slots" name="pri-slots"></a>
 Private Slots</h2></td></tr>
 <tr class="memitem:a052037523508f888aff917428879c089" id="r_a052037523508f888aff917428879c089"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a052037523508f888aff917428879c089">processPendingDatagrams</a> ()</td></tr>
+<tr class="memdesc:a052037523508f888aff917428879c089"><td class="mdescLeft">&#160;</td><td class="mdescRight">Drain and process all datagrams pending on the socket.  <br /></td></tr>
 <tr class="separator:a052037523508f888aff917428879c089"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a45d906596983ae73bc230e6474ab44cb" id="r_a45d906596983ae73bc230e6474ab44cb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a45d906596983ae73bc230e6474ab44cb">decimate</a> (int frequency)</td></tr>
+<tr class="memdesc:a45d906596983ae73bc230e6474ab44cb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Decimation gate — returns <code>true</code> at most once per period.  <br /></td></tr>
+<tr class="separator:a45d906596983ae73bc230e6474ab44cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -156,7 +166,16 @@ Private Attributes</h2></td></tr>
 <tr class="memitem:ae36a762e8e418fafb7a27ed6ad178991" id="r_ae36a762e8e418fafb7a27ed6ad178991"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classLogger.html">Logger</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ae36a762e8e418fafb7a27ed6ad178991">m_logger</a></td></tr>
 <tr class="separator:ae36a762e8e418fafb7a27ed6ad178991"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>UDP socket worker running on a dedicated thread. </p>
+<p><a class="el" href="classUdpWorker.html" title="UDP socket worker running on a dedicated thread.">UdpWorker</a> owns and drives a QUdpSocket from within a QThread, keeping all blocking I/O off the caller's thread. Responsibilities:</p><ul>
+<li>Bind the socket and receive incoming UDP datagrams.</li>
+<li>Log every telemetry frame via <a class="el" href="classUdpLogger.html" title="High-frequency binary logger for UDP telemetry frames.">UdpLogger</a>.</li>
+<li>Decimate telemetry frames to 60 Hz before forwarding them.</li>
+<li>Forward raw datagrams to the parent thread via Qt queued signals.</li>
+</ul>
+<dl class="section user"><dt>Threading model</dt><dd>This object must be moved to a QThread via <code>moveToThread()</code> before <code><a class="el" href="#ad4f92bc17d443237d045d35ec46f3bac" title="Bind the socket and begin receiving datagrams.">start()</a></code> is called. All signals are emitted across the thread boundary using Qt::QueuedConnection. </dd></dl>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a48cff580e1a225d88f6db56f7de60078" name="a48cff580e1a225d88f6db56f7de60078"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a48cff580e1a225d88f6db56f7de60078">&#9670;&#160;</a></span>UdpWorker()</h2>
 
@@ -214,6 +233,15 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Emitted when a datagram has passed logging and decimation. </p>
+<p>Connected across the thread boundary to <a class="el" href="classUdpChannel.html#a4f2c0c2ee1edbc192415cbb518bc44dd" title="Decode and dispatch an incoming UDP datagram.">UdpChannel::onDatagramReceived()</a> via Qt::QueuedConnection.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">datagram</td><td>Raw bytes of the received datagram. </td></tr>
+  </table>
+  </dd>
+</dl>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -227,6 +255,9 @@ Here is the caller graph for this function:</div>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">bool UdpWorker::decimate </td>
@@ -235,37 +266,26 @@ Here is the caller graph for this function:</div>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+
+<p>Decimation gate — returns <code>true</code> at most once per period. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">frequency</td><td>Maximum pass-through rate in Hz. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd><code>true</code> if the frame should be forwarded, <code>false</code> otherwise. </dd></dl>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classUdpWorker_a45d906596983ae73bc230e6474ab44cb_icgraph.svg" width="100%" height="300"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
-
-</div>
-</div>
-<a id="a413fca89e03151485a7c905733ed85c0" name="a413fca89e03151485a7c905733ed85c0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a413fca89e03151485a7c905733ed85c0">&#9670;&#160;</a></span>logDatagram</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void UdpWorker::logDatagram </td>
-          <td>(</td>
-          <td class="paramtype">const QByteArray</td>          <td class="paramname"><span class="paramname"><em>datagram</em></span></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">signal</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
 
 </div>
 </div>
@@ -291,6 +311,13 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Drain and process all datagrams pending on the socket. </p>
+<p>Called every time the socket emits <code>readyRead</code>. For each pending datagram:</p><ul>
+<li>Unconditionally logs it via <a class="el" href="classUdpLogger.html" title="High-frequency binary logger for UDP telemetry frames.">UdpLogger</a>.</li>
+<li>Applies 60 Hz decimation for telemetry and state frames.</li>
+<li>Emits <a class="el" href="#abf76f544794092e13cfcad6ad275f96b" title="Emitted when a datagram has passed logging and decimation.">datagramRecieved()</a> for frames that pass decimation. </li>
+</ul>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -330,6 +357,16 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Bind the socket and begin receiving datagrams. </p>
+<p>Binds the UDP socket to <code>localAddr</code> : <code>localPort</code>, then connects the socket's <code>readyRead</code> signal to <a class="el" href="#a052037523508f888aff917428879c089" title="Drain and process all datagrams pending on the socket.">processPendingDatagrams()</a>. Must be called from within the worker thread.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">localAddr</td><td>Local address to bind the socket to. </td></tr>
+    <tr><td class="paramname">localPort</td><td>Local port to bind the socket to. </td></tr>
+  </table>
+  </dd>
+</dl>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -365,6 +402,8 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Close the socket and stop receiving datagrams. </p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">

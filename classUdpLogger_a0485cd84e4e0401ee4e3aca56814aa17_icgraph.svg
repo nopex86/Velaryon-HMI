@@ -21,7 +21,7 @@
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title=" ">
+<g id="a_Node000001"><a xlink:title="Return the number of frames dropped since the last call to this function, then reset the counter to z...">
 <polygon fill="#999999" stroke="#666666" points="355,-30 204,-30 204,0 355,0 355,-30"/>
 <text text-anchor="start" x="212" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">UdpLogger::droppedFrames</text>
 <text text-anchor="middle" x="279.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Count</text>
@@ -31,7 +31,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classUdpChannel.html#a61ddbdfec15afacd97f386714ae0aa85" target="_top" xlink:title="Return the rate of telemetry trames being ditched by the UDP logger when buffers are full.">
+<g id="a_Node000002"><a xlink:href="classUdpChannel.html#a61ddbdfec15afacd97f386714ae0aa85" target="_top" xlink:title="Returns the frame loss rate when the logger buffer is full.">
 <polygon fill="white" stroke="#666666" points="168,-24.5 0,-24.5 0,-5.5 168,-5.5 168,-24.5"/>
 <text text-anchor="middle" x="84" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::frameLossRateHz</text>
 </a>

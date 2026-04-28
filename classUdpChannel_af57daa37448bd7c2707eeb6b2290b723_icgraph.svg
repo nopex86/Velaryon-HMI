@@ -57,7 +57,7 @@ var sectionId = 'dynsection-18';
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title=" ">
+<g id="a_Node000001"><a xlink:title="Sets the local bind address.">
 <polygon fill="#999999" stroke="#666666" points="538,-40 393,-40 393,-21 538,-21 538,-40"/>
 <text text-anchor="middle" x="465.5" y="-28" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::setLocalAddr</text>
 </a>

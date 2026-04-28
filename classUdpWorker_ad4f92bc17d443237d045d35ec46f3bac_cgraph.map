@@ -1,17 +1,17 @@
 <map id="UdpWorker::start" name="UdpWorker::start">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,136,101"/>
+<area shape="rect" id="Node000001" title="Bind the socket and begin receiving datagrams." alt="" coords="5,76,136,101"/>
 <area shape="rect" id="Node000002" href="$classLogger.html#a3ae168e3e7df5a30cb93e1bbccaa31a0" title=" " alt="" coords="238,27,333,52"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,73,224,51,225,56,127,79"/>
-<area shape="rect" id="Node000004" href="$classUdpWorker.html#a052037523508f888aff917428879c089" title=" " alt="" coords="184,97,387,137"/>
+<area shape="rect" id="Node000004" href="$classUdpWorker.html#a052037523508f888aff917428879c089" title="Drain and process all datagrams pending on the socket." alt="" coords="184,97,387,137"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="137,94,171,99,170,104,136,100"/>
 <area shape="rect" id="Node000003" href="$classLogger.html#a02453fd0695fe06c495de714399e8bf7" title=" " alt="" coords="457,5,637,31"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="333,33,443,24,443,29,333,38"/>
-<area shape="rect" id="Node000005" href="$classUdpWorker.html#abf76f544794092e13cfcad6ad275f96b" title=" " alt="" coords="435,55,659,80"/>
+<area shape="rect" id="Node000005" href="$classUdpWorker.html#abf76f544794092e13cfcad6ad275f96b" title="Emitted when a datagram has passed logging and decimation." alt="" coords="435,55,659,80"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="386,95,465,80,466,85,387,100"/>
-<area shape="rect" id="Node000006" href="$classUdpWorker.html#a45d906596983ae73bc230e6474ab44cb" title=" " alt="" coords="465,104,628,129"/>
+<area shape="rect" id="Node000006" href="$classUdpWorker.html#a45d906596983ae73bc230e6474ab44cb" title="Decimation gate — returns true at most once per period." alt="" coords="465,104,628,129"/>
 <area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="387,114,452,114,452,119,387,119"/>
 <area shape="rect" id="Node000007" href="$classProtocolCodec.html#afcf2e22453c9281ff2761e8523f25340" title=" " alt="" coords="437,153,656,179"/>
 <area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="387,133,466,148,465,153,386,138"/>
-<area shape="rect" id="Node000008" href="$classUdpLogger.html#af906a235ecd2b3ce89f8fe052e46991e" title=" " alt="" coords="487,203,607,228"/>
+<area shape="rect" id="Node000008" href="$classUdpLogger.html#af906a235ecd2b3ce89f8fe052e46991e" title="Push a binary frame into the ring buffer." alt="" coords="487,203,607,228"/>
 <area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="322,134,374,162,436,189,474,200,472,205,434,194,372,167,319,139"/>
 </map>

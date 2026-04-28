@@ -103,7 +103,7 @@ var sectionId = 'dynsection-1';
 <!-- Node7 -->
 <g id="Node000007" class="node">
 <title>Node7</title>
-<g id="a_Node000007"><a xlink:href="classUdpChannel.html#a4f2c0c2ee1edbc192415cbb518bc44dd" target="_top" xlink:title="Decode and dispatch the data received via UDP for it to be used in the entire program.">
+<g id="a_Node000007"><a xlink:href="classUdpChannel.html#a4f2c0c2ee1edbc192415cbb518bc44dd" target="_top" xlink:title="Decode and dispatch an incoming UDP datagram.">
 <polygon fill="white" stroke="#666666" points="719,-22 531,-22 531,-3 719,-3 719,-22"/>
 <text text-anchor="middle" x="625" y="-10" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::onDatagramReceived</text>
 </a>

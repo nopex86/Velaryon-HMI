@@ -21,7 +21,7 @@
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title=" ">
+<g id="a_Node000001"><a xlink:title="Bind the socket and begin receiving datagrams.">
 <polygon fill="#999999" stroke="#666666" points="98,-114 0,-114 0,-95 98,-95 98,-114"/>
 <text text-anchor="middle" x="49" y="-102" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker::start</text>
 </a>
@@ -48,7 +48,7 @@
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="classUdpWorker.html#a052037523508f888aff917428879c089" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="classUdpWorker.html#a052037523508f888aff917428879c089" target="_top" xlink:title="Drain and process all datagrams pending on the socket.">
 <polygon fill="white" stroke="#666666" points="286,-98.5 134,-98.5 134,-68.5 286,-68.5 286,-98.5"/>
 <text text-anchor="start" x="142" y="-86.5" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker::processPending</text>
 <text text-anchor="middle" x="210" y="-75.5" font-family="Helvetica,sans-Serif" font-size="10.00">Datagrams</text>
@@ -85,7 +85,7 @@
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="classUdpWorker.html#abf76f544794092e13cfcad6ad275f96b" target="_top" xlink:title=" ">
+<g id="a_Node000005"><a xlink:href="classUdpWorker.html#abf76f544794092e13cfcad6ad275f96b" target="_top" xlink:title="Emitted when a datagram has passed logging and decimation.">
 <polygon fill="white" stroke="#666666" points="490,-130 322,-130 322,-111 490,-111 490,-130"/>
 <text text-anchor="middle" x="406" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker::datagramRecieved</text>
 </a>
@@ -103,7 +103,7 @@
 <!-- Node6 -->
 <g id="Node000006" class="node">
 <title>Node6</title>
-<g id="a_Node000006"><a xlink:href="classUdpWorker.html#a45d906596983ae73bc230e6474ab44cb" target="_top" xlink:title=" ">
+<g id="a_Node000006"><a xlink:href="classUdpWorker.html#a45d906596983ae73bc230e6474ab44cb" target="_top" xlink:title="Decimation gate — returns true at most once per period.">
 <polygon fill="white" stroke="#666666" points="467,-93 345,-93 345,-74 467,-74 467,-93"/>
 <text text-anchor="middle" x="406" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker::decimate</text>
 </a>
@@ -139,7 +139,7 @@
 <!-- Node8 -->
 <g id="Node000008" class="node">
 <title>Node8</title>
-<g id="a_Node000008"><a xlink:href="classUdpLogger.html#af906a235ecd2b3ce89f8fe052e46991e" target="_top" xlink:title=" ">
+<g id="a_Node000008"><a xlink:href="classUdpLogger.html#af906a235ecd2b3ce89f8fe052e46991e" target="_top" xlink:title="Push a binary frame into the ring buffer.">
 <polygon fill="white" stroke="#666666" points="451,-19 361,-19 361,0 451,0 451,-19"/>
 <text text-anchor="middle" x="406" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">UdpLogger::log</text>
 </a>

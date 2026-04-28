@@ -20,7 +20,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classUdpLogger.html#a09b32cc5531b9db48cde09d12d1c321f" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="classUdpLogger.html#a09b32cc5531b9db48cde09d12d1c321f" target="_top" xlink:title="Signal the writer loop to stop and join the writer thread.">
 <polygon fill="white" stroke="#666666" points="268,-19 172,-19 172,0 268,0 268,-19"/>
 <text text-anchor="middle" x="220" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">UdpLogger::stop</text>
 </a>

@@ -128,7 +128,7 @@
 <!-- Node8 -->
 <g id="Node000008" class="node">
 <title>Node8</title>
-<g id="a_Node000008"><a xlink:href="classUdpLogger.html#a55781f93bfc47a004e7b7b8afaa0192c" target="_top" xlink:title=" ">
+<g id="a_Node000008"><a xlink:href="classUdpLogger.html#a55781f93bfc47a004e7b7b8afaa0192c" target="_top" xlink:title="Initialize the writer and start the writer thread.">
 <polygon fill="white" stroke="#666666" points="1028,-67.5 930,-67.5 930,-48.5 1028,-48.5 1028,-67.5"/>
 <text text-anchor="middle" x="979" y="-55.5" font-family="Helvetica,sans-Serif" font-size="10.00">UdpLogger::start</text>
 </a>
@@ -165,7 +165,7 @@
 <!-- Node18 -->
 <g id="Node000018" class="node">
 <title>Node18</title>
-<g id="a_Node000018"><a xlink:href="classUdpLogger.html#a4f7e8bb32128f9186dc452a57134475d" target="_top" xlink:title=" ">
+<g id="a_Node000018"><a xlink:href="classUdpLogger.html#a4f7e8bb32128f9186dc452a57134475d" target="_top" xlink:title="Writer loop executed on m_writerThread.">
 <polygon fill="white" stroke="#666666" points="1201.5,-24.5 1074.5,-24.5 1074.5,-5.5 1201.5,-5.5 1201.5,-24.5"/>
 <text text-anchor="middle" x="1138" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">UdpLogger::writerLoop</text>
 </a>
@@ -192,7 +192,7 @@
 <!-- Node9 -->
 <g id="Node000009" class="node">
 <title>Node9</title>
-<g id="a_Node000009"><a xlink:href="classUdpChannel.html#a0ed1f8d1f6bab17f35b54db9f31ecc05" target="_top" xlink:title="Start UDP channel and his subsystems.">
+<g id="a_Node000009"><a xlink:href="classUdpChannel.html#a0ed1f8d1f6bab17f35b54db9f31ecc05" target="_top" xlink:title="Start the UDP channel and its subsystems.">
 <polygon fill="white" stroke="#666666" points="894,-67.5 747,-67.5 747,-48.5 894,-48.5 894,-67.5"/>
 <text text-anchor="middle" x="820.5" y="-55.5" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::startEndpoint</text>
 </a>

@@ -57,7 +57,7 @@ var sectionId = 'dynsection-28';
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title="Signal to the UDP worker that it should stop.">
+<g id="a_Node000001"><a xlink:title="Instructs the UdpWorker to stop.">
 <polygon fill="#999999" stroke="#666666" points="1085,-43 929,-43 929,-24 1085,-24 1085,-43"/>
 <text text-anchor="middle" x="1007" y="-31" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::stopUdpWorker</text>
 </a>
@@ -66,7 +66,7 @@ var sectionId = 'dynsection-28';
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classUdpChannel.html#a818443eac8b5aa21093fe3a1f39492a4" target="_top" xlink:title="Stop UDP endpoint and his subsystems.">
+<g id="a_Node000002"><a xlink:href="classUdpChannel.html#a818443eac8b5aa21093fe3a1f39492a4" target="_top" xlink:title="Stop the UDP channel and its subsystems.">
 <polygon fill="white" stroke="#666666" points="893,-62 747,-62 747,-43 893,-43 893,-62"/>
 <text text-anchor="middle" x="820" y="-50" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::stopEndpoint</text>
 </a>

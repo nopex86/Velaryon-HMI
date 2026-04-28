@@ -30,7 +30,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classUdpWorker.html#ad4f92bc17d443237d045d35ec46f3bac" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="classUdpWorker.html#ad4f92bc17d443237d045d35ec46f3bac" target="_top" xlink:title="Bind the socket and begin receiving datagrams.">
 <polygon fill="white" stroke="#666666" points="275,-19 177,-19 177,0 275,0 275,-19"/>
 <text text-anchor="middle" x="226" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker::start</text>
 </a>

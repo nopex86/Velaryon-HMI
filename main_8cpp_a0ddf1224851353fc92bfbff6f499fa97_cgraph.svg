@@ -84,7 +84,7 @@ var sectionId = 'dynsection-1';
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="classUdpChannel.html#a0ed1f8d1f6bab17f35b54db9f31ecc05" target="_top" xlink:title="Start UDP channel and his subsystems.">
+<g id="a_Node000003"><a xlink:href="classUdpChannel.html#a0ed1f8d1f6bab17f35b54db9f31ecc05" target="_top" xlink:title="Start the UDP channel and its subsystems.">
 <polygon fill="white" stroke="#666666" points="224,-37 77,-37 77,-18 224,-18 224,-37"/>
 <text text-anchor="middle" x="150.5" y="-25" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::startEndpoint</text>
 </a>
@@ -102,7 +102,7 @@ var sectionId = 'dynsection-1';
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="classUdpLogger.html#a55781f93bfc47a004e7b7b8afaa0192c" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="classUdpLogger.html#a55781f93bfc47a004e7b7b8afaa0192c" target="_top" xlink:title="Initialize the writer and start the writer thread.">
 <polygon fill="white" stroke="#666666" points="388,-56 290,-56 290,-37 388,-37 388,-56"/>
 <text text-anchor="middle" x="339" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">UdpLogger::start</text>
 </a>
@@ -120,7 +120,7 @@ var sectionId = 'dynsection-1';
 <!-- Node9 -->
 <g id="Node000009" class="node">
 <title>Node9</title>
-<g id="a_Node000009"><a xlink:href="classUdpChannel.html#a48718b685a3059703ffbb06980376f7e" target="_top" xlink:title="Signal to the UDP worker that it should start.">
+<g id="a_Node000009"><a xlink:href="classUdpChannel.html#a48718b685a3059703ffbb06980376f7e" target="_top" xlink:title="Instructs the UdpWorker to start listening.">
 <polygon fill="white" stroke="#666666" points="418,-19 260,-19 260,0 418,0 418,-19"/>
 <text text-anchor="middle" x="339" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::startUdpWorker</text>
 </a>
@@ -174,7 +174,7 @@ var sectionId = 'dynsection-1';
 <!-- Node8 -->
 <g id="Node000008" class="node">
 <title>Node8</title>
-<g id="a_Node000008"><a xlink:href="classUdpLogger.html#a4f7e8bb32128f9186dc452a57134475d" target="_top" xlink:title=" ">
+<g id="a_Node000008"><a xlink:href="classUdpLogger.html#a4f7e8bb32128f9186dc452a57134475d" target="_top" xlink:title="Writer loop executed on m_writerThread.">
 <polygon fill="white" stroke="#666666" points="581,-56 454,-56 454,-37 581,-37 581,-56"/>
 <text text-anchor="middle" x="517.5" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">UdpLogger::writerLoop</text>
 </a>

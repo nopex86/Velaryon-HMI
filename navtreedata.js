@@ -25,6 +25,7 @@
 var NAVTREE =
 [
   [ "Velaryon", "index.html", [
+    [ "Topics", "topics.html", "topics" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -53,10 +54,10 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "ActuatorControlWidget_8cpp.html",
-"ValveSwitchWidget_8cpp.html",
-"classPlot.html#adedd221334385b32009b2cc40bf0c593",
-"classTextMessage.html#a3b1777d5cfddbce45f60dc44330842f0a902b0d55fddef6f8d651fe1035b7d4bd",
-"functions_type.html"
+"Writer_8h_source.html",
+"classPlotViewModel.html#a0e04a39ca08de4c3687003283f90d6f2",
+"classTimer.html",
+"functions_vars_b.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

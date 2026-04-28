@@ -11,7 +11,7 @@
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title=" ">
+<g id="a_Node000001"><a xlink:title="Drain and process all datagrams pending on the socket.">
 <polygon fill="#999999" stroke="#666666" points="152,-79.5 0,-79.5 0,-49.5 152,-49.5 152,-79.5"/>
 <text text-anchor="start" x="8" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker::processPending</text>
 <text text-anchor="middle" x="76" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">Datagrams</text>
@@ -21,7 +21,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classUdpWorker.html#abf76f544794092e13cfcad6ad275f96b" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="classUdpWorker.html#abf76f544794092e13cfcad6ad275f96b" target="_top" xlink:title="Emitted when a datagram has passed logging and decimation.">
 <polygon fill="white" stroke="#666666" points="356,-130 188,-130 188,-111 356,-111 356,-130"/>
 <text text-anchor="middle" x="272" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker::datagramRecieved</text>
 </a>
@@ -39,7 +39,7 @@
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="classUdpWorker.html#a45d906596983ae73bc230e6474ab44cb" target="_top" xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="classUdpWorker.html#a45d906596983ae73bc230e6474ab44cb" target="_top" xlink:title="Decimation gate — returns true at most once per period.">
 <polygon fill="white" stroke="#666666" points="333,-93 211,-93 211,-74 333,-74 333,-93"/>
 <text text-anchor="middle" x="272" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">UdpWorker::decimate</text>
 </a>
@@ -75,7 +75,7 @@
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="classUdpLogger.html#af906a235ecd2b3ce89f8fe052e46991e" target="_top" xlink:title=" ">
+<g id="a_Node000005"><a xlink:href="classUdpLogger.html#af906a235ecd2b3ce89f8fe052e46991e" target="_top" xlink:title="Push a binary frame into the ring buffer.">
 <polygon fill="white" stroke="#666666" points="317,-19 227,-19 227,0 317,0 317,-19"/>
 <text text-anchor="middle" x="272" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">UdpLogger::log</text>
 </a>

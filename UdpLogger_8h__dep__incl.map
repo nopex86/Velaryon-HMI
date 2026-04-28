@@ -1,9 +1,11 @@
 <map id="features/communication/udp/frames_logger/UdpLogger.h" name="features/communication/udp/frames_logger/UdpLogger.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="2491,5,2724,45"/>
-<area shape="rect" id="Node000002" href="$UdpChannel_8h.html" title="UDP Communicaton channel between the microcontroler and the HMI." alt="" coords="1770,93,1951,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2477,44,1952,104,1951,99,2477,39"/>
-<area shape="rect" id="Node000018" href="$UdpWorker_8h.html" title=" " alt="" coords="3386,93,3567,133"/>
-<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="2738,37,3386,100,3385,106,2738,42"/>
+<area shape="rect" id="Node000001" title="High&#45;frequency binary logger for UDP telemetry frames." alt="" coords="3360,5,3593,45"/>
+<area shape="rect" id="Node000002" href="$UdpChannel_8h.html" title="UDP communication channel between the microcontroller and the HMI." alt="" coords="1770,93,1951,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="3347,36,1952,110,1951,105,3346,31"/>
+<area shape="rect" id="Node000018" href="$UdpWorker_8h.html" title="UDP socket worker running on a dedicated thread." alt="" coords="3386,93,3567,133"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="3479,59,3479,93,3474,93,3474,59"/>
+<area shape="rect" id="Node000020" href="$UdpLogger_8cpp.html" title=" " alt="" coords="3591,93,3839,133"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="3543,48,3664,91,3662,96,3541,53"/>
 <area shape="rect" id="Node000003" href="$main_8cpp.html" title=" " alt="" coords="5,196,116,221"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1756,117,1409,118,938,126,695,134,469,146,274,162,128,184,85,198,83,193,127,179,274,157,468,141,695,128,937,120,1409,112,1756,111"/>
 <area shape="rect" id="Node000004" href="$UdpChannel_8cpp.html" title=" " alt="" coords="3386,189,3567,229"/>

@@ -31,7 +31,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classUdpChannel.html#acdf7dc91559d80bcecb7aa20d9e9ecd0" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="classUdpChannel.html#acdf7dc91559d80bcecb7aa20d9e9ecd0" target="_top" xlink:title="Returns the local bind address.">
 <polygon fill="white" stroke="#666666" points="391,-130 263,-130 263,-111 391,-111 391,-130"/>
 <text text-anchor="middle" x="327" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::localAddr</text>
 </a>
@@ -49,7 +49,7 @@
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="classUdpChannel.html#a7347eec55933d448f44b3ba33e863c89" target="_top" xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="classUdpChannel.html#a7347eec55933d448f44b3ba33e863c89" target="_top" xlink:title="Returns the local bind port.">
 <polygon fill="white" stroke="#666666" points="389.5,-93 264.5,-93 264.5,-74 389.5,-74 389.5,-93"/>
 <text text-anchor="middle" x="327" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::localPort</text>
 </a>
@@ -67,7 +67,7 @@
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="classUdpChannel.html#a9c90995d4daf5bf83c2ce1c0a4877f0e" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="classUdpChannel.html#a9c90995d4daf5bf83c2ce1c0a4877f0e" target="_top" xlink:title="Returns the remote host address.">
 <polygon fill="white" stroke="#666666" points="397,-56 257,-56 257,-37 397,-37 397,-56"/>
 <text text-anchor="middle" x="327" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::remoteAddr</text>
 </a>
@@ -85,7 +85,7 @@
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="classUdpChannel.html#a8dcf8037c09cf17fde5bf7f281766a30" target="_top" xlink:title=" ">
+<g id="a_Node000005"><a xlink:href="classUdpChannel.html#a8dcf8037c09cf17fde5bf7f281766a30" target="_top" xlink:title="Returns the remote host port.">
 <polygon fill="white" stroke="#666666" points="395.5,-19 258.5,-19 258.5,0 395.5,0 395.5,-19"/>
 <text text-anchor="middle" x="327" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">UdpChannel::remotePort</text>
 </a>

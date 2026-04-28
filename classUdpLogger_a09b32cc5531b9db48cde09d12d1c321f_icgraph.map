@@ -1,6 +1,6 @@
 <map id="UdpLogger::stop" name="UdpLogger::stop">
-<area shape="rect" id="Node000001" title=" " alt="" coords="1244,101,1372,126"/>
-<area shape="rect" id="Node000002" href="$classUdpChannel.html#a818443eac8b5aa21093fe3a1f39492a4" title="Stop UDP endpoint and his subsystems." alt="" coords="1001,75,1196,101"/>
+<area shape="rect" id="Node000001" title="Signal the writer loop to stop and join the writer thread." alt="" coords="1244,101,1372,126"/>
+<area shape="rect" id="Node000002" href="$classUdpChannel.html#a818443eac8b5aa21093fe3a1f39492a4" title="Stop the UDP channel and its subsystems." alt="" coords="1001,75,1196,101"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1230,107,1196,102,1197,97,1231,101"/>
 <area shape="rect" id="Node000010" href="$classUdpLogger.html#a86daaae8c77a9daccd9e05847314d407" title=" " alt="" coords="1008,125,1189,150"/>
 <area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1230,125,1190,130,1189,124,1230,120"/>

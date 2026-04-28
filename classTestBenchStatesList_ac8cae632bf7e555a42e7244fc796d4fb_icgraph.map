@@ -4,7 +4,7 @@
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1217,57,1183,57,1183,52,1217,52"/>
 <area shape="rect" id="Node000003" href="$classCSVLogger.html#aeb2a3cbfb18c9e190ee9558b45c2ab63" title=" " alt="" coords="767,15,910,41"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="998,47,910,38,910,33,999,42"/>
-<area shape="rect" id="Node000007" href="$classUdpChannel.html#a4f2c0c2ee1edbc192415cbb518bc44dd" title="Decode and dispatch the data received via UDP for it to be used in the entire program." alt="" coords="713,66,964,91"/>
+<area shape="rect" id="Node000007" href="$classUdpChannel.html#a4f2c0c2ee1edbc192415cbb518bc44dd" title="Decode and dispatch an incoming UDP datagram." alt="" coords="713,66,964,91"/>
 <area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="999,66,964,70,964,64,998,61"/>
 <area shape="rect" id="Node000004" href="$classExportMenuViewModel.html#a3384a193ce5445b24d08bb6b6fed94fb" title=" " alt="" coords="485,5,657,45"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="754,30,657,29,657,24,754,24"/>
