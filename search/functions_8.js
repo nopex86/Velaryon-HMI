@@ -10,7 +10,7 @@ var searchData=
   ['logframe_7',['logFrame',['../classWriter.html#a1fd61de67b13b9eb5cb0f3eb7d5b6e48',1,'Writer']]],
   ['logger_8',['Logger',['../classLogger.html#a002e7ed636e30aa9fa73bc08b96201d3',1,'Logger']]],
   ['loggratehz_9',['loggRateHz',['../classUdpChannel.html#ad51526e8a51623839a32da79d57d4cd5',1,'UdpChannel']]],
-  ['logo_10',['Logo',['../classLogo.html#a7fb2881cbe7983fd42ef2ccd48e12b90',1,'Logo']]],
+  ['logo_10',['Logo',['../classLogo.html#a9d66ac3706cb76862286500c210440f6',1,'Logo']]],
   ['logterminalframe_11',['logTerminalFrame',['../classlogTerminalFrame.html#a7775d4ca9aff415f1d59f6369ccf4759',1,'logTerminalFrame']]],
   ['logterminalviewmodel_12',['LogTerminalViewModel',['../classLogTerminalViewModel.html#add61286fc0c8ef4f527f043846caa1b3',1,'LogTerminalViewModel']]]
 ];

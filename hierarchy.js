@@ -16,6 +16,7 @@ var hierarchy =
     [ "GraphicTapDeps", "structGraphicTapDeps.html", null ],
     [ "Writer< MAX_FRAME_SIZE, BUFFER_SIZE >::Header", "structWriter_1_1Header.html", null ],
     [ "PidLayout::LayoutItem", "structPidLayout_1_1LayoutItem.html", null ],
+    [ "PidTabConfig::LogoConfig", "structPidTabConfig_1_1LogoConfig.html", null ],
     [ "Message", "classMessage.html", [
       [ "AckBB", "classAckBB.html", null ],
       [ "BBControlCommand", "classBBControlCommand.html", null ],

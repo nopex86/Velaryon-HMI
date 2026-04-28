@@ -1,5 +1,7 @@
 var NAVTREEINDEX3 =
 {
+"classTextMessage.html#a3b1777d5cfddbce45f60dc44330842f0a902b0d55fddef6f8d651fe1035b7d4bd":[0,0,83,0,2],
+"classTextMessage.html#a3b1777d5cfddbce45f60dc44330842f0aa603905470e2a5b8c13e96b579ef0dba":[0,0,83,0,3],
 "classTextMessage.html#a97f415eaabb1e52863881a8f25310945":[0,0,83,1],
 "classTextMessage.html#a98d4f4c23e3aae6e760532b25ebabcd7":[0,0,83,2],
 "classTimer.html":[0,0,84],
@@ -247,7 +249,5 @@ var NAVTREEINDEX3 =
 "functions_p.html":[0,3,0,12],
 "functions_r.html":[0,3,0,13],
 "functions_s.html":[0,3,0,14],
-"functions_t.html":[0,3,0,15],
-"functions_type.html":[0,3,3],
-"functions_u.html":[0,3,0,16]
+"functions_t.html":[0,3,0,15]
 };

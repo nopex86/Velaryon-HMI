@@ -1,6 +1,7 @@
 var PidTab_8h =
 [
     [ "PidTabConfig", "structPidTabConfig.html", "structPidTabConfig" ],
+    [ "PidTabConfig::LogoConfig", "structPidTabConfig_1_1LogoConfig.html", "structPidTabConfig_1_1LogoConfig" ],
     [ "PidTabConfig::BackgroundConfig", "structPidTabConfig_1_1BackgroundConfig.html", "structPidTabConfig_1_1BackgroundConfig" ],
     [ "PidTabConfig::SensorValueIndicatorConfig", "structPidTabConfig_1_1SensorValueIndicatorConfig.html", "structPidTabConfig_1_1SensorValueIndicatorConfig" ],
     [ "PidTabConfig::ValveSwitchConfig", "structPidTabConfig_1_1ValveSwitchConfig.html", "structPidTabConfig_1_1ValveSwitchConfig" ],

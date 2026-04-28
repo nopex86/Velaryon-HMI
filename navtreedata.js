@@ -55,8 +55,8 @@ var NAVTREEINDEX =
 "ActuatorControlWidget_8cpp.html",
 "ValveSwitchWidget_8cpp.html",
 "classPlot.html#adedd221334385b32009b2cc40bf0c593",
-"classTextMessage.html#a97f415eaabb1e52863881a8f25310945",
-"functions_v.html"
+"classTextMessage.html#a3b1777d5cfddbce45f60dc44330842f0a902b0d55fddef6f8d651fe1035b7d4bd",
+"functions_type.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

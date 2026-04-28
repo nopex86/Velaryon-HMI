@@ -110,30 +110,32 @@ $(function(){initNavTree('FileSystem_8h_source.html',''); initResizable(true); }
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span>public :</div>
 <div class="foldopen" id="foldopen00009" data-start="{" data-end="}">
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno"><a class="line" href="classFileSystem.html#a1ee835a822ece4c6bdeef0fb2b491a79">    9</a></span>    <a class="code hl_function" href="classFileSystem.html#a1ee835a822ece4c6bdeef0fb2b491a79">FileSystem</a>(QObject* parent) : QObject(parent){</div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>        <a class="code hl_function" href="classFileSystem.html#a03a1a949ace339db8af8dc5a0cbbf888">addDirectory</a>(<span class="stringliteral">&quot;statesDatas&quot;</span>, <span class="stringliteral">&quot;./Outputs/TestBenchStatus&quot;</span>);</div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>    }</div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>        <a class="code hl_function" href="classFileSystem.html#a03a1a949ace339db8af8dc5a0cbbf888">addDirectory</a>(<span class="stringliteral">&quot;statesDatas&quot;</span>, <span class="stringliteral">&quot;./outputs/testbench_status&quot;</span>);</div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>        <a class="code hl_function" href="classFileSystem.html#a03a1a949ace339db8af8dc5a0cbbf888">addDirectory</a>(<span class="stringliteral">&quot;ui_pictures&quot;</span>, <span class="stringliteral">&quot;./pictures&quot;</span>);</div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>        <a class="code hl_function" href="classFileSystem.html#a03a1a949ace339db8af8dc5a0cbbf888">addDirectory</a>(<span class="stringliteral">&quot;sequences&quot;</span>, <span class="stringliteral">&quot;./sequences&quot;</span>);</div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>    }</div>
 </div>
-<div class="foldopen" id="foldopen00012" data-start="{" data-end="}">
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno"><a class="line" href="classFileSystem.html#a03a1a949ace339db8af8dc5a0cbbf888">   12</a></span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classFileSystem.html#a03a1a949ace339db8af8dc5a0cbbf888">addDirectory</a>(<span class="keyword">const</span> std::string&amp; name, <span class="keyword">const</span> std::string&amp; path){</div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>        <a class="code hl_variable" href="classFileSystem.html#a8bb26c2c4a718a44e227b82e1a958dca">m_pathList</a>[name] = path;</div>
-<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    }</div>
+<div class="foldopen" id="foldopen00014" data-start="{" data-end="}">
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno"><a class="line" href="classFileSystem.html#a03a1a949ace339db8af8dc5a0cbbf888">   14</a></span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classFileSystem.html#a03a1a949ace339db8af8dc5a0cbbf888">addDirectory</a>(<span class="keyword">const</span> std::string&amp; name, <span class="keyword">const</span> std::string&amp; path){</div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>        <a class="code hl_variable" href="classFileSystem.html#a8bb26c2c4a718a44e227b82e1a958dca">m_pathList</a>[name] = path;</div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    }</div>
 </div>
-<div class="foldopen" id="foldopen00015" data-start="{" data-end="}">
-<div class="line"><a id="l00015" name="l00015"></a><span class="lineno"><a class="line" href="classFileSystem.html#a629654905eeeb0ecbd65586c640d0158">   15</a></span>    <span class="keywordtype">bool</span> <a class="code hl_function" href="classFileSystem.html#a629654905eeeb0ecbd65586c640d0158">getDirectory</a>(<span class="keyword">const</span> std::string&amp; name, std::string* path){</div>
-<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="classFileSystem.html#a8bb26c2c4a718a44e227b82e1a958dca">m_pathList</a>.find(name);</div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>        <span class="keywordflow">if</span> (it == <a class="code hl_variable" href="classFileSystem.html#a8bb26c2c4a718a44e227b82e1a958dca">m_pathList</a>.end()){</div>
-<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>        }</div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>        *path = it-&gt;second;</div>
-<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>    }</div>
+<div class="foldopen" id="foldopen00017" data-start="{" data-end="}">
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno"><a class="line" href="classFileSystem.html#a629654905eeeb0ecbd65586c640d0158">   17</a></span>    <span class="keywordtype">bool</span> <a class="code hl_function" href="classFileSystem.html#a629654905eeeb0ecbd65586c640d0158">getDirectory</a>(<span class="keyword">const</span> std::string&amp; name, std::string* path){</div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="classFileSystem.html#a8bb26c2c4a718a44e227b82e1a958dca">m_pathList</a>.find(name);</div>
+<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>        <span class="keywordflow">if</span> (it == <a class="code hl_variable" href="classFileSystem.html#a8bb26c2c4a718a44e227b82e1a958dca">m_pathList</a>.end()){</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>        }</div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>        *path = it-&gt;second;</div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>    }</div>
 </div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>};</div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>};</div>
 </div>
 <div class="ttc" id="aclassFileSystem_html"><div class="ttname"><a href="classFileSystem.html">FileSystem</a></div><div class="ttdef"><b>Definition</b> FileSystem.h:4</div></div>
-<div class="ttc" id="aclassFileSystem_html_a03a1a949ace339db8af8dc5a0cbbf888"><div class="ttname"><a href="classFileSystem.html#a03a1a949ace339db8af8dc5a0cbbf888">FileSystem::addDirectory</a></div><div class="ttdeci">void addDirectory(const std::string &amp;name, const std::string &amp;path)</div><div class="ttdef"><b>Definition</b> FileSystem.h:12</div></div>
+<div class="ttc" id="aclassFileSystem_html_a03a1a949ace339db8af8dc5a0cbbf888"><div class="ttname"><a href="classFileSystem.html#a03a1a949ace339db8af8dc5a0cbbf888">FileSystem::addDirectory</a></div><div class="ttdeci">void addDirectory(const std::string &amp;name, const std::string &amp;path)</div><div class="ttdef"><b>Definition</b> FileSystem.h:14</div></div>
 <div class="ttc" id="aclassFileSystem_html_a1ee835a822ece4c6bdeef0fb2b491a79"><div class="ttname"><a href="classFileSystem.html#a1ee835a822ece4c6bdeef0fb2b491a79">FileSystem::FileSystem</a></div><div class="ttdeci">FileSystem(QObject *parent)</div><div class="ttdef"><b>Definition</b> FileSystem.h:9</div></div>
-<div class="ttc" id="aclassFileSystem_html_a629654905eeeb0ecbd65586c640d0158"><div class="ttname"><a href="classFileSystem.html#a629654905eeeb0ecbd65586c640d0158">FileSystem::getDirectory</a></div><div class="ttdeci">bool getDirectory(const std::string &amp;name, std::string *path)</div><div class="ttdef"><b>Definition</b> FileSystem.h:15</div></div>
+<div class="ttc" id="aclassFileSystem_html_a629654905eeeb0ecbd65586c640d0158"><div class="ttname"><a href="classFileSystem.html#a629654905eeeb0ecbd65586c640d0158">FileSystem::getDirectory</a></div><div class="ttdeci">bool getDirectory(const std::string &amp;name, std::string *path)</div><div class="ttdef"><b>Definition</b> FileSystem.h:17</div></div>
 <div class="ttc" id="aclassFileSystem_html_a8bb26c2c4a718a44e227b82e1a958dca"><div class="ttname"><a href="classFileSystem.html#a8bb26c2c4a718a44e227b82e1a958dca">FileSystem::m_pathList</a></div><div class="ttdeci">std::unordered_map&lt; std::string, std::string &gt; m_pathList</div><div class="ttdef"><b>Definition</b> FileSystem.h:7</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->

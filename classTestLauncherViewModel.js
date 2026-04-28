@@ -1,6 +1,6 @@
 var classTestLauncherViewModel =
 [
-    [ "TestLauncherViewModel", "classTestLauncherViewModel.html#a8383814253c17f638f473f833f79b9a9", null ],
+    [ "TestLauncherViewModel", "classTestLauncherViewModel.html#aabbd2b3afa4ec7444c902cddf150f0f9", null ],
     [ "acquireFileList", "classTestLauncherViewModel.html#af572568c52ec0654f1b4c9d799c29aa8", null ],
     [ "browsingRequested", "classTestLauncherViewModel.html#a3f4e7712640d1680a32b6870d5361123", null ],
     [ "changeDirPath", "classTestLauncherViewModel.html#a9a2442b128b5385a0d96df272a4bfa0d", null ],
@@ -22,8 +22,10 @@ var classTestLauncherViewModel =
     [ "sequenceParametersChanged", "classTestLauncherViewModel.html#a34b64a79fa056641a062bf36bd74f118", null ],
     [ "m_fileDirPath", "classTestLauncherViewModel.html#ab37a1925f7a7314487f6f093b68c048a", null ],
     [ "m_fileList", "classTestLauncherViewModel.html#a1958d267e59e0639f8b06b0510a0d500", null ],
+    [ "m_fileSystem", "classTestLauncherViewModel.html#a2bfbde2afa6c63623678a7e4228ac424", null ],
     [ "m_isBrowsingRequested", "classTestLauncherViewModel.html#ad1cf69653252de72edbe34986f1c4d96", null ],
     [ "m_isConfirmationRequested", "classTestLauncherViewModel.html#a28754066604e3afe935a902670e0141f", null ],
+    [ "m_logger", "classTestLauncherViewModel.html#a2a78821086b60723f47681a079ec6589", null ],
     [ "m_selectedFile", "classTestLauncherViewModel.html#a82c1f106b6f7d757a14541bc20915912", null ],
     [ "m_sequenceParameters", "classTestLauncherViewModel.html#a9272acab23d277dff333415495db3b14", null ],
     [ "m_testBenchM", "classTestLauncherViewModel.html#a02d018026b90bae07377f332c8398375", null ],

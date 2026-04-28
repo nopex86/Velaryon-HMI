@@ -1,7 +1,7 @@
 var searchData=
 [
   ['main_0',['main',['../main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../EventBus_8h.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;EventBus.h']]],
-  ['mainwindow_1',['MainWindow',['../classMainWindow.html#ae2f22622b4e0955cef2b824413bf361b',1,'MainWindow']]],
+  ['mainwindow_1',['MainWindow',['../classMainWindow.html#a384250eafddcd3cc380d59178551f0ab',1,'MainWindow']]],
   ['makefilemenu_2',['makeFileMenu',['../FilesMenuFactory_8cpp.html#ac6ee6c728cdd1a759926949e367596b4',1,'makeFileMenu(AppViewModel *appVM, QWidget *parent):&#160;FilesMenuFactory.cpp'],['../FilesMenuFactory_8h.html#ac6ee6c728cdd1a759926949e367596b4',1,'makeFileMenu(AppViewModel *appVM, QWidget *parent):&#160;FilesMenuFactory.cpp']]],
   ['makegraphictab_3',['makeGraphicTab',['../GraphicTabFactory_8cpp.html#a413ec40d77621241794c116daff86ad6',1,'makeGraphicTab(AppViewModel *appVM, QWidget *parent):&#160;GraphicTabFactory.cpp'],['../GraphicTabFactory_8h.html#a3db8581f221fb75ef3194f8ea8980a94',1,'makeGraphicTab(AppViewModel *appVM, QWidget *paren):&#160;GraphicTabFactory.cpp']]],
   ['makeoverlay_4',['makeOverlay',['../OverlayFactory_8cpp.html#a3ca844a1b8cf3620e36851dd87b154ed',1,'makeOverlay(AppViewModel *appVM, QWidget *parent):&#160;OverlayFactory.cpp'],['../OverlayFactory_8h.html#a199bbe508039bf5db100571efcf573fc',1,'makeOverlay(AppViewModel *appVM, QWidget *parent=nullptr):&#160;OverlayFactory.cpp']]],

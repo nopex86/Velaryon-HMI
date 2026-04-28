@@ -1,7 +1,9 @@
 <map id="PidTabConfig" name="PidTabConfig">
-<area shape="rect" id="Node000001" title=" " alt="" coords="111,168,288,293"/>
-<area shape="rect" id="Node000002" href="$structPidTabConfig_1_1BackgroundConfig.html" title=" " alt="" coords="5,5,188,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,104,157,152,152,155,124,107"/>
-<area shape="rect" id="Node000003" href="$structPidTabConfig_1_1StatusTableConfig.html" title=" " alt="" coords="212,15,392,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,97,246,155,242,153,277,94"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,168,387,293"/>
+<area shape="rect" id="Node000002" href="$structPidTabConfig_1_1LogoConfig.html" title=" " alt="" coords="5,23,183,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,86,215,155,211,159,130,90"/>
+<area shape="rect" id="Node000003" href="$structPidTabConfig_1_1BackgroundConfig.html" title=" " alt="" coords="207,5,389,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="301,106,301,152,295,152,295,106"/>
+<area shape="rect" id="Node000004" href="$structPidTabConfig_1_1StatusTableConfig.html" title=" " alt="" coords="413,15,593,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="459,97,385,159,382,155,456,93"/>
 </map>

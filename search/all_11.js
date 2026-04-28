@@ -33,7 +33,7 @@ var searchData=
   ['testbenchstateslist_30',['TestBenchStatesList',['../classTestBenchStatesList.html',1,'']]],
   ['testlauchconfirmation_31',['TestLauchConfirmation',['../classTestLauchConfirmation.html',1,'']]],
   ['testlauncher_32',['TestLauncher',['../classTestLauncher.html',1,'TestLauncher'],['../classTestLauncher.html#a0b2015a489c9ef4b4258626629841e5a',1,'TestLauncher::TestLauncher()']]],
-  ['testlauncherviewmodel_33',['TestLauncherViewModel',['../classTestLauncherViewModel.html',1,'TestLauncherViewModel'],['../classTestLauncherViewModel.html#a8383814253c17f638f473f833f79b9a9',1,'TestLauncherViewModel::TestLauncherViewModel()']]],
+  ['testlauncherviewmodel_33',['TestLauncherViewModel',['../classTestLauncherViewModel.html',1,'TestLauncherViewModel'],['../classTestLauncherViewModel.html#aabbd2b3afa4ec7444c902cddf150f0f9',1,'TestLauncherViewModel::TestLauncherViewModel()']]],
   ['testlauncherviewmodel_2ecpp_34',['TestLauncherViewModel.cpp',['../TestLauncherViewModel_8cpp.html',1,'']]],
   ['testlauncherviewmodel_2eh_35',['TestLauncherViewModel.h',['../TestLauncherViewModel_8h.html',1,'']]],
   ['testlaunchwidget_2ecpp_36',['TestLaunchWidget.cpp',['../TestLaunchWidget_8cpp.html',1,'']]],

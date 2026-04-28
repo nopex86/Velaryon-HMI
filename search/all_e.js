@@ -8,7 +8,7 @@ var searchData=
   ['parameterswindowfactory_2ecpp_5',['ParametersWindowFactory.cpp',['../ParametersWindowFactory_8cpp.html',1,'']]],
   ['parameterswindowfactory_2eh_6',['ParametersWindowFactory.h',['../ParametersWindowFactory_8h.html',1,'']]],
   ['parsefile_7',['parseFile',['../classTxtParser.html#afc98cc478d1afc156dfd8ead7db6a778',1,'TxtParser']]],
-  ['path_8',['path',['../classSequenceFileFrame.html#af4bbcb8a30a0409452334047d6b03b32',1,'SequenceFileFrame::path'],['../structPidTabConfig_1_1BackgroundConfig.html#a5d59f644c6bd316ebc19208b4347aae5',1,'PidTabConfig::BackgroundConfig::path']]],
+  ['path_8',['path',['../classSequenceFileFrame.html#af4bbcb8a30a0409452334047d6b03b32',1,'SequenceFileFrame::path'],['../structPidTabConfig_1_1LogoConfig.html#a4c8e76dc5a0befeaf3fc1cc1fdcc9215',1,'PidTabConfig::LogoConfig::path'],['../structPidTabConfig_1_1BackgroundConfig.html#a7a770ce7cabcd9dfa888980492a3e0cd',1,'PidTabConfig::BackgroundConfig::path']]],
   ['pidbackground_9',['PidBackground',['../classPidBackground.html',1,'PidBackground'],['../classPidBackground.html#a5af7e4c227169d4b45e30e419ec62d73',1,'PidBackground::PidBackground()']]],
   ['pidbackground_2ecpp_10',['PidBackground.cpp',['../PidBackground_8cpp.html',1,'']]],
   ['pidbackground_2eh_11',['PidBackground.h',['../PidBackground_8h.html',1,'']]],

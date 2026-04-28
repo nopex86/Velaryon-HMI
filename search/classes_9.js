@@ -4,6 +4,7 @@ var searchData=
   ['locker_1',['Locker',['../classLocker.html',1,'']]],
   ['logger_2',['Logger',['../classLogger.html',1,'']]],
   ['logo_3',['Logo',['../classLogo.html',1,'']]],
-  ['logterminalframe_4',['logTerminalFrame',['../classlogTerminalFrame.html',1,'']]],
-  ['logterminalviewmodel_5',['LogTerminalViewModel',['../classLogTerminalViewModel.html',1,'']]]
+  ['logoconfig_4',['LogoConfig',['../structPidTabConfig_1_1LogoConfig.html',1,'PidTabConfig']]],
+  ['logterminalframe_5',['logTerminalFrame',['../classlogTerminalFrame.html',1,'']]],
+  ['logterminalviewmodel_6',['LogTerminalViewModel',['../classLogTerminalViewModel.html',1,'']]]
 ];
