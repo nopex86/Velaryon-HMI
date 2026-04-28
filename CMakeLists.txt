@@ -45,6 +45,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         src/features/overlay/Overlay.h
         src/features/overlay/OverlayFactory.h
         src/features/overlay/OverlayFactory.cpp
+        src/features/communication/udp/frames_logger/UdpLogger.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET VelaryonV3 APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

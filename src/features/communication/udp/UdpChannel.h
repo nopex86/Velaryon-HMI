@@ -13,18 +13,20 @@ class FileSystem;
 
 /**
  * @file UdpChannel.h
- * @brief UDP Communicaton channel between the microcontroler and the HMI
- * @ingroup UdpChannel
+ * @brief UDP communication channel between the microcontroller and the HMI.
+ * @ingroup Network
+ */
+
+/**
+ * @brief UDP communication channel between the microcontroller and the HMI.
+ * @ingroup Network
  *
- * @details Udp channel as for objective to provide a reliable UDP interface
- * to comunicate with foreign devices (teensy being an exemple).
- * Functions :
- *  - send data via UDP
- *  - receive data via UDP
- *  - dispatch various messages comming from devices to the rest of the system
- *
- *  @note The UDP worker uses  Qt libraries for the socket and for the thread.
- *  It would be nice if it was changed.
+ * @details UdpChannel provides a reliable UDP interface to communicate with
+ * remote embedded devices (e.g. a Teensy microcontroller). Responsibilities:
+ *  - Send command frames via UDP.
+ *  - Receive and decode incoming UDP datagrams.
+ *  - Dispatch decoded messages to the rest of the system via Qt signals.
+ *  - Log incoming telemetry frames at high frequency via UdpLogger.
  */
 class UdpChannel : public QObject
 {
@@ -36,81 +38,91 @@ public:
     ~UdpChannel();
 
     /**
-   * @brief Start UDP channel and his subsystems
-   *
-   * @details Begin to start the UDP logger (to log the telemetry frames comming
-   * at high frequency from others devices), start the UDP worker and send the
-   * first message to the distant device in order for it to begin sending the
-   * telemetry frames.
-   */
+     * @brief Start the UDP channel and its subsystems.
+     *
+     * @details Initializes and starts the UdpLogger, launches the UdpWorker
+     * on its dedicated thread, then sends an initial handshake frame to the
+     * remote device to trigger telemetry streaming.
+     */
     void startEndpoint();
 
     /**
-   * @brief Stop UDP endpoint and his subsystems
-   *
-   * @details Stop UDP worker and UDP logger.
-   */
+     * @brief Stop the UDP channel and its subsystems.
+     *
+     * @details Gracefully stops the UdpWorker and the UdpLogger.
+     */
     void stopEndpoint();
 
     /**
-   * @brief Send data via UDP to other devices
-   * @param command Struct contenant diverses instruction qui seront converties
-   * en trames puis envoyés.
-   */
+     * @brief Send a command to the remote device via UDP.
+     * @param command Command structure to be serialized and transmitted.
+     */
     void sendData(const Command &command);
 
     /**
-   * @brief Returns UDP channel status
-   * @return true if UDP channel is running, false if not
-   */
+     * @brief Returns whether the UDP channel is currently active.
+     * @return @c true if the channel is running, @c false otherwise.
+     */
     bool running();
 
+    /** @brief Returns the remote host address. */
     QHostAddress remoteAddr() const;
+
+    /** @brief Returns the remote host port. */
     quint16 remotePort() const;
+
+    /** @brief Returns the local bind address. */
     QHostAddress localAddr() const;
+
+    /** @brief Returns the local bind port. */
     quint16 localPort() const;
+
+    /** @brief Sets the remote host address. @param addr Target IP address. */
     void setRemoteAddr(const QHostAddress &addr);
+
+    /** @brief Sets the remote host port. @param port Target port number. */
     void setRemotePort(quint16 port);
+
+    /** @brief Sets the local bind address. @param addr Local IP address. */
     void setLocalAddr(const QHostAddress &addr);
+
+    /** @brief Sets the local bind port. @param port Local port number. */
     void setLocalPort(quint16 port);
 
     /**
-   * @brief Return the rate of telemetry frames being logged by the UDP logger
-   * @return logging rate in Hertz.
-   */
+     * @brief Returns the telemetry frame logging rate.
+     * @return Logging rate in Hz.
+     */
     int loggRateHz();
 
     /**
-   * @brief Return the rate of telemetry trames being ditched by the UDP logger
-   * when buffers are full.
-   * @return ditching rate in Hertz.
-   */
+     * @brief Returns the frame loss rate when the logger buffer is full.
+     * @return Frame loss rate in Hz.
+     */
     int frameLossRateHz();
 
 public slots :
 
     /**
-     * @brief Decode and dispatch the data received via UDP for it to be used
-     * in the entire program.
-     * @param datagram contain the bytes comming from the UDP socket waiting to
-     * be decoded.
+     * @brief Decode and dispatch an incoming UDP datagram.
+     *
+     * @details Parses the binary frame header to identify the message type,
+     * deserializes the payload, and emits the corresponding signal.
+     *
+     * @param datagram Raw bytes received from the UDP socket.
      */
     void onDatagramReceived(const QByteArray& datagram);
 signals:
 
     /**
-     * @brief Signal to the UDP worker that it should start.
-     *
-     * @param remoteHostAdress IP adress of the remote host.
-     * @param remoteHostPort Designated remote port.
+     * @brief Instructs the UdpWorker to start listening.
+     * @param remoteHostAdress IP address of the remote device.
+     * @param remoteHostPort   Port of the remote device.
      */
     void startUdpWorker(QHostAddress remoteHostAdress, quint16 remoteHostPort);
 
-    /**
-     * @brief Signal to the UDP worker that it should stop.
-     */
+    /** @brief Instructs the UdpWorker to stop. */
     void stopUdpWorker();
-
     void StatesListReceived(const TestBenchStatesList& list);
     void AckBBReceived(const AckBB& ack);
     void textMessageReceived(const TextMessage& msg);
