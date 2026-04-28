@@ -52,6 +52,8 @@ AppViewModel::AppViewModel(
         services->create<UdpChannel>(),
         services->create<TxtParser>(),
         models->create<TestBenchModel>(),
+        services->create<FileSystem>(),
+        services->create<Logger>(),
         this);
     registerFactory<TestLauncherViewModel>([TestLauncherVM](QObject*){
         return TestLauncherVM;

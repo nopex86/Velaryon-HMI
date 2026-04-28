@@ -8,7 +8,8 @@
 class Logo : public QLabel{
     Q_OBJECT
 public :
-    explicit Logo(QWidget* parent = nullptr);
+    explicit Logo(const QString& picturePath,
+                  QWidget* parent = nullptr);
     QSize sizeHint()const override;
 private :
     QSize m_size = {200, 80};

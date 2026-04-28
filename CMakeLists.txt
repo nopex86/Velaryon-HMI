@@ -104,3 +104,18 @@ if(QT_VERSION_MAJOR EQUAL 6)
 endif()
 
 set(CMAKE_CXX_INCLUDE_WHAT_YOU_USE iwyu)
+
+
+# ─── Runtime files ───────────────────────────────────────────────
+file(MAKE_DIRECTORY ${CMAKE_SOURCE_DIR}/assets)
+
+add_custom_target(copy_assets ALL
+    COMMAND ${CMAKE_COMMAND} -E copy_directory
+        ${CMAKE_SOURCE_DIR}/assets
+        ${CMAKE_BINARY_DIR}
+    COMMENT "Syncing assets/ -> build dir"
+)
+
+install(DIRECTORY ${CMAKE_SOURCE_DIR}/assets/
+    DESTINATION ${CMAKE_INSTALL_BINDIR}
+)

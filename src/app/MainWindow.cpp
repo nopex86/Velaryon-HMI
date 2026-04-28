@@ -22,10 +22,18 @@
 #include "src/features/menu_bar/files/FilesMenuFactory.h"
 #include "src/features/menu_bar/tools/ToolsMenuFactory.h"
 #include "src/features/overlay/OverlayFactory.h"
+#include "src/services/FileSystem/FileSystem.h"
+#include "src/services/Logger/Logger.h"
 
+MainWindow::MainWindow(AppViewModel* appVM,
+                       FileSystem* fileSystem,
+                       Logger* logger,
+                       QWidget* parent) : QMainWindow(parent){
+    std::string uiPicturesPath;
+    if (!fileSystem->getDirectory("ui_pictures", &uiPicturesPath)){
+        logger->error("MainWindow : could not get ui_pictures path");
+    }
 
-
-MainWindow::MainWindow(AppViewModel* appVM, QWidget* parent) : QMainWindow(parent){
     auto* shortcut = new QShortcut(Qt::Key_F10, this);
     connect(shortcut, &QShortcut::activated, this, [this]() {
         menuBar()->setVisible(!menuBar()->isVisible());
@@ -64,7 +72,8 @@ MainWindow::MainWindow(AppViewModel* appVM, QWidget* parent) : QMainWindow(paren
 
     // Add tabs to the tab widget with associated content
     PidTabConfig engCycleCfg{
-        .backgroud = {"./pictures/Arrax_engine.png", {1533, 767}},
+        .logo = {uiPicturesPath + "/Logo_IPL.png"},
+        .backgroud = {uiPicturesPath + "/Arrax_engine.png", {1533, 767}},
         .sensorValueIndicators = {
             {"PS11", "bar", "", {562, 547}},
             {"PS12", "bar", "", {1260, 425}},
@@ -104,7 +113,8 @@ MainWindow::MainWindow(AppViewModel* appVM, QWidget* parent) : QMainWindow(paren
     tabWidget->addTab(makePidTab(appVM, engCycleCfg, this), "Ingiter cycle");
 
     PidTabConfig coolCycleCfg{
-        .backgroud = {"./pictures/Arrax_cooling.png", {1533, 767}},
+        .logo = {uiPicturesPath + "/Logo_IPL.png"},
+        .backgroud = {uiPicturesPath + "/Arrax_cooling.png", {1533, 767}},
         .sensorValueIndicators = {
             {"PS51", "bar", "", {176, 157}},
             {"PS61", "bar", "", {577, 550}},
@@ -133,7 +143,8 @@ MainWindow::MainWindow(AppViewModel* appVM, QWidget* parent) : QMainWindow(paren
     tabWidget->addTab(makePidTab(appVM, coolCycleCfg, this), "Cooling cycle");
 
     PidTabConfig ignCycleCfg{
-        .backgroud = {"./pictures/Arrax_igniter.png", {1498, 807}},
+        .logo = {uiPicturesPath + "/Logo_IPL.png"},
+        .backgroud = {uiPicturesPath + "/Arrax_igniter.png", {1498, 807}},
         .sensorValueIndicators = {
             {"PS21", "bar", "", {650, 130}},
             {"PS23", "bar", "", {1205, 427}},

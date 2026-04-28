@@ -1,7 +1,7 @@
 #include "Logo.h"
 
-Logo::Logo(QWidget* parent) : QLabel(parent){
-    QPixmap pixmap("./pictures/Logo_IPL.png");
+Logo::Logo(const QString& picturePath, QWidget* parent) : QLabel(parent){
+    QPixmap pixmap(picturePath);
     setPixmap(pixmap);
     setScaledContents(true);
 }

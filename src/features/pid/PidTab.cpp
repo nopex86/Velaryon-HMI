@@ -57,7 +57,7 @@ PidTab::PidTab(const PidTabDeps& deps,
     PidLayout* mainLayout = new PidLayout(this);
 
     PidBackground* background = new PidBackground(
-        config.backgroud.path,
+        QString::fromStdString(config.backgroud.path),
         config.backgroud.size.x(), config.backgroud.size.y(), this);
     mainLayout->addWidget(background, PidLayout::resize);
 
@@ -66,7 +66,7 @@ PidTab::PidTab(const PidTabDeps& deps,
 
 
     // Add logo and close button
-    Logo* logo = new Logo(this);
+    Logo* logo = new Logo(QString::fromStdString(config.logo.path), this);
     logo->move(1313, 20);
     mainLayout->addWidget(logo, PidLayout::resize | PidLayout::alignRight);
 

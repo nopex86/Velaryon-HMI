@@ -30,6 +30,8 @@
 #include "src/services/AppServices.h"
 #include "src/mvvm/models/AppModels.h"
 #include "src/features/communication/udp/UdpChannel.h"
+#include "src/services/Logger/Logger.h"
+#include "src/services/FileSystem/FileSystem.h"
 int main(int argc, char *argv[]) {
 
     QApplication app(argc, argv);
@@ -39,7 +41,8 @@ int main(int argc, char *argv[]) {
     AppViewModel appVM = AppViewModel(&services, &models);
 
     // Create the main window with tabs
-    MainWindow mainWindow(&appVM);
+    MainWindow mainWindow(&appVM , services.create<FileSystem>(),
+                          services.create<Logger>());
     auto* udpChannel=  services.create<UdpChannel>();
     udpChannel->startEndpoint();
     // mainWindow->hide();  // Initially hide the main window

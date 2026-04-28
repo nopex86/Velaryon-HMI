@@ -3,17 +3,24 @@
 #include "src/features/communication/udp/UdpChannel.h"
 #include "../../TestBenchModel.h"
 #include "src/core/Protocols/Messages.h"
+#include "src/services/FileSystem/FileSystem.h"
 #include <QDir>
 
 TestLauncherViewModel::TestLauncherViewModel(
     UdpChannel* udpChannel,
     TxtParser* txtParser,
     TestBenchModel* testBenchM,
+    FileSystem* fileSystem,
+    Logger* logger,
     QObject* parent) :
-    QObject(parent){
-    m_txtParser = txtParser;
-    m_udpChannel = udpChannel;
-    m_testBenchM = testBenchM;
+    QObject(parent), m_udpChannel(udpChannel), m_txtParser(txtParser),
+    m_testBenchM(testBenchM), m_fileSystem(fileSystem),
+    m_logger(logger){
+    std::string path;
+    if (!m_fileSystem->getDirectory("sequences", &path)){
+        m_logger->error("TestLauncher : could not find sequence directory");
+    }
+    m_fileDirPath = QString::fromStdString(path);
     connect(m_txtParser, &TxtParser::FileParsed,
             this, &TestLauncherViewModel::onFileParsed);
     connect(m_udpChannel, &UdpChannel::controlEventReceived,
@@ -62,7 +69,9 @@ void TestLauncherViewModel::acquireFileList(){
 
     m_fileList = files;
     emit fileListChanged();
-    selectFile(m_fileList[0]);
+    if (!m_fileList.empty()){
+        selectFile(m_fileList[0]);
+    }
 }
 
 void TestLauncherViewModel::onFileParsed(

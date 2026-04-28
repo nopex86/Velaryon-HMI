@@ -7,7 +7,9 @@ private :
     std::unordered_map<std::string, std::string> m_pathList;
 public :
     FileSystem(QObject* parent) : QObject(parent){
-        addDirectory("statesDatas", "./Outputs/TestBenchStatus");
+        addDirectory("statesDatas", "./outputs/testbench_status");
+        addDirectory("ui_pictures", "./pictures");
+        addDirectory("sequences", "./sequences");
     }
     void addDirectory(const std::string& name, const std::string& path){
         m_pathList[name] = path;

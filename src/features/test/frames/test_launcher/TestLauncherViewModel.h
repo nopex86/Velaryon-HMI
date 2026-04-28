@@ -10,7 +10,8 @@
 class TxtParser;
 class UdpChannel;
 class TestBenchModel;
-
+class FileSystem;
+class Logger;
 
 class TestLauncherViewModel: public QObject{
     Q_OBJECT
@@ -19,6 +20,8 @@ public :
         UdpChannel* udpChannel,
         TxtParser* txtParser,
         TestBenchModel* testBenchM,
+        FileSystem* fileSystem,
+        Logger* logger,
         QObject* parent);
 
     QString selectedFile();
@@ -34,10 +37,12 @@ private :
     UdpChannel* m_udpChannel = nullptr;
     TxtParser* m_txtParser = nullptr;
     TestBenchModel* m_testBenchM = nullptr;
+    FileSystem* m_fileSystem = nullptr;
+    Logger* m_logger = nullptr;
 
     QString m_selectedFile;
     QStringList m_fileList;
-    QString m_fileDirPath = "./sequences";
+    QString m_fileDirPath;
     SequenceParameters m_sequenceParameters;
 
     bool m_isBrowsingRequested = false;

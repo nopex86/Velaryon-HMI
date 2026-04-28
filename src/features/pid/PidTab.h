@@ -6,8 +6,11 @@
 #include <QLayout>
 
 struct PidTabConfig{
+    struct LogoConfig{
+        std::string path;
+    };
     struct BackgroundConfig{
-        QString path;
+        std::string path;
         QPoint size;
     };
     struct SensorValueIndicatorConfig{
@@ -32,6 +35,7 @@ struct PidTabConfig{
         QString name;
         QPoint position;
     };
+    LogoConfig logo;
     BackgroundConfig backgroud;
     QVector<SensorValueIndicatorConfig> sensorValueIndicators;
     QVector<ValveSwitchConfig> valveSwitchs;
