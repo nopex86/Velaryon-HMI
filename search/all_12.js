@@ -1,24 +1,10 @@
 var searchData=
 [
-  ['udpchannel_0',['UdpChannel',['../classUdpChannel.html',1,'UdpChannel'],['../classUdpChannel.html#a1d69213eb88b5305686f1ef9ade76e04',1,'UdpChannel::UdpChannel()']]],
-  ['udpchannel_2ecpp_1',['UdpChannel.cpp',['../UdpChannel_8cpp.html',1,'']]],
-  ['udpchannel_2eh_2',['UdpChannel.h',['../UdpChannel_8h.html',1,'']]],
-  ['udpchannelparametersviewmodel_3',['UdpChannelParametersViewModel',['../classUdpChannelParametersViewModel.html',1,'UdpChannelParametersViewModel'],['../classUdpChannelParametersViewModel.html#a27f3b4eef7f7ffc0b16c5a4ec87bc937',1,'UdpChannelParametersViewModel::UdpChannelParametersViewModel()']]],
-  ['udpchannelparametersviewmodel_2ecpp_4',['UdpChannelParametersViewModel.cpp',['../UdpChannelParametersViewModel_8cpp.html',1,'']]],
-  ['udpchannelparametersviewmodel_2eh_5',['UdpChannelParametersViewModel.h',['../UdpChannelParametersViewModel_8h.html',1,'']]],
-  ['udpchannelparameterswidget_6',['UdpChannelParametersWidget',['../classUdpChannelParametersWidget.html',1,'UdpChannelParametersWidget'],['../classUdpChannelParametersWidget.html#a8c8893bfae4e0e8e5ee8e18d7398493e',1,'UdpChannelParametersWidget::UdpChannelParametersWidget()']]],
-  ['udpchannelparameterswidget_2ecpp_7',['UdpChannelParametersWidget.cpp',['../UdpChannelParametersWidget_8cpp.html',1,'']]],
-  ['udpchannelparameterswidget_2eh_8',['UdpChannelParametersWidget.h',['../UdpChannelParametersWidget_8h.html',1,'']]],
-  ['udpcodec_2ecpp_9',['UdpCodec.cpp',['../UdpCodec_8cpp.html',1,'']]],
-  ['udpcodec_2eh_10',['UdpCodec.h',['../UdpCodec_8h.html',1,'']]],
-  ['udpcodecbuilder_2ecpp_11',['UdpCodecBuilder.cpp',['../UdpCodecBuilder_8cpp.html',1,'']]],
-  ['udpcodecbuilder_2eh_12',['UdpCodecBuilder.h',['../UdpCodecBuilder_8h.html',1,'']]],
-  ['udplogger_13',['UdpLogger',['../classUdpLogger.html',1,'UdpLogger'],['../classUdpLogger.html#a3a9ac545199225def09e2fb040ddd344',1,'UdpLogger::UdpLogger(const std::string &amp;logDirPath, Logger *logger)'],['../classUdpLogger.html#a44fc05e670356c225cf13921822e19e1',1,'UdpLogger::UdpLogger(const UdpLogger &amp;)=delete'],['../classUdpLogger.html#a5e2d08e4e2f989976d465943d48bf0a6',1,'UdpLogger::UdpLogger(UdpLogger &amp;&amp;)=delete']]],
-  ['udplogger_2ecpp_14',['UdpLogger.cpp',['../UdpLogger_8cpp.html',1,'']]],
-  ['udplogger_2eh_15',['UdpLogger.h',['../UdpLogger_8h.html',1,'']]],
-  ['udpworker_16',['UdpWorker',['../classUdpWorker.html',1,'UdpWorker'],['../classUdpWorker.html#a48cff580e1a225d88f6db56f7de60078',1,'UdpWorker::UdpWorker()']]],
-  ['udpworker_2ecpp_17',['UdpWorker.cpp',['../UdpWorker_8cpp.html',1,'']]],
-  ['udpworker_2eh_18',['UdpWorker.h',['../UdpWorker_8h.html',1,'']]],
-  ['unit_19',['unit',['../classapp.html#a71912a442228d9b98bd87a0ad5910d18',1,'app::unit'],['../classSensorReading.html#a25f46741c9ae4070886fcb57c72a36ec',1,'SensorReading::unit'],['../structmetaData.html#a48b672bc2789961f50d00d8b0390b360',1,'metaData::unit'],['../structPidTabConfig_1_1SensorValueIndicatorConfig.html#a7f21e7fdff0871d8a8c661a7258dba54',1,'PidTabConfig::SensorValueIndicatorConfig::unit']]],
-  ['updatestatus_20',['updateStatus',['../classActuatorSwitchViewModel.html#afca1d249f6cd2a0a4ce5833d753b9420',1,'ActuatorSwitchViewModel']]]
+  ['name_0',['name',['../classSequenceFileFrame.html#a9b5bff55617e0145d65d19d861ffc417',1,'SequenceFileFrame::name'],['../structCurveParameters.html#aced504e9e4cc2a59acf0baaa2b409de9',1,'CurveParameters::name'],['../structtimeRangeButton.html#aaeabcaf98acd0e7be9f114f99dd68614',1,'timeRangeButton::name'],['../structPlot_1_1Binding.html#a516c096be5ecab9e6cb1f6ecd09fdb36',1,'Plot::Binding::name'],['../structDisplayBinding.html#acb5e743229d0efe15f8c797765e59805',1,'DisplayBinding::name'],['../structPidTabConfig_1_1SensorValueIndicatorConfig.html#a3abe310339ca358a5c0386e4a0585584',1,'PidTabConfig::SensorValueIndicatorConfig::name'],['../structPidTabConfig_1_1ValveSwitchConfig.html#a4d500aa0670e152f47d8fa6380d54faf',1,'PidTabConfig::ValveSwitchConfig::name'],['../structPidTabConfig_1_1TankPressureIndicadorConfig.html#acaa6cd3f46ccfc6858d17fa070f8f38b',1,'PidTabConfig::TankPressureIndicadorConfig::name'],['../structPidTabConfig_1_1GlowPlugSwitchConfig.html#ac532f1842332f84fc593cbbdc7756c52',1,'PidTabConfig::GlowPlugSwitchConfig::name'],['../classActuatorSwitchViewModel.html#a166e3b6ceb009e6c088837c83b6ca62a',1,'ActuatorSwitchViewModel::name()']]],
+  ['network_1',['Network',['../group__Network.html',1,'']]],
+  ['newtons_2',['newtons',['../classapp.html#a71912a442228d9b98bd87a0ad5910d18a14db14c1246ecaca51c2150d3a01b605',1,'app']]],
+  ['noconstraints_3',['noConstraints',['../classPidLayout.html#a7d3d173bd2b074294e2dd86ea49bfe97a06f084c8cfec348297dd1fde7a1170d5',1,'PidLayout']]],
+  ['non_20régression_4',['6. Exigences de non-régression',['../md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md47',1,'']]],
+  ['numberofbindings_5',['numberOfBindings',['../classDebugDisplayViewModel.html#a6bf470644b579789a34668da89932dab',1,'DebugDisplayViewModel']]],
+  ['numberofbindingschanged_6',['numberOfBindingsChanged',['../classDebugDisplayViewModel.html#ad272f1c0a025d856e9cc247e9313db04',1,'DebugDisplayViewModel']]]
 ];

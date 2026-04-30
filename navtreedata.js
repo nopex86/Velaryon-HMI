@@ -25,6 +25,56 @@
 var NAVTREE =
 [
   [ "Velaryon", "index.html", [
+    [ "SDD — Software Design Document", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html", [
+      [ "Velaryon V3", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html#autotoc_md1", [
+        [ "Vue d'ensemble de l'architecture", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html#autotoc_md3", [
+          [ "1.1 Pattern architectural", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html#autotoc_md4", null ],
+          [ "1.2 Décomposition en threads", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html#autotoc_md5", null ]
+        ] ],
+        [ "Low-Level Requirements", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html#autotoc_md7", [
+          [ "2.1 Sous-système UDP", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html#autotoc_md8", null ],
+          [ "2.2 Ring Buffer", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html#autotoc_md9", null ],
+          [ "2.3 BdfWriter", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html#autotoc_md10", null ],
+          [ "2.4 Décimation UI", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html#autotoc_md11", null ],
+          [ "2.5 Arrêt d'urgence", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html#autotoc_md12", null ]
+        ] ],
+        [ "Décisions de conception", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html#autotoc_md14", [
+          [ "3.1 Choix du ring buffer SPSC lock-free", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html#autotoc_md15", null ],
+          [ "3.2 Choix de Qt comme framework", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html#autotoc_md16", null ]
+        ] ],
+        [ "Diagrammes", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html#autotoc_md18", [
+          [ "4.1 Flux de données", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html#autotoc_md19", null ]
+        ] ],
+        [ "Matrice de traçabilité", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2sdd_2SoftwareDesignDocument.html#autotoc_md21", null ]
+      ] ]
+    ] ],
+    [ "SRS — Software Requirements Specification", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html", [
+      [ "Velaryon V3", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md23", [
+        [ "Objet et domaine d'application", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md25", [
+          [ "1.1 Objet", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md26", null ],
+          [ "1.2 Périmètre", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md27", null ],
+          [ "1.3 Documents de référence", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md28", null ]
+        ] ],
+        [ "Exigences générales", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md30", [
+          [ "2.1 Exigences de performance", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md31", null ],
+          [ "2.2 Exigences de sécurité", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md32", null ]
+        ] ],
+        [ "Exigences fonctionnelles", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md34", [
+          [ "3.1 Acquisition de données", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md35", null ],
+          [ "3.2 Logging", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md36", null ],
+          [ "3.3 Interface graphique", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md37", null ],
+          [ "3.4 Commande des actionneurs", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md38", null ],
+          [ "3.5 TVC", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md39", null ]
+        ] ],
+        [ "Exigences d'interface", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md41", [
+          [ "4.1 Interface réseau", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md42", null ],
+          [ "4.2 Interface opérateur", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md43", null ]
+        ] ],
+        [ "Exigences de fiabilité et maintenance", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md45", null ],
+        [ "Exigences de non-régression", "md__2home_2runner_2work_2Velaryon-HMI_2Velaryon-HMI_2docs_2srs_2SoftwareRequirementSpecification.html#autotoc_md47", null ]
+      ] ]
+    ] ],
+    [ "Topics", "topics.html", "topics" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -53,10 +103,10 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "ActuatorControlWidget_8cpp.html",
-"UdpWorker_8h.html#a97ee0a9619acebafade22a9b7b0de667",
-"classPlot.html#ad8ac3014dce9c96bf48444a1a8ea7a89",
-"classTextMessage.html#a3b1777d5cfddbce45f60dc44330842f0a4059b0251f66a18cb56f544728796875",
-"functions_type.html"
+"classAckBB.html",
+"classPlotViewModel.html#a1cf1c30c7d5d9ba0635ebff8166194b2",
+"classTimer.html#a44c9208d316a5d99174a7d04349f6bc8",
+"functions_vars_b.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

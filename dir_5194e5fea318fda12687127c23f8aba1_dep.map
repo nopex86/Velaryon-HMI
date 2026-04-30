@@ -1,0 +1,12 @@
+<map id="app" name="app">
+<area shape="rect" id="node1" href="dir_5194e5fea318fda12687127c23f8aba1.html" title="app" alt="" coords="120,5,167,31"/>
+<area shape="rect" id="node2" href="dir_1826a32a9d780ddbaf96ec88be56c4cd.html" title="services" alt="" coords="5,79,81,104"/>
+<area shape="poly" id="edge1" href="dir_000001_000034.html" alt="" coords="129,33,72,73,69,68,126,29"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000001_000034.html" title="5" alt="" coords="75,68,84,82"/>
+<area shape="rect" id="node3" href="dir_751a3bd66ed682f151629a9c0f0ebd6e.html" title="features" alt="" coords="105,79,181,104"/>
+<area shape="poly" id="edge2" href="dir_000001_000012.html" alt="" coords="146,31,146,65,141,65,141,31"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000001_000012.html" title="7" alt="" coords="147,53,156,68"/>
+<area shape="rect" id="node4" href="dir_952c181019b9929608092c82bceaeaab.html" title="mvvm" alt="" coords="206,79,270,104"/>
+<area shape="poly" id="edge3" href="dir_000001_000025.html" alt="" coords="160,29,213,68,210,72,157,33"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000001_000025.html" title="2" alt="" coords="208,53,218,68"/>
+</map>

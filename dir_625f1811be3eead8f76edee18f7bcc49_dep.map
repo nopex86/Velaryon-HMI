@@ -1,0 +1,7 @@
+<map id="features/communication/udp/frames_logger" name="features/communication/udp/frames_logger">
+<area shape="rect" id="node1" href="dir_625f1811be3eead8f76edee18f7bcc49.html" title="frames_logger" alt="" coords="27,52,143,77"/>
+<area shape="rect" id="node2" href="dir_1826a32a9d780ddbaf96ec88be56c4cd.html" title="services" alt="" coords="47,125,123,151"/>
+<area shape="poly" id="edge1" href="dir_000017_000034.html" alt="" coords="88,78,88,112,83,112,83,78"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000017_000034.html" title="3" alt="" coords="89,100,98,114"/>
+<area shape="rect" id="clust1" href="dir_e7f90e595023df30dec406a9cc790f53.html" title="udp" alt="" coords="16,16,155,88"/>
+</map>
