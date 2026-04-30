@@ -23,7 +23,7 @@ class Logger;
  * @details UdpLogger allows the UDP channel to persist incoming telemetry
  * and state frames at a sustained rate of at least 2 kHz. Responsibilities:
  *  - Accept variable-length binary frames from the UDP worker thread.
- *  - Buffer frames in a lock-free SPSC ring buffer.
+ *  - Buffer frames in a lock-free SPSC ring buffer. (not yet lock free)
  *  - Drain the ring buffer on a dedicated writer thread and flush to a
  *    binary @c .bdf file via Writer.
  *
