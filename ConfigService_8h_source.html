@@ -99,60 +99,43 @@ $(function(){initNavTree('ConfigService_8h_source.html',''); initResizable(true)
   <div class="headertitle"><div class="title">ConfigService.h</div></div>
 </div><!--header-->
 <div class="contents">
-<a href="ConfigService_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="preprocessor">#ifndef CONFIG_H</span></div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="preprocessor">#define CONFIG_H</span></div>
+<a href="ConfigService_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="comment">// #ifndef CONFIG_H</span></div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="comment">// #define CONFIG_H</span></div>
 <div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span> </div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="preprocessor">#include &lt;QString&gt;</span></div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="comment">// #include &lt;QString&gt;</span></div>
 <div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span> </div>
-<div class="foldopen" id="foldopen00006" data-start="{" data-end="};">
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno"><a class="line" href="classConfig.html">    6</a></span><span class="keyword">class </span><a class="code hl_class" href="classConfig.html">Config</a> {</div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">public</span>:</div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno"><a class="line" href="classConfig.html#aa11efc765912c1d473372e18b835fd63">    8</a></span>    <span class="keyword">static</span> QString <a class="code hl_function" href="classConfig.html#aa11efc765912c1d473372e18b835fd63">getIpAddress</a>();</div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno"><a class="line" href="classConfig.html#a738cb811a6138feea8194b99fb2cf45c">    9</a></span>    <span class="keyword">static</span> quint16 <a class="code hl_function" href="classConfig.html#a738cb811a6138feea8194b99fb2cf45c">getPort</a>();</div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="comment">// class Config {</span></div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="comment">// public:</span></div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="comment">//     static QString getIpAddress();</span></div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="comment">//     static quint16 getPort();</span></div>
 <div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span> </div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>    <span class="comment">// Getters for computer IP and port</span></div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>    <span class="keyword">static</span> QString <a class="code hl_function" href="classConfig.html#a9bf5ba912f151e8d9fa8affaba4d6dd3">getComputerIpAddress</a>();</div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>    <span class="keyword">static</span> quint16 <a class="code hl_function" href="classConfig.html#aba0652b7a734b9bb33b457e33f0efa13">getComputerPort</a>();</div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="comment">//     // Getters for computer IP and port</span></div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="comment">//     static QString getComputerIpAddress();</span></div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span><span class="comment">//     static quint16 getComputerPort();</span></div>
 <div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span> </div>
-<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>    <span class="comment">// Setters for computer IP and port</span></div>
-<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code hl_function" href="classConfig.html#a1ec9304bfbb0982e412ebd842294affc">setComputerIpAddress</a>(<span class="keyword">const</span> QString &amp;ip);</div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span><span class="comment">//     // Setters for computer IP and port</span></div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span><span class="comment">//     static void setComputerIpAddress(const QString &amp;ip);</span></div>
 <div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span> </div>
-<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>    <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code hl_function" href="classConfig.html#a8a1473488c5f2ad002ba6999dc72fd97">setComputerPort</a>(quint16 p);</div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span><span class="comment">//     static void setComputerPort(quint16 p);</span></div>
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span> </div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>    <span class="comment">// Getters for microcontroller IP and port</span></div>
-<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>    <span class="keyword">static</span> QString <a class="code hl_function" href="classConfig.html#a82401e7043d520912b845b7f4ffca1e5">getUC_IpAddress</a>();</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="comment">//     // Getters for microcontroller IP and port</span></div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span><span class="comment">//     static QString getUC_IpAddress();</span></div>
 <div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span> </div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>    <span class="keyword">static</span> quint16 <a class="code hl_function" href="classConfig.html#a5ab967fadb2419a490c2668a4a92d3cc">getUC_Port</a>();</div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span><span class="comment">//     static quint16 getUC_Port();</span></div>
 <div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span> </div>
-<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>    <span class="comment">// Setters for microcontroller IP and port</span></div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>    <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code hl_function" href="classConfig.html#a09894d5c94b302b8ebdab71573ea9017">setUC_IpAddress</a>(<span class="keyword">const</span> QString &amp;ip);</div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span><span class="comment">//     // Setters for microcontroller IP and port</span></div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span><span class="comment">//     static void setUC_IpAddress(const QString &amp;ip);</span></div>
 <div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span> </div>
-<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>    <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code hl_function" href="classConfig.html#a4189dffb82447f4dacf2887e7b9473ce">setUC_Port</a>(quint16 p);</div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span><span class="comment">//     static void setUC_Port(quint16 p);</span></div>
 <div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span> </div>
-<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span><span class="keyword">private</span>:</div>
-<div class="line"><a id="l00031" name="l00031"></a><span class="lineno"><a class="line" href="classConfig.html#ae1376beb5d76f7bf6b42b50ddd2f9334">   31</a></span>    <span class="keyword">static</span> QString <a class="code hl_variable" href="classConfig.html#ae1376beb5d76f7bf6b42b50ddd2f9334">computer_ip</a>;</div>
-<div class="line"><a id="l00032" name="l00032"></a><span class="lineno"><a class="line" href="classConfig.html#a437f8534bf83d2857da86f36bb2ef051">   32</a></span>    <span class="keyword">static</span> quint16 <a class="code hl_variable" href="classConfig.html#a437f8534bf83d2857da86f36bb2ef051">computer_port</a>;</div>
-<div class="line"><a id="l00033" name="l00033"></a><span class="lineno"><a class="line" href="classConfig.html#a0de856cf20facdb4d387af71730d4f79">   33</a></span>    <span class="keyword">static</span> QString <a class="code hl_variable" href="classConfig.html#a0de856cf20facdb4d387af71730d4f79">uC_ip</a>;</div>
-<div class="line"><a id="l00034" name="l00034"></a><span class="lineno"><a class="line" href="classConfig.html#ad83047986bfddc636ccf0fd3ae872c10">   34</a></span>    <span class="keyword">static</span> quint16 <a class="code hl_variable" href="classConfig.html#ad83047986bfddc636ccf0fd3ae872c10">uC_port</a>;</div>
-<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>};</div>
-</div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span><span class="comment">// private:</span></div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span><span class="comment">//     static QString computer_ip;</span></div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span><span class="comment">//     static quint16 computer_port;</span></div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span><span class="comment">//     static QString uC_ip;</span></div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span><span class="comment">//     static quint16 uC_port;</span></div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span><span class="comment">// };</span></div>
 <div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span> </div>
-<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span><span class="preprocessor">#endif </span><span class="comment">// CONFIG_H</span></div>
-<div class="ttc" id="aclassConfig_html"><div class="ttname"><a href="classConfig.html">Config</a></div><div class="ttdef"><b>Definition</b> ConfigService.h:6</div></div>
-<div class="ttc" id="aclassConfig_html_a09894d5c94b302b8ebdab71573ea9017"><div class="ttname"><a href="classConfig.html#a09894d5c94b302b8ebdab71573ea9017">Config::setUC_IpAddress</a></div><div class="ttdeci">static void setUC_IpAddress(const QString &amp;ip)</div><div class="ttdef"><b>Definition</b> ConfigService.cpp:39</div></div>
-<div class="ttc" id="aclassConfig_html_a0de856cf20facdb4d387af71730d4f79"><div class="ttname"><a href="classConfig.html#a0de856cf20facdb4d387af71730d4f79">Config::uC_ip</a></div><div class="ttdeci">static QString uC_ip</div><div class="ttdef"><b>Definition</b> ConfigService.h:33</div></div>
-<div class="ttc" id="aclassConfig_html_a1ec9304bfbb0982e412ebd842294affc"><div class="ttname"><a href="classConfig.html#a1ec9304bfbb0982e412ebd842294affc">Config::setComputerIpAddress</a></div><div class="ttdeci">static void setComputerIpAddress(const QString &amp;ip)</div><div class="ttdef"><b>Definition</b> ConfigService.cpp:21</div></div>
-<div class="ttc" id="aclassConfig_html_a4189dffb82447f4dacf2887e7b9473ce"><div class="ttname"><a href="classConfig.html#a4189dffb82447f4dacf2887e7b9473ce">Config::setUC_Port</a></div><div class="ttdeci">static void setUC_Port(quint16 p)</div><div class="ttdef"><b>Definition</b> ConfigService.cpp:43</div></div>
-<div class="ttc" id="aclassConfig_html_a437f8534bf83d2857da86f36bb2ef051"><div class="ttname"><a href="classConfig.html#a437f8534bf83d2857da86f36bb2ef051">Config::computer_port</a></div><div class="ttdeci">static quint16 computer_port</div><div class="ttdef"><b>Definition</b> ConfigService.h:32</div></div>
-<div class="ttc" id="aclassConfig_html_a5ab967fadb2419a490c2668a4a92d3cc"><div class="ttname"><a href="classConfig.html#a5ab967fadb2419a490c2668a4a92d3cc">Config::getUC_Port</a></div><div class="ttdeci">static quint16 getUC_Port()</div><div class="ttdef"><b>Definition</b> ConfigService.cpp:34</div></div>
-<div class="ttc" id="aclassConfig_html_a738cb811a6138feea8194b99fb2cf45c"><div class="ttname"><a href="classConfig.html#a738cb811a6138feea8194b99fb2cf45c">Config::getPort</a></div><div class="ttdeci">static quint16 getPort()</div></div>
-<div class="ttc" id="aclassConfig_html_a82401e7043d520912b845b7f4ffca1e5"><div class="ttname"><a href="classConfig.html#a82401e7043d520912b845b7f4ffca1e5">Config::getUC_IpAddress</a></div><div class="ttdeci">static QString getUC_IpAddress()</div><div class="ttdef"><b>Definition</b> ConfigService.cpp:30</div></div>
-<div class="ttc" id="aclassConfig_html_a8a1473488c5f2ad002ba6999dc72fd97"><div class="ttname"><a href="classConfig.html#a8a1473488c5f2ad002ba6999dc72fd97">Config::setComputerPort</a></div><div class="ttdeci">static void setComputerPort(quint16 p)</div><div class="ttdef"><b>Definition</b> ConfigService.cpp:25</div></div>
-<div class="ttc" id="aclassConfig_html_a9bf5ba912f151e8d9fa8affaba4d6dd3"><div class="ttname"><a href="classConfig.html#a9bf5ba912f151e8d9fa8affaba4d6dd3">Config::getComputerIpAddress</a></div><div class="ttdeci">static QString getComputerIpAddress()</div><div class="ttdef"><b>Definition</b> ConfigService.cpp:12</div></div>
-<div class="ttc" id="aclassConfig_html_aa11efc765912c1d473372e18b835fd63"><div class="ttname"><a href="classConfig.html#aa11efc765912c1d473372e18b835fd63">Config::getIpAddress</a></div><div class="ttdeci">static QString getIpAddress()</div></div>
-<div class="ttc" id="aclassConfig_html_aba0652b7a734b9bb33b457e33f0efa13"><div class="ttname"><a href="classConfig.html#aba0652b7a734b9bb33b457e33f0efa13">Config::getComputerPort</a></div><div class="ttdeci">static quint16 getComputerPort()</div><div class="ttdef"><b>Definition</b> ConfigService.cpp:16</div></div>
-<div class="ttc" id="aclassConfig_html_ad83047986bfddc636ccf0fd3ae872c10"><div class="ttname"><a href="classConfig.html#ad83047986bfddc636ccf0fd3ae872c10">Config::uC_port</a></div><div class="ttdeci">static quint16 uC_port</div><div class="ttdef"><b>Definition</b> ConfigService.h:34</div></div>
-<div class="ttc" id="aclassConfig_html_ae1376beb5d76f7bf6b42b50ddd2f9334"><div class="ttname"><a href="classConfig.html#ae1376beb5d76f7bf6b42b50ddd2f9334">Config::computer_ip</a></div><div class="ttdeci">static QString computer_ip</div><div class="ttdef"><b>Definition</b> ConfigService.h:31</div></div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span><span class="comment">// #endif // CONFIG_H</span></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

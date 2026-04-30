@@ -1,5 +1,5 @@
 <map id="Logger::debug" name="Logger::debug">
-<area shape="rect" id="Node000001" title=" " alt="" coords="1641,81,1756,107"/>
+<area shape="rect" id="Node000001" title="Log the messages as a debug and send a signal to display it." alt="" coords="1641,81,1756,107"/>
 <area shape="rect" id="Node000002" href="$classWriter.html#a919d3fddef42f073eeb766975397a55b" title=" " alt="" coords="1445,5,1572,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1654,78,1592,52,1543,33,1545,28,1594,48,1656,73"/>
 <area shape="rect" id="Node000003" href="$classUdpLogger.html#a55781f93bfc47a004e7b7b8afaa0192c" title="Initialize the writer and start the writer thread." alt="" coords="1245,83,1376,108"/>

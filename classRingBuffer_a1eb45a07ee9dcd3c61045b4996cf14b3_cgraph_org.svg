@@ -20,7 +20,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classLogger.html#a6c8bf2fc8c89d76b7f4fe25d97ad4bf3" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="classLogger.html#a6c8bf2fc8c89d76b7f4fe25d97ad4bf3" target="_top" xlink:title="Log the messages as an error and send a signal to display it.">
 <polygon fill="white" stroke="#666666" points="212,-19 133,-19 133,0 212,0 212,-19"/>
 <text text-anchor="middle" x="172.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::error</text>
 </a>
@@ -38,7 +38,7 @@
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="classLogger.html#a02453fd0695fe06c495de714399e8bf7" target="_top" xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="classLogger.html#a02453fd0695fe06c495de714399e8bf7" target="_top" xlink:title="Signal that send the message to the rest of the app.">
 <polygon fill="white" stroke="#666666" points="383,-19 248,-19 248,0 383,0 383,-19"/>
 <text text-anchor="middle" x="315.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::messageLogged</text>
 </a>

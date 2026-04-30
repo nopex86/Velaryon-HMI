@@ -446,7 +446,7 @@ var sectionId = 'dynsection-0';
 <!-- Node20 -->
 <g id="Node000020" class="node">
 <title>Node20</title>
-<g id="a_Node000020"><a xlink:href="Logger_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000020"><a xlink:href="Logger_8h.html" target="_top" xlink:title="Tool that provide the ability to display and log errors and debug messages.">
 <polygon fill="white" stroke="#666666" points="469.2,-151 359.2,-151 359.2,-121 469.2,-121 469.2,-151"/>
 <text text-anchor="start" x="367.2" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">src/services/Logger</text>
 <text text-anchor="middle" x="414.2" y="-128" font-family="Helvetica,sans-Serif" font-size="10.00">/Logger.h</text>

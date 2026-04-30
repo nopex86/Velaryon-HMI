@@ -6,7 +6,7 @@
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="293,89,338,85,338,90,294,95"/>
 <area shape="rect" id="Node000005" href="$classTankPressureControlerViewModel.html#abb05457a8d1956716976ac077bba612e" title=" " alt="" coords="341,119,563,159"/>
 <area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="294,120,328,124,327,129,293,125"/>
-<area shape="rect" id="Node000007" href="$classTimer.html#ab8b4318d87a4ce20f552168be58dce1f" title=" " alt="" coords="393,184,511,209"/>
+<area shape="rect" id="Node000007" href="$classTimer.html#ab8b4318d87a4ce20f552168be58dce1f" title="Signal that send the pulse of the timer." alt="" coords="393,184,511,209"/>
 <area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="207,125,342,169,380,179,379,184,341,174,205,130"/>
 <area shape="rect" id="Node000004" href="$classTankPressureControlerViewModel.html#a219327932e451816a82636e86a4caa20" title=" " alt="" coords="611,55,844,95"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="552,73,597,73,597,78,552,78"/>

@@ -40,7 +40,7 @@
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="classLogger.html#a6c8bf2fc8c89d76b7f4fe25d97ad4bf3" target="_top" xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="classLogger.html#a6c8bf2fc8c89d76b7f4fe25d97ad4bf3" target="_top" xlink:title="Log the messages as an error and send a signal to display it.">
 <polygon fill="white" stroke="#666666" points="287,-189.5 208,-189.5 208,-170.5 287,-170.5 287,-189.5"/>
 <text text-anchor="middle" x="247.5" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::error</text>
 </a>
@@ -76,7 +76,7 @@
 <!-- Node6 -->
 <g id="Node000006" class="node">
 <title>Node6</title>
-<g id="a_Node000006"><a xlink:href="classFileSystem.html#a629654905eeeb0ecbd65586c640d0158" target="_top" xlink:title=" ">
+<g id="a_Node000006"><a xlink:href="classFileSystem.html#a629654905eeeb0ecbd65586c640d0158" target="_top" xlink:title="Allow to get the path to the path to a directory.">
 <polygon fill="white" stroke="#666666" points="316,-115.5 179,-115.5 179,-96.5 316,-96.5 316,-115.5"/>
 <text text-anchor="middle" x="247.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileSystem::getDirectory</text>
 </a>
@@ -132,7 +132,7 @@
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="classLogger.html#a02453fd0695fe06c495de714399e8bf7" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="classLogger.html#a02453fd0695fe06c495de714399e8bf7" target="_top" xlink:title="Signal that send the message to the rest of the app.">
 <polygon fill="white" stroke="#666666" points="506,-189.5 371,-189.5 371,-170.5 506,-170.5 506,-189.5"/>
 <text text-anchor="middle" x="438.5" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::messageLogged</text>
 </a>

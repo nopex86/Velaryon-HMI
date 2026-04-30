@@ -1,5 +1,5 @@
 <map id="Timer::timeout" name="Timer::timeout">
-<area shape="rect" id="Node000001" title=" " alt="" coords="341,163,460,189"/>
+<area shape="rect" id="Node000001" title="Signal that send the pulse of the timer." alt="" coords="341,163,460,189"/>
 <area shape="rect" id="Node000002" href="$classActuatorSwitchViewModel.html#a1a906ea170fdf4d96d75901251c1c2a1" title=" " alt="" coords="49,5,249,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="383,154,345,105,320,80,292,60,249,42,251,37,295,55,324,76,349,102,387,150"/>
 <area shape="rect" id="Node000003" href="$classDebugDisplayViewModel.html#adef8c701d6cca6a1901f97d6fc452c03" title=" " alt="" coords="53,69,246,109"/>

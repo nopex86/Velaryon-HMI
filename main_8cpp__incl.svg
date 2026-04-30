@@ -212,7 +212,7 @@ var sectionId = 'dynsection-0';
 <!-- Node28 -->
 <g id="Node000028" class="node">
 <title>Node28</title>
-<g id="a_Node000028"><a xlink:href="Logger_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000028"><a xlink:href="Logger_8h.html" target="_top" xlink:title="Tool that provide the ability to display and log errors and debug messages.">
 <polygon fill="white" stroke="#666666" points="1472.5,-151 1362.5,-151 1362.5,-121 1472.5,-121 1472.5,-151"/>
 <text text-anchor="start" x="1370.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">src/services/Logger</text>
 <text text-anchor="middle" x="1417.5" y="-128" font-family="Helvetica,sans-Serif" font-size="10.00">/Logger.h</text>
@@ -231,7 +231,7 @@ var sectionId = 'dynsection-0';
 <!-- Node31 -->
 <g id="Node000031" class="node">
 <title>Node31</title>
-<g id="a_Node000031"><a xlink:href="FileSystem_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000031"><a xlink:href="FileSystem_8h.html" target="_top" xlink:title="File system allow the managment of files path used in the application.">
 <polygon fill="white" stroke="#666666" points="835,-85 704,-85 704,-55 835,-55 835,-85"/>
 <text text-anchor="start" x="712" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">src/services/FileSystem</text>
 <text text-anchor="middle" x="769.5" y="-62" font-family="Helvetica,sans-Serif" font-size="10.00">/FileSystem.h</text>

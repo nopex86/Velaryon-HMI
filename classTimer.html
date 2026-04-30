@@ -105,6 +105,9 @@ $(function(){initNavTree('classTimer.html',''); initResizable(true); });
 </div><!--header-->
 <div class="contents">
 
+<p><a class="el" href="classTimer.html" title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets.">Timer</a> that emit a signal at a certain frequency to synchronise the refresh of the app widgets.  
+ <a href="#details">More...</a></p>
+
 <p><code>#include &lt;<a class="el" href="Timer_8h_source.html">services/Timer/Timer.h</a>&gt;</code></p>
 <div class="dynheader">
 Inheritance diagram for Timer:</div>
@@ -120,6 +123,7 @@ Collaboration diagram for Timer:</div>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="signals" name="signals"></a>
 Signals</h2></td></tr>
 <tr class="memitem:ab8b4318d87a4ce20f552168be58dce1f" id="r_ab8b4318d87a4ce20f552168be58dce1f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ab8b4318d87a4ce20f552168be58dce1f">timeout</a> ()</td></tr>
+<tr class="memdesc:ab8b4318d87a4ce20f552168be58dce1f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Signal that send the pulse of the timer.  <br /></td></tr>
 <tr class="separator:ab8b4318d87a4ce20f552168be58dce1f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
@@ -127,22 +131,33 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a44c9208d316a5d99174a7d04349f6bc8" id="r_a44c9208d316a5d99174a7d04349f6bc8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a44c9208d316a5d99174a7d04349f6bc8">Timer</a> (QObject *parent=nullptr)</td></tr>
 <tr class="separator:a44c9208d316a5d99174a7d04349f6bc8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a65f6ac5b060d78fb31ec5e47e8d4f906" id="r_a65f6ac5b060d78fb31ec5e47e8d4f906"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a65f6ac5b060d78fb31ec5e47e8d4f906">setFrequecy</a> (int freq)</td></tr>
+<tr class="memdesc:a65f6ac5b060d78fb31ec5e47e8d4f906"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the frequency of the timer.  <br /></td></tr>
 <tr class="separator:a65f6ac5b060d78fb31ec5e47e8d4f906"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a98bc31e6164608f785a65c14a2fce4d6" id="r_a98bc31e6164608f785a65c14a2fce4d6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a98bc31e6164608f785a65c14a2fce4d6">setPeriod</a> (int period)</td></tr>
+<tr class="memdesc:a98bc31e6164608f785a65c14a2fce4d6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the period of the timer.  <br /></td></tr>
 <tr class="separator:a98bc31e6164608f785a65c14a2fce4d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1f0198a161974b2ef0c35253e29d98ba" id="r_a1f0198a161974b2ef0c35253e29d98ba"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a1f0198a161974b2ef0c35253e29d98ba">frequencyHz</a> ()</td></tr>
+<tr class="memdesc:a1f0198a161974b2ef0c35253e29d98ba"><td class="mdescLeft">&#160;</td><td class="mdescRight">Allow to get the effective frequency of the timer.  <br /></td></tr>
 <tr class="separator:a1f0198a161974b2ef0c35253e29d98ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
 <tr class="memitem:a014ae7959ab6c21e3b8c8b13567661de" id="r_a014ae7959ab6c21e3b8c8b13567661de"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a014ae7959ab6c21e3b8c8b13567661de">m_lastRefresh</a></td></tr>
+<tr class="memdesc:a014ae7959ab6c21e3b8c8b13567661de"><td class="mdescLeft">&#160;</td><td class="mdescRight">time of the last pulse of the timer  <br /></td></tr>
 <tr class="separator:a014ae7959ab6c21e3b8c8b13567661de"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac13524fafd599659f95f10915b471c39" id="r_ac13524fafd599659f95f10915b471c39"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ac13524fafd599659f95f10915b471c39">m_periodOfRefresh</a></td></tr>
+<tr class="memdesc:ac13524fafd599659f95f10915b471c39"><td class="mdescLeft">&#160;</td><td class="mdescRight">Period betwen two pulse of the timer.  <br /></td></tr>
 <tr class="separator:ac13524fafd599659f95f10915b471c39"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acf660a9b404aa35c95e15ec6d439ce3a" id="r_acf660a9b404aa35c95e15ec6d439ce3a"><td class="memItemLeft" align="right" valign="top">QTimer&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#acf660a9b404aa35c95e15ec6d439ce3a">m_timer</a></td></tr>
 <tr class="separator:acf660a9b404aa35c95e15ec6d439ce3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p><a class="el" href="classTimer.html" title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets.">Timer</a> that emit a signal at a certain frequency to synchronise the refresh of the app widgets. </p>
+<p>Requirements :</p><ul>
+<li>Frequency should be variable with a method.</li>
+<li>Effective frequency should be watchable. </li>
+</ul>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a44c9208d316a5d99174a7d04349f6bc8" name="a44c9208d316a5d99174a7d04349f6bc8"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a44c9208d316a5d99174a7d04349f6bc8">&#9670;&#160;</a></span>Timer()</h2>
 
@@ -188,6 +203,9 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Allow to get the effective frequency of the timer. </p>
+<dl class="section return"><dt>Returns</dt><dd>Effective frequency in Hertz. </dd></dl>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -211,6 +229,15 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
+<p>Set the frequency of the timer. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">freq</td><td>Frequency to be set in Hertz. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd><code>true</code> if the opertation is successfull. <code>false</code> if the operation failed. </dd></dl>
+
 </div>
 </div>
 <a id="a98bc31e6164608f785a65c14a2fce4d6" name="a98bc31e6164608f785a65c14a2fce4d6"></a>
@@ -227,6 +254,15 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Set the period of the timer. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">period</td><td>Period to be set in miliseconds. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd><code>true</code> if the opertation is successfull. <code>false</code> if the operation failed. </dd></dl>
 
 </div>
 </div>
@@ -252,6 +288,8 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Signal that send the pulse of the timer. </p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -281,6 +319,8 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>time of the last pulse of the timer </p>
+
 </div>
 </div>
 <a id="ac13524fafd599659f95f10915b471c39" name="ac13524fafd599659f95f10915b471c39"></a>
@@ -302,6 +342,8 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Period betwen two pulse of the timer. </p>
 
 </div>
 </div>

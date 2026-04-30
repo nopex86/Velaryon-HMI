@@ -30,7 +30,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="Timer_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="Timer_8h.html" target="_top" xlink:title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets.">
 <polygon fill="white" stroke="#666666" points="62.5,-74 9.5,-74 9.5,-55 62.5,-55 62.5,-74"/>
 <text text-anchor="middle" x="36" y="-62" font-family="Helvetica,sans-Serif" font-size="10.00">Timer.h</text>
 </a>

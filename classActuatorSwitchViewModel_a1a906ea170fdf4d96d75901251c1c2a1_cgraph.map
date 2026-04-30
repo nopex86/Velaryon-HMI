@@ -1,6 +1,6 @@
 <map id="ActuatorSwitchViewModel::ActuatorSwitchViewModel" name="ActuatorSwitchViewModel::ActuatorSwitchViewModel">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,88,205,128"/>
-<area shape="rect" id="Node000002" href="$classTimer.html#ab8b4318d87a4ce20f552168be58dce1f" title=" " alt="" coords="290,66,409,91"/>
+<area shape="rect" id="Node000002" href="$classTimer.html#ab8b4318d87a4ce20f552168be58dce1f" title="Signal that send the pulse of the timer." alt="" coords="290,66,409,91"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,93,276,85,277,90,206,99"/>
 <area shape="rect" id="Node000003" href="$classActuatorSwitchViewModel.html#afca1d249f6cd2a0a4ce5833d753b9420" title=" " alt="" coords="253,116,445,156"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,117,240,121,240,126,205,122"/>

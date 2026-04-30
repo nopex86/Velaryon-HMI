@@ -21,7 +21,7 @@
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title=" ">
+<g id="a_Node000001"><a xlink:title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets.">
 <polygon fill="#999999" stroke="transparent" points="116,-124 0,-124 0,0 116,0 116,-124"/>
 <text text-anchor="start" x="43.5" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">Timer</text>
 <text text-anchor="start" x="6.5" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>

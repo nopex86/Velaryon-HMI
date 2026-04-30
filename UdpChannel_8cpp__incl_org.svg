@@ -93,7 +93,7 @@
 <!-- Node27 -->
 <g id="Node000027" class="node">
 <title>Node27</title>
-<g id="a_Node000027"><a xlink:href="FileSystem_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000027"><a xlink:href="FileSystem_8h.html" target="_top" xlink:title="File system allow the managment of files path used in the application.">
 <polygon fill="white" stroke="#666666" points="131,-85 0,-85 0,-55 131,-55 131,-85"/>
 <text text-anchor="start" x="8" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">src/services/FileSystem</text>
 <text text-anchor="middle" x="65.5" y="-62" font-family="Helvetica,sans-Serif" font-size="10.00">/FileSystem.h</text>
@@ -518,7 +518,7 @@
 <!-- Node21 -->
 <g id="Node000021" class="node">
 <title>Node21</title>
-<g id="a_Node000021"><a xlink:href="Logger_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000021"><a xlink:href="Logger_8h.html" target="_top" xlink:title="Tool that provide the ability to display and log errors and debug messages.">
 <polygon fill="white" stroke="#666666" points="541.5,-151 431.5,-151 431.5,-121 541.5,-121 541.5,-151"/>
 <text text-anchor="start" x="439.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">src/services/Logger</text>
 <text text-anchor="middle" x="486.5" y="-128" font-family="Helvetica,sans-Serif" font-size="10.00">/Logger.h</text>

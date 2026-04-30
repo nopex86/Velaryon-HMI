@@ -165,7 +165,7 @@ var sectionId = 'dynsection-1';
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="classTimer.html" target="_top" xlink:title=" ">
+<g id="a_Node000005"><a xlink:href="classTimer.html" target="_top" xlink:title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets.">
 <polygon fill="white" stroke="transparent" points="312,-451 196,-451 196,-327 312,-327 312,-451"/>
 <text text-anchor="start" x="239.5" y="-439" font-family="Helvetica,sans-Serif" font-size="10.00">Timer</text>
 <text text-anchor="start" x="202.5" y="-424" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>

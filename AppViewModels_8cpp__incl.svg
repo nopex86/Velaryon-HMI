@@ -298,7 +298,7 @@ var sectionId = 'dynsection-0';
 <!-- Node35 -->
 <g id="Node000035" class="node">
 <title>Node35</title>
-<g id="a_Node000035"><a xlink:href="Logger_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000035"><a xlink:href="Logger_8h.html" target="_top" xlink:title="Tool that provide the ability to display and log errors and debug messages.">
 <polygon fill="white" stroke="#666666" points="931,-167.5 821,-167.5 821,-137.5 931,-137.5 931,-167.5"/>
 <text text-anchor="start" x="829" y="-155.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/services/Logger</text>
 <text text-anchor="middle" x="876" y="-144.5" font-family="Helvetica,sans-Serif" font-size="10.00">/Logger.h</text>
@@ -375,7 +375,7 @@ var sectionId = 'dynsection-0';
 <!-- Node45 -->
 <g id="Node000045" class="node">
 <title>Node45</title>
-<g id="a_Node000045"><a xlink:href="Timer_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000045"><a xlink:href="Timer_8h.html" target="_top" xlink:title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets.">
 <polygon fill="white" stroke="#666666" points="3037,-404 2931,-404 2931,-374 3037,-374 3037,-404"/>
 <text text-anchor="start" x="2939" y="-392" font-family="Helvetica,sans-Serif" font-size="10.00">src/services/Timer</text>
 <text text-anchor="middle" x="2984" y="-381" font-family="Helvetica,sans-Serif" font-size="10.00">/Timer.h</text>
@@ -1231,7 +1231,7 @@ var sectionId = 'dynsection-0';
 <!-- Node44 -->
 <g id="Node000044" class="node">
 <title>Node44</title>
-<g id="a_Node000044"><a xlink:href="FileSystem_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000044"><a xlink:href="FileSystem_8h.html" target="_top" xlink:title="File system allow the managment of files path used in the application.">
 <polygon fill="white" stroke="#666666" points="1845.5,-90.5 1714.5,-90.5 1714.5,-60.5 1845.5,-60.5 1845.5,-90.5"/>
 <text text-anchor="start" x="1722.5" y="-78.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/services/FileSystem</text>
 <text text-anchor="middle" x="1780" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">/FileSystem.h</text>

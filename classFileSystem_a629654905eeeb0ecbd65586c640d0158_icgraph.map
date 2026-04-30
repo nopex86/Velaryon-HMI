@@ -1,5 +1,5 @@
 <map id="FileSystem::getDirectory" name="FileSystem::getDirectory">
-<area shape="rect" id="Node000001" title=" " alt="" coords="780,127,963,153"/>
+<area shape="rect" id="Node000001" title="Allow to get the path to the path to a directory." alt="" coords="780,127,963,153"/>
 <area shape="rect" id="Node000002" href="$classExportMenuViewModel.html#a7623949a64e9609b02ae9a45ba81427d" title=" " alt="" coords="547,5,719,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="839,122,789,91,731,60,701,48,703,43,733,55,792,86,842,117"/>
 <area shape="rect" id="Node000005" href="$classMainWindow.html#a384250eafddcd3cc380d59178551f0ab" title=" " alt="" coords="535,70,732,95"/>

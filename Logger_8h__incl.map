@@ -1,5 +1,5 @@
 <map id="services/Logger/Logger.h" name="services/Logger/Logger.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="215,5,397,31"/>
+<area shape="rect" id="Node000001" title="Tool that provide the ability to display and log errors and debug messages." alt="" coords="215,5,397,31"/>
 <area shape="rect" id="Node000002" title=" " alt="" coords="201,86,280,111"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="298,33,261,77,257,73,294,29"/>
 <area shape="rect" id="Node000003" href="$Messages_8h.html" title=" " alt="" coords="304,79,441,119"/>

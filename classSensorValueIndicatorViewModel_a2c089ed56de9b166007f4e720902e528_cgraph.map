@@ -2,6 +2,6 @@
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,35,284,75"/>
 <area shape="rect" id="Node000002" href="$classSensorValueIndicatorViewModel.html#a9b9140aa7e50d7e90cd9e201aebd288e" title=" " alt="" coords="332,5,539,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,38,318,34,318,40,284,43"/>
-<area shape="rect" id="Node000003" href="$classTimer.html#ab8b4318d87a4ce20f552168be58dce1f" title=" " alt="" coords="376,70,495,95"/>
+<area shape="rect" id="Node000003" href="$classTimer.html#ab8b4318d87a4ce20f552168be58dce1f" title="Signal that send the pulse of the timer." alt="" coords="376,70,495,95"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="284,65,362,73,362,78,284,71"/>
 </map>

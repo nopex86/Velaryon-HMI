@@ -57,7 +57,7 @@ var sectionId = 'dynsection-5';
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title=" ">
+<g id="a_Node000001"><a xlink:title="Log the messages as an error and send a signal to display it.">
 <polygon fill="#999999" stroke="#666666" points="1327,-185.5 1248,-185.5 1248,-166.5 1327,-166.5 1327,-185.5"/>
 <text text-anchor="middle" x="1287.5" y="-173.5" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::error</text>
 </a>

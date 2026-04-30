@@ -39,7 +39,7 @@
 <!-- Node10 -->
 <g id="Node000010" class="node">
 <title>Node10</title>
-<g id="a_Node000010"><a xlink:href="Logger_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000010"><a xlink:href="Logger_8h.html" target="_top" xlink:title="Tool that provide the ability to display and log errors and debug messages.">
 <polygon fill="white" stroke="#666666" points="499.44,-151 389.44,-151 389.44,-121 499.44,-121 499.44,-151"/>
 <text text-anchor="start" x="397.44" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">src/services/Logger</text>
 <text text-anchor="middle" x="444.44" y="-128" font-family="Helvetica,sans-Serif" font-size="10.00">/Logger.h</text>

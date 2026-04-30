@@ -4,9 +4,9 @@
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="439,47,320,63,177,91,111,111,57,134,37,147,21,161,11,176,8,192,8,951,13,998,27,1043,48,1086,75,1126,106,1164,139,1197,206,1254,203,1258,136,1201,102,1167,71,1130,44,1089,22,1045,8,999,3,951,3,191,6,174,17,158,33,143,55,130,110,106,176,86,320,57,438,41"/>
 <area shape="rect" id="Node000003" href="$classUdpWorker.html" title="UDP socket worker running on a dedicated thread." alt="" coords="188,867,401,1032"/>
 <area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="494,84,514,248,531,472,534,586,530,691,518,780,507,816,494,844,481,859,459,875,403,905,400,901,456,870,477,855,490,841,502,814,512,779,525,691,528,586,526,472,508,248,489,85"/>
-<area shape="rect" id="Node000005" href="$classLogger.html" title=" " alt="" coords="292,120,383,265"/>
+<area shape="rect" id="Node000005" href="$classLogger.html" title="Tool that provide the ability to display and log errors and debug messages." alt="" coords="292,120,383,265"/>
 <area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="447,83,385,146,381,142,443,79"/>
-<area shape="rect" id="Node000006" href="$classFileSystem.html" title=" " alt="" coords="531,289,653,395"/>
+<area shape="rect" id="Node000006" href="$classFileSystem.html" title="File system allow the managment of files path used in the application." alt="" coords="531,289,653,395"/>
 <area shape="poly" id="edge9_Node000006_Node000002" title=" " alt="" coords="524,81,532,93,553,143,569,196,588,288,583,290,563,197,548,145,527,96,520,84"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="297,1032,297,1078,292,1078,292,1032"/>
 <area shape="rect" id="Node000004" href="$classUdpLogger.html" title="High&#45;frequency binary logger for UDP telemetry frames." alt="" coords="86,419,263,804"/>

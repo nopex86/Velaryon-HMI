@@ -4,7 +4,7 @@
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="696,48,514,93,513,87,695,43"/>
 <area shape="rect" id="Node000012" href="$PlotViewModel_8h.html" title=" " alt="" coords="547,101,677,126"/>
 <area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="738,48,646,97,644,92,736,43"/>
-<area shape="rect" id="Node000014" href="$Timer_8h.html" title=" " alt="" coords="701,93,843,133"/>
+<area shape="rect" id="Node000014" href="$Timer_8h.html" title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets." alt="" coords="701,93,843,133"/>
 <area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="775,46,775,79,769,79,769,46"/>
 <area shape="rect" id="Node000016" title=" " alt="" coords="867,101,941,126"/>
 <area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="803,43,876,91,873,95,800,48"/>

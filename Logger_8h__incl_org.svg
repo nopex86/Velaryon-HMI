@@ -11,7 +11,7 @@
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title=" ">
+<g id="a_Node000001"><a xlink:title="Tool that provide the ability to display and log errors and debug messages.">
 <polygon fill="#999999" stroke="#666666" points="294,-140 157,-140 157,-121 294,-121 294,-140"/>
 <text text-anchor="middle" x="225.5" y="-128" font-family="Helvetica,sans-Serif" font-size="10.00">services/Logger/Logger.h</text>
 </a>

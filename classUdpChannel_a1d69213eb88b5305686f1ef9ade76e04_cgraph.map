@@ -2,7 +2,7 @@
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,385,193,411"/>
 <area shape="rect" id="Node000002" href="$classUdpWorker.html#abf76f544794092e13cfcad6ad275f96b" title="Emitted when a datagram has passed logging and decimation." alt="" coords="841,7,1065,32"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,384,115,337,141,270,159,234,182,198,209,165,240,137,308,94,383,61,461,37,541,20,620,10,695,5,827,5,827,11,695,10,620,15,542,25,463,42,385,66,311,99,243,141,212,169,186,201,164,236,146,272,120,339,106,386"/>
-<area shape="rect" id="Node000003" href="$classFileSystem.html#a629654905eeeb0ecbd65586c640d0158" title=" " alt="" coords="275,237,458,263"/>
+<area shape="rect" id="Node000003" href="$classFileSystem.html#a629654905eeeb0ecbd65586c640d0158" title="Allow to get the path to the path to a directory." alt="" coords="275,237,458,263"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,383,161,328,198,297,240,272,261,263,263,268,243,276,202,302,165,332,113,387"/>
 <area shape="rect" id="Node000004" href="$classUdpChannel.html#a4f2c0c2ee1edbc192415cbb518bc44dd" title="Decode and dispatch an incoming UDP datagram." alt="" coords="241,287,492,312"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="119,383,172,352,240,321,267,313,269,318,242,326,175,356,122,387"/>
@@ -36,11 +36,11 @@
 <area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="476,310,494,321,508,337,515,354,519,387,522,419,529,435,542,449,549,455,546,459,538,453,524,438,517,421,513,387,510,355,503,340,490,325,473,314"/>
 <area shape="rect" id="Node000009" href="$classTestBenchStatesList.html#ac8cae632bf7e555a42e7244fc796d4fb" title=" " alt="" coords="877,358,1029,398"/>
 <area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="752,375,864,375,864,381,752,381"/>
-<area shape="rect" id="Node000017" href="$classLogger.html#a3ae168e3e7df5a30cb93e1bbccaa31a0" title=" " alt="" coords="619,152,714,177"/>
+<area shape="rect" id="Node000017" href="$classLogger.html#a3ae168e3e7df5a30cb93e1bbccaa31a0" title="Log the messages and send signal to display it." alt="" coords="619,152,714,177"/>
 <area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="432,162,606,162,606,167,432,167"/>
 <area shape="rect" id="Node000019" href="$classUdpWorker.html#a052037523508f888aff917428879c089" title="Drain and process all datagrams pending on the socket." alt="" coords="565,87,768,127"/>
 <area shape="poly" id="edge18_Node000016_Node000019" title=" " alt="" coords="432,150,551,127,552,132,433,155"/>
-<area shape="rect" id="Node000018" href="$classLogger.html#a02453fd0695fe06c495de714399e8bf7" title=" " alt="" coords="863,204,1043,229"/>
+<area shape="rect" id="Node000018" href="$classLogger.html#a02453fd0695fe06c495de714399e8bf7" title="Signal that send the message to the rest of the app." alt="" coords="863,204,1043,229"/>
 <area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="715,170,870,199,869,204,714,176"/>
 <area shape="poly" id="edge19_Node000019_Node000002" title=" " alt="" coords="716,85,841,41,872,32,873,38,842,46,718,90"/>
 <area shape="rect" id="Node000020" href="$classUdpWorker.html#a45d906596983ae73bc230e6474ab44cb" title="Decimation gate — returns true at most once per period." alt="" coords="872,56,1035,81"/>

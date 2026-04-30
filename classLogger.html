@@ -104,6 +104,9 @@ $(function(){initNavTree('classLogger.html',''); initResizable(true); });
 </div><!--header-->
 <div class="contents">
 
+<p>Tool that provide the ability to display and log errors and debug messages.  
+ <a href="#details">More...</a></p>
+
 <p><code>#include &lt;<a class="el" href="Logger_8h_source.html">services/Logger/Logger.h</a>&gt;</code></p>
 <div class="dynheader">
 Inheritance diagram for Logger:</div>
@@ -119,6 +122,7 @@ Collaboration diagram for Logger:</div>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="signals" name="signals"></a>
 Signals</h2></td></tr>
 <tr class="memitem:a02453fd0695fe06c495de714399e8bf7" id="r_a02453fd0695fe06c495de714399e8bf7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a02453fd0695fe06c495de714399e8bf7">messageLogged</a> (const <a class="el" href="classTextMessage.html">TextMessage</a> &amp;message)</td></tr>
+<tr class="memdesc:a02453fd0695fe06c495de714399e8bf7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Signal that send the message to the rest of the app.  <br /></td></tr>
 <tr class="separator:a02453fd0695fe06c495de714399e8bf7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
@@ -126,15 +130,27 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a002e7ed636e30aa9fa73bc08b96201d3" id="r_a002e7ed636e30aa9fa73bc08b96201d3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a002e7ed636e30aa9fa73bc08b96201d3">Logger</a> (QObject *parent)</td></tr>
 <tr class="separator:a002e7ed636e30aa9fa73bc08b96201d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3ae168e3e7df5a30cb93e1bbccaa31a0" id="r_a3ae168e3e7df5a30cb93e1bbccaa31a0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a3ae168e3e7df5a30cb93e1bbccaa31a0">log</a> (<a class="el" href="classTextMessage.html#a3b1777d5cfddbce45f60dc44330842f0">TextMessage::Level</a> level, const QString &amp;text)</td></tr>
+<tr class="memdesc:a3ae168e3e7df5a30cb93e1bbccaa31a0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Log the messages and send signal to display it.  <br /></td></tr>
 <tr class="separator:a3ae168e3e7df5a30cb93e1bbccaa31a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad89b36eb9b5a28d1f61b3c74a6975031" id="r_ad89b36eb9b5a28d1f61b3c74a6975031"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad89b36eb9b5a28d1f61b3c74a6975031">debug</a> (const std::string &amp;text)</td></tr>
+<tr class="memdesc:ad89b36eb9b5a28d1f61b3c74a6975031"><td class="mdescLeft">&#160;</td><td class="mdescRight">Log the messages as a debug and send a signal to display it.  <br /></td></tr>
 <tr class="separator:ad89b36eb9b5a28d1f61b3c74a6975031"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6c8bf2fc8c89d76b7f4fe25d97ad4bf3" id="r_a6c8bf2fc8c89d76b7f4fe25d97ad4bf3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a6c8bf2fc8c89d76b7f4fe25d97ad4bf3">error</a> (const std::string &amp;text)</td></tr>
+<tr class="memdesc:a6c8bf2fc8c89d76b7f4fe25d97ad4bf3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Log the messages as an error and send a signal to display it.  <br /></td></tr>
 <tr class="separator:a6c8bf2fc8c89d76b7f4fe25d97ad4bf3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0722f34ac1340d456dcea045974732dc" id="r_a0722f34ac1340d456dcea045974732dc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a0722f34ac1340d456dcea045974732dc">warning</a> (const std::string &amp;text)</td></tr>
+<tr class="memdesc:a0722f34ac1340d456dcea045974732dc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Log the messages as a warning and send a signal to display it.  <br /></td></tr>
 <tr class="separator:a0722f34ac1340d456dcea045974732dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>Tool that provide the ability to display and log errors and debug messages. </p>
+<p>This service is given to the components of the app to give them the ability to display errors and help debugging. Requirements :</p><ul>
+<li>Thread safe (not currently done)</li>
+<li>Lock free (not currently done)</li>
+<li>Provide differents importance levels of logs</li>
+<li>Write the logs in a file (not currently done) </li>
+</ul>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a002e7ed636e30aa9fa73bc08b96201d3" name="a002e7ed636e30aa9fa73bc08b96201d3"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a002e7ed636e30aa9fa73bc08b96201d3">&#9670;&#160;</a></span>Logger()</h2>
 
@@ -175,6 +191,14 @@ Public Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Log the messages as a debug and send a signal to display it. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">text</td><td>Text of the message. </td></tr>
+  </table>
+  </dd>
+</dl>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -202,6 +226,14 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Log the messages as an error and send a signal to display it. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">text</td><td>Text of the message. </td></tr>
+  </table>
+  </dd>
+</dl>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -233,6 +265,16 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Log the messages and send signal to display it. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">level</td><td>Level of importance of the message. </td></tr>
+    <tr><td class="paramname">text</td><td>Text of the message. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section note"><dt>Note</dt><dd>this methode is depreciated </dd></dl>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -268,6 +310,14 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Signal that send the message to the rest of the app. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">message</td><td>Struct that contain the text of the message and is level of importance. </td></tr>
+  </table>
+  </dd>
+</dl>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -290,6 +340,14 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Log the messages as a warning and send a signal to display it. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">text</td><td>Text of the message. </td></tr>
+  </table>
+  </dd>
+</dl>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">

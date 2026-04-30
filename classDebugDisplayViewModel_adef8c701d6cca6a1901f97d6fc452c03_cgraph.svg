@@ -86,7 +86,7 @@ var sectionId = 'dynsection-2';
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="classTimer.html#a1f0198a161974b2ef0c35253e29d98ba" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="classTimer.html#a1f0198a161974b2ef0c35253e29d98ba" target="_top" xlink:title="Allow to get the effective frequency of the timer.">
 <polygon fill="white" stroke="#666666" points="307,-105 194,-105 194,-86 307,-86 307,-105"/>
 <text text-anchor="middle" x="250.5" y="-93" font-family="Helvetica,sans-Serif" font-size="10.00">Timer::frequencyHz</text>
 </a>
@@ -123,7 +123,7 @@ var sectionId = 'dynsection-2';
 <!-- Node6 -->
 <g id="Node000006" class="node">
 <title>Node6</title>
-<g id="a_Node000006"><a xlink:href="classTimer.html#ab8b4318d87a4ce20f552168be58dce1f" target="_top" xlink:title=" ">
+<g id="a_Node000006"><a xlink:href="classTimer.html#ab8b4318d87a4ce20f552168be58dce1f" target="_top" xlink:title="Signal that send the pulse of the timer.">
 <polygon fill="white" stroke="#666666" points="295,-19 206,-19 206,0 295,0 295,-19"/>
 <text text-anchor="middle" x="250.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Timer::timeout</text>
 </a>

@@ -6,8 +6,8 @@
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,31,521,23,521,28,447,36"/>
 <area shape="rect" id="Node000006" href="$classUdpChannel.html#a8e42a953d827d6a78a4867ba05b6a4ca" title="Instructs the UdpWorker to stop." alt="" coords="495,55,703,80"/>
 <area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="447,50,481,53,481,59,446,55"/>
-<area shape="rect" id="Node000004" href="$classLogger.html#ad89b36eb9b5a28d1f61b3c74a6975031" title=" " alt="" coords="751,5,865,31"/>
+<area shape="rect" id="Node000004" href="$classLogger.html#ad89b36eb9b5a28d1f61b3c74a6975031" title="Log the messages as a debug and send a signal to display it." alt="" coords="751,5,865,31"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="663,15,737,15,737,21,663,21"/>
-<area shape="rect" id="Node000005" href="$classLogger.html#a02453fd0695fe06c495de714399e8bf7" title=" " alt="" coords="913,5,1093,31"/>
+<area shape="rect" id="Node000005" href="$classLogger.html#a02453fd0695fe06c495de714399e8bf7" title="Signal that send the message to the rest of the app." alt="" coords="913,5,1093,31"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="866,15,899,15,899,21,866,21"/>
 </map>

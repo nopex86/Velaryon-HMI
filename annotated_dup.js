@@ -12,7 +12,6 @@ var annotated_dup =
     [ "BdfHeader", "structBdfHeader.html", "structBdfHeader" ],
     [ "Chrono", "classChrono.html", "classChrono" ],
     [ "CloseButton", "classCloseButton.html", "classCloseButton" ],
-    [ "Config", "classConfig.html", null ],
     [ "ControlEvent", "structControlEvent.html", "structControlEvent" ],
     [ "CountdownClock", "classCountdownClock.html", "classCountdownClock" ],
     [ "CountdownClockViewModel", "classCountdownClockViewModel.html", "classCountdownClockViewModel" ],

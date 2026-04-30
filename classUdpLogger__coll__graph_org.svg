@@ -60,7 +60,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classLogger.html" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="classLogger.html" target="_top" xlink:title="Tool that provide the ability to display and log errors and debug messages.">
 <polygon fill="white" stroke="transparent" points="100.5,-445 32.5,-445 32.5,-336 100.5,-336 100.5,-445"/>
 <text text-anchor="start" x="49.5" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00">Logger</text>
 <text text-anchor="start" x="64.5" y="-417.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>

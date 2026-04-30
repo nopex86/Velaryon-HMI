@@ -26,7 +26,7 @@
 <area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="457,190,576,240,574,245,455,194"/>
 <area shape="rect" id="Node000012" title=" " alt="" coords="247,247,332,273"/>
 <area shape="poly" id="edge13_Node000009_Node000012" title=" " alt="" coords="410,195,323,243,321,238,407,190"/>
-<area shape="rect" id="Node000013" href="$Logger_8h.html" title=" " alt="" coords="356,240,503,280"/>
+<area shape="rect" id="Node000013" href="$Logger_8h.html" title="Tool that provide the ability to display and log errors and debug messages." alt="" coords="356,240,503,280"/>
 <area shape="poly" id="edge14_Node000009_Node000013" title=" " alt="" coords="432,192,432,226,427,226,427,192"/>
 <area shape="rect" id="Node000014" title=" " alt="" coords="478,335,557,361"/>
 <area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="451,278,497,323,493,327,447,282"/>

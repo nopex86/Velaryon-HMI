@@ -6,15 +6,15 @@
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,2428,166,2475,161,2473,177,2426"/>
 <area shape="rect" id="Node000004" title=" " alt="" coords="348,5,415,71"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="335,49,273,64,208,91,180,110,157,133,142,160,136,192,136,1857,144,1939,164,2020,159,2022,139,1940,131,1857,131,191,137,158,153,130,176,106,206,87,272,59,334,44"/>
-<area shape="rect" id="Node000005" href="$classTimer.html" title=" " alt="" coords="155,289,309,455"/>
+<area shape="rect" id="Node000005" href="$classTimer.html" title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets." alt="" coords="155,289,309,455"/>
 <area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="339,69,313,96,287,143,268,193,254,243,244,289,239,288,249,242,263,191,282,140,309,93,335,65"/>
 <area shape="rect" id="Node000006" href="$classUdpChannel.html" title="UDP communication channel between the microcontroller and the HMI." alt="" coords="342,1245,522,1691"/>
 <area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="384,84,384,191,384,1101,387,1173,394,1245,389,1245,381,1173,379,1101,379,191,379,84"/>
 <area shape="rect" id="Node000007" href="$classUdpWorker.html" title="UDP socket worker running on a dedicated thread." alt="" coords="615,1017,828,1183"/>
 <area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="429,52,489,78,521,96,550,118,640,202,673,239,701,276,725,317,747,362,787,478,803,550,810,625,810,699,804,773,794,843,781,909,752,1018,747,1016,775,908,789,843,799,772,805,699,805,625,797,551,781,479,742,364,721,319,697,279,669,242,636,205,546,122,518,101,487,83,427,57"/>
-<area shape="rect" id="Node000009" href="$classLogger.html" title=" " alt="" coords="445,120,536,265"/>
+<area shape="rect" id="Node000009" href="$classLogger.html" title="Tool that provide the ability to display and log errors and debug messages." alt="" coords="445,120,536,265"/>
 <area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="414,80,447,126,443,129,410,83"/>
-<area shape="rect" id="Node000010" href="$classFileSystem.html" title=" " alt="" coords="221,888,344,993"/>
+<area shape="rect" id="Node000010" href="$classFileSystem.html" title="File system allow the managment of files path used in the application." alt="" coords="221,888,344,993"/>
 <area shape="poly" id="edge15_Node000010_Node000004" title=" " alt="" coords="368,85,365,95,341,261,319,489,289,888,283,888,313,489,336,260,360,94,363,83"/>
 <area shape="rect" id="Node000011" href="$classTestBenchModel.html" title=" " alt="" coords="668,1753,847,1959"/>
 <area shape="poly" id="edge19_Node000011_Node000004" title=" " alt="" coords="429,41,549,57,693,86,760,106,815,129,837,143,854,158,864,174,868,191,868,1469,862,1545,847,1620,827,1691,805,1754,800,1752,822,1690,842,1619,857,1544,863,1469,863,192,859,176,850,161,834,147,813,134,758,111,692,91,548,62,428,47"/>

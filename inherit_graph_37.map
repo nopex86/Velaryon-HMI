@@ -1,35 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,376,84,401"/>
-<area shape="rect" id="Node000001" href="$classChrono.html" title=" " alt="" coords="209,5,277,31"/>
-<area shape="poly" id="edge58_Node000000_Node000001" title=" " alt="" coords="46,362,56,287,74,191,98,100,113,64,130,40,148,28,168,20,208,14,209,19,169,25,150,32,134,44,118,67,103,102,79,192,62,288,52,362"/>
-<area shape="rect" id="Node000002" href="$classCloseButton.html" title=" " alt="" coords="192,55,293,80"/>
-<area shape="poly" id="edge59_Node000000_Node000002" title=" " alt="" coords="43,362,45,305,57,232,68,193,83,155,104,120,130,89,159,72,191,65,192,70,161,77,134,93,108,123,88,157,73,195,62,233,50,306,48,362"/>
-<area shape="rect" id="Node000003" href="$classEmergencyControls.html" title=" " alt="" coords="168,104,317,129"/>
-<area shape="poly" id="edge60_Node000000_Node000003" title=" " alt="" coords="44,361,50,313,64,253,89,191,108,163,130,139,147,127,167,120,169,125,150,132,134,143,112,166,94,194,69,255,55,314,50,362"/>
-<area shape="rect" id="Node000004" href="$classGraphicTab.html" title=" " alt="" coords="195,153,290,179"/>
-<area shape="poly" id="edge61_Node000000_Node000004" title=" " alt="" coords="47,362,55,323,71,276,95,228,111,207,130,188,161,171,195,164,196,169,163,176,134,192,115,210,100,231,76,278,61,324,52,363"/>
-<area shape="rect" id="Node000005" href="$classOverlay.html" title=" " alt="" coords="206,203,279,228"/>
-<area shape="poly" id="edge62_Node000000_Node000005" title=" " alt="" coords="51,362,79,299,101,265,130,237,167,220,205,213,206,219,169,225,134,242,105,269,83,301,56,364"/>
-<area shape="rect" id="Node000006" href="$classParametersWindow.html" title=" " alt="" coords="169,252,317,277"/>
-<area shape="poly" id="edge63_Node000000_Node000006" title=" " alt="" coords="58,363,88,323,108,303,131,286,167,271,169,276,133,291,111,307,92,327,62,366"/>
-<area shape="rect" id="Node000007" href="$classPidTab.html" title=" " alt="" coords="211,301,275,327"/>
-<area shape="poly" id="edge64_Node000000_Node000007" title=" " alt="" coords="74,366,131,336,172,323,210,315,211,321,173,328,133,340,77,370"/>
-<area shape="rect" id="Node000008" href="$classPlot.html" title=" " alt="" coords="219,351,266,376"/>
-<area shape="poly" id="edge65_Node000000_Node000008" title=" " alt="" coords="97,379,219,364,219,369,98,385"/>
-<area shape="rect" id="Node000009" href="$classTankPressureControlFrame.html" title=" " alt="" coords="145,400,341,425"/>
-<area shape="poly" id="edge66_Node000000_Node000009" title=" " alt="" coords="98,392,145,398,144,403,97,398"/>
-<area shape="rect" id="Node000010" href="$classTankPressureControler.html" title=" " alt="" coords="159,449,327,475"/>
-<area shape="poly" id="edge67_Node000000_Node000010" title=" " alt="" coords="78,406,133,434,174,447,172,452,131,439,76,411"/>
-<area shape="rect" id="Node000011" href="$classTestLauncher.html" title=" " alt="" coords="189,499,296,524"/>
-<area shape="poly" id="edge68_Node000000_Node000011" title=" " alt="" coords="63,411,93,449,112,468,133,484,161,496,190,503,189,509,159,501,131,488,108,472,89,453,59,414"/>
-<area shape="rect" id="Node000012" href="$classTestTab.html" title=" " alt="" coords="207,548,278,573"/>
-<area shape="poly" id="edge69_Node000000_Node000012" title=" " alt="" coords="56,414,84,475,106,507,134,533,170,550,207,557,206,562,168,555,130,538,102,510,80,477,52,416"/>
-<area shape="rect" id="Node000013" href="$classUdpChannelParametersWidget.html" title=" " alt="" coords="132,597,353,623"/>
-<area shape="poly" id="edge70_Node000000_Node000013" title=" " alt="" coords="53,415,61,453,76,498,100,544,116,565,134,583,154,595,151,599,130,587,112,568,96,547,72,500,56,454,47,416"/>
-<area shape="rect" id="Node000014" href="$classactuatorControlFrame.html" title=" " alt="" coords="161,647,325,672"/>
-<area shape="poly" id="edge71_Node000000_Node000014" title=" " alt="" coords="50,415,56,462,69,521,94,581,112,608,134,632,162,648,159,653,130,636,108,612,90,584,64,523,50,463,45,416"/>
-<area shape="rect" id="Node000015" href="$classlogTerminalFrame.html" title=" " alt="" coords="173,696,312,721"/>
-<area shape="poly" id="edge72_Node000000_Node000015" title=" " alt="" coords="48,415,51,471,62,543,73,581,88,618,108,652,134,681,152,694,174,702,172,707,150,699,130,685,104,655,84,620,68,582,57,544,46,471,43,415"/>
-<area shape="rect" id="Node000016" href="$classtvcControlFrame.html" title=" " alt="" coords="177,745,308,771"/>
-<area shape="poly" id="edge73_Node000000_Node000016" title=" " alt="" coords="52,415,62,488,79,584,103,673,118,708,134,731,154,745,178,752,176,758,152,749,130,735,113,710,98,675,74,585,57,489,46,415"/>
+<area shape="rect" id="Node000000" href="$classRingBuffer.html" title=" " alt="" coords="5,5,193,45"/>
 </map>

@@ -77,7 +77,7 @@
 <!-- Node7 -->
 <g id="Node000007" class="node">
 <title>Node7</title>
-<g id="a_Node000007"><a xlink:href="classTimer.html#ab8b4318d87a4ce20f552168be58dce1f" target="_top" xlink:title=" ">
+<g id="a_Node000007"><a xlink:href="classTimer.html#ab8b4318d87a4ce20f552168be58dce1f" target="_top" xlink:title="Signal that send the pulse of the timer.">
 <polygon fill="white" stroke="#666666" points="379.5,-19 290.5,-19 290.5,0 379.5,0 379.5,-19"/>
 <text text-anchor="middle" x="335" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Timer::timeout</text>
 </a>

@@ -20,7 +20,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classLogger.html#a3ae168e3e7df5a30cb93e1bbccaa31a0" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="classLogger.html#a3ae168e3e7df5a30cb93e1bbccaa31a0" target="_top" xlink:title="Log the messages and send signal to display it.">
 <polygon fill="white" stroke="#666666" points="245.5,-151 174.5,-151 174.5,-132 245.5,-132 245.5,-151"/>
 <text text-anchor="middle" x="210" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::log</text>
 </a>
@@ -57,7 +57,7 @@
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="classLogger.html#a02453fd0695fe06c495de714399e8bf7" target="_top" xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="classLogger.html#a02453fd0695fe06c495de714399e8bf7" target="_top" xlink:title="Signal that send the message to the rest of the app.">
 <polygon fill="white" stroke="#666666" points="473.5,-167 338.5,-167 338.5,-148 473.5,-148 473.5,-167"/>
 <text text-anchor="middle" x="406" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::messageLogged</text>
 </a>

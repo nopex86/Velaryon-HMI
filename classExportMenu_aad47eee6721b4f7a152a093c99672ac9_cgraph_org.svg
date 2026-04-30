@@ -95,7 +95,7 @@
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="classFileSystem.html#a629654905eeeb0ecbd65586c640d0158" target="_top" xlink:title=" ">
+<g id="a_Node000004"><a xlink:href="classFileSystem.html#a629654905eeeb0ecbd65586c640d0158" target="_top" xlink:title="Allow to get the path to the path to a directory.">
 <polygon fill="white" stroke="#666666" points="699,-136.5 562,-136.5 562,-117.5 699,-117.5 699,-136.5"/>
 <text text-anchor="middle" x="630.5" y="-124.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileSystem::getDirectory</text>
 </a>
@@ -258,7 +258,7 @@
 <!-- Node11 -->
 <g id="Node000011" class="node">
 <title>Node11</title>
-<g id="a_Node000011"><a xlink:href="classLogger.html#ad89b36eb9b5a28d1f61b3c74a6975031" target="_top" xlink:title=" ">
+<g id="a_Node000011"><a xlink:href="classLogger.html#ad89b36eb9b5a28d1f61b3c74a6975031" target="_top" xlink:title="Log the messages as a debug and send a signal to display it.">
 <polygon fill="white" stroke="#666666" points="1361,-164.5 1275,-164.5 1275,-145.5 1361,-145.5 1361,-164.5"/>
 <text text-anchor="middle" x="1318" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::debug</text>
 </a>
@@ -276,7 +276,7 @@
 <!-- Node13 -->
 <g id="Node000013" class="node">
 <title>Node13</title>
-<g id="a_Node000013"><a xlink:href="classLogger.html#a6c8bf2fc8c89d76b7f4fe25d97ad4bf3" target="_top" xlink:title=" ">
+<g id="a_Node000013"><a xlink:href="classLogger.html#a6c8bf2fc8c89d76b7f4fe25d97ad4bf3" target="_top" xlink:title="Log the messages as an error and send a signal to display it.">
 <polygon fill="white" stroke="#666666" points="1357.5,-127.5 1278.5,-127.5 1278.5,-108.5 1357.5,-108.5 1357.5,-127.5"/>
 <text text-anchor="middle" x="1318" y="-115.5" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::error</text>
 </a>
@@ -312,7 +312,7 @@
 <!-- Node12 -->
 <g id="Node000012" class="node">
 <title>Node12</title>
-<g id="a_Node000012"><a xlink:href="classLogger.html#a02453fd0695fe06c495de714399e8bf7" target="_top" xlink:title=" ">
+<g id="a_Node000012"><a xlink:href="classLogger.html#a02453fd0695fe06c495de714399e8bf7" target="_top" xlink:title="Signal that send the message to the rest of the app.">
 <polygon fill="white" stroke="#666666" points="1532,-145.5 1397,-145.5 1397,-126.5 1532,-126.5 1532,-145.5"/>
 <text text-anchor="middle" x="1464.5" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::messageLogged</text>
 </a>

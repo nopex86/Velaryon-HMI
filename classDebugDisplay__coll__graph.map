@@ -6,7 +6,7 @@
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,555,169,604,165,600,198,552"/>
 <area shape="rect" id="Node000004" title=" " alt="" coords="212,5,279,71"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="249,84,257,285,262,348,257,348,252,285,244,85"/>
-<area shape="rect" id="Node000005" href="$classTimer.html" title=" " alt="" coords="267,120,421,285"/>
+<area shape="rect" id="Node000005" href="$classTimer.html" title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets." alt="" coords="267,120,421,285"/>
 <area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="274,81,297,118,292,121,269,84"/>
 <area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="322,286,308,333,303,331,317,285"/>
 </map>

@@ -103,7 +103,7 @@ $(function(){initNavTree('classUdpLogger.html',''); initResizable(true); });
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="#pri-static-attribs">Static Private Attributes</a> &#124;
 <a href="classUdpLogger-members.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">UdpLogger Class Reference<div class="ingroups"><a class="el" href="group__Logging.html">Logging</a></div></div></div>
+  <div class="headertitle"><div class="title">UdpLogger Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -188,7 +188,7 @@ Static Private Attributes</h2></td></tr>
 <div class="textblock"><p>High-frequency binary logger for UDP telemetry frames. </p>
 <p><a class="el" href="classUdpLogger.html" title="High-frequency binary logger for UDP telemetry frames.">UdpLogger</a> allows the UDP channel to persist incoming telemetry and state frames at a sustained rate of at least 2 kHz. Responsibilities:</p><ul>
 <li>Accept variable-length binary frames from the UDP worker thread.</li>
-<li>Buffer frames in a lock-free SPSC ring buffer.</li>
+<li>Buffer frames in a lock-free SPSC ring buffer. (not yet lock free)</li>
 <li>Drain the ring buffer on a dedicated writer thread and flush to a binary <code></code>.bdf file via <a class="el" href="classWriter.html">Writer</a>.</li>
 </ul>
 <dl class="section user"><dt>Threading model</dt><dd><code><a class="el" href="#af906a235ecd2b3ce89f8fe052e46991e" title="Push a binary frame into the ring buffer.">log()</a></code> is called from the UDP worker thread. The ring buffer is the only shared resource and is accessed lock-free. The writer loop runs on a dedicated <code>std::thread</code> and is the only consumer of the buffer.</dd></dl>

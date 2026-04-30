@@ -2,7 +2,7 @@
 <area shape="rect" id="Node000001" title=" " alt="" coords="33,328,221,588"/>
 <area shape="rect" id="Node000002" title=" " alt="" coords="5,160,139,225"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,225,99,311,94,312,76,226"/>
-<area shape="rect" id="Node000003" href="$classLogger.html" title=" " alt="" coords="163,120,253,265"/>
+<area shape="rect" id="Node000003" href="$classLogger.html" title="Tool that provide the ability to display and log errors and debug messages." alt="" coords="163,120,253,265"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,266,174,313,169,311,183,265"/>
 <area shape="rect" id="Node000004" title=" " alt="" coords="175,5,241,71"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="211,84,211,120,205,120,205,84"/>

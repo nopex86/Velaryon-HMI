@@ -8,7 +8,7 @@
 <area shape="poly" id="edge32_Node000001_Node000024" title=" " alt="" coords="705,46,705,79,699,79,699,46"/>
 <area shape="rect" id="Node000026" href="$UdpCodec_8h.html" title=" " alt="" coords="306,321,455,346"/>
 <area shape="poly" id="edge37_Node000001_Node000026" title=" " alt="" coords="612,37,545,51,476,75,444,92,414,113,389,138,368,168,357,203,357,241,364,277,373,307,368,308,359,278,352,242,352,202,364,165,385,135,411,109,441,88,474,70,544,45,610,32"/>
-<area shape="rect" id="Node000027" href="$FileSystem_8h.html" title=" " alt="" coords="5,401,180,441"/>
+<area shape="rect" id="Node000027" href="$FileSystem_8h.html" title="File system allow the managment of files path used in the application." alt="" coords="5,401,180,441"/>
 <area shape="poly" id="edge40_Node000001_Node000027" title=" " alt="" coords="611,35,468,49,388,60,310,75,240,94,184,118,162,131,146,146,136,161,133,178,133,254,130,291,124,327,107,389,102,387,119,326,125,290,127,254,127,178,131,159,142,142,159,127,181,113,239,89,309,70,387,55,467,43,610,29"/>
 <area shape="rect" id="Node000028" title=" " alt="" coords="1253,93,1324,119"/>
 <area shape="poly" id="edge43_Node000001_Node000028" title=" " alt="" coords="793,33,996,57,1234,91,1240,92,1239,97,1234,96,995,62,792,38"/>
@@ -55,7 +55,7 @@
 <area shape="poly" id="edge21_Node000017_Node000019" title=" " alt="" coords="930,268,867,315,864,310,926,263"/>
 <area shape="rect" id="Node000020" title=" " alt="" coords="901,321,986,346"/>
 <area shape="poly" id="edge23_Node000017_Node000020" title=" " alt="" coords="946,266,946,307,941,307,941,266"/>
-<area shape="rect" id="Node000021" href="$Logger_8h.html" title=" " alt="" coords="581,313,727,353"/>
+<area shape="rect" id="Node000021" href="$Logger_8h.html" title="Tool that provide the ability to display and log errors and debug messages." alt="" coords="581,313,727,353"/>
 <area shape="poly" id="edge24_Node000017_Node000021" title=" " alt="" coords="902,268,737,312,736,307,901,263"/>
 <area shape="poly" id="edge26_Node000021_Node000006" title=" " alt="" coords="611,356,510,398,508,393,609,351"/>
 <area shape="rect" id="Node000022" title=" " alt="" coords="615,409,693,434"/>

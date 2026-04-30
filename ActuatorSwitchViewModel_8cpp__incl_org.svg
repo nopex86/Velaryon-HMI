@@ -95,7 +95,7 @@
 <!-- Node26 -->
 <g id="Node000026" class="node">
 <title>Node26</title>
-<g id="a_Node000026"><a xlink:href="Timer_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000026"><a xlink:href="Timer_8h.html" target="_top" xlink:title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets.">
 <polygon fill="white" stroke="#666666" points="948.4,-327 842.4,-327 842.4,-297 948.4,-297 948.4,-327"/>
 <text text-anchor="start" x="850.4" y="-315" font-family="Helvetica,sans-Serif" font-size="10.00">src/services/Timer</text>
 <text text-anchor="middle" x="895.4" y="-304" font-family="Helvetica,sans-Serif" font-size="10.00">/Timer.h</text>
@@ -493,7 +493,7 @@
 <!-- Node22 -->
 <g id="Node000022" class="node">
 <title>Node22</title>
-<g id="a_Node000022"><a xlink:href="Logger_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000022"><a xlink:href="Logger_8h.html" target="_top" xlink:title="Tool that provide the ability to display and log errors and debug messages.">
 <polygon fill="white" stroke="#666666" points="502.4,-151 392.4,-151 392.4,-121 502.4,-121 502.4,-151"/>
 <text text-anchor="start" x="400.4" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">src/services/Logger</text>
 <text text-anchor="middle" x="447.4" y="-128" font-family="Helvetica,sans-Serif" font-size="10.00">/Logger.h</text>

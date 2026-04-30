@@ -152,7 +152,7 @@
 <!-- Node6 -->
 <g id="Node000006" class="node">
 <title>Node6</title>
-<g id="a_Node000006"><a xlink:href="classLogger.html" target="_top" xlink:title=" ">
+<g id="a_Node000006"><a xlink:href="classLogger.html" target="_top" xlink:title="Tool that provide the ability to display and log errors and debug messages.">
 <polygon fill="white" stroke="transparent" points="263,-1176 195,-1176 195,-1067 263,-1067 263,-1176"/>
 <text text-anchor="start" x="212" y="-1163.5" font-family="Helvetica,sans-Serif" font-size="10.00">Logger</text>
 <text text-anchor="start" x="227" y="-1148.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
@@ -184,7 +184,7 @@
 <!-- Node7 -->
 <g id="Node000007" class="node">
 <title>Node7</title>
-<g id="a_Node000007"><a xlink:href="classFileSystem.html" target="_top" xlink:title=" ">
+<g id="a_Node000007"><a xlink:href="classFileSystem.html" target="_top" xlink:title="File system allow the managment of files path used in the application.">
 <polygon fill="white" stroke="transparent" points="502,-1049 410,-1049 410,-970 502,-970 502,-1049"/>
 <text text-anchor="start" x="428.5" y="-1036.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileSystem</text>
 <text text-anchor="start" x="416.5" y="-1021.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
@@ -192,9 +192,9 @@
 <text text-anchor="start" x="414" y="-1006.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="427" y="-1006.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileSystem()</text>
 <text text-anchor="start" x="414" y="-991.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="427" y="-991.5" font-family="Helvetica,sans-Serif" font-size="10.00">addDirectory()</text>
-<text text-anchor="start" x="414" y="-976.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="427" y="-976.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDirectory()</text>
+<text text-anchor="start" x="427" y="-991.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDirectory()</text>
+<text text-anchor="start" x="416.5" y="-976.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="427" y="-976.5" font-family="Helvetica,sans-Serif" font-size="10.00">addDirectory()</text>
 <polygon fill="#666666" stroke="#666666" points="410,-1031.5 410,-1031.5 502,-1031.5 502,-1031.5 410,-1031.5"/>
 <polygon fill="#666666" stroke="#666666" points="410,-1016.5 410,-1016.5 425,-1016.5 425,-1016.5 410,-1016.5"/>
 <polygon fill="#666666" stroke="#666666" points="425,-1016.5 425,-1016.5 502,-1016.5 502,-1016.5 425,-1016.5"/>

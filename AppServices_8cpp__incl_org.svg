@@ -57,7 +57,7 @@
 <!-- Node23 -->
 <g id="Node000023" class="node">
 <title>Node23</title>
-<g id="a_Node000023"><a xlink:href="Logger_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000023"><a xlink:href="Logger_8h.html" target="_top" xlink:title="Tool that provide the ability to display and log errors and debug messages.">
 <polygon fill="white" stroke="#666666" points="968.5,-151 858.5,-151 858.5,-121 968.5,-121 968.5,-151"/>
 <text text-anchor="start" x="866.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">src/services/Logger</text>
 <text text-anchor="middle" x="913.5" y="-128" font-family="Helvetica,sans-Serif" font-size="10.00">/Logger.h</text>
@@ -113,7 +113,7 @@
 <!-- Node29 -->
 <g id="Node000029" class="node">
 <title>Node29</title>
-<g id="a_Node000029"><a xlink:href="FileSystem_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000029"><a xlink:href="FileSystem_8h.html" target="_top" xlink:title="File system allow the managment of files path used in the application.">
 <polygon fill="white" stroke="#666666" points="143,-206 0,-206 0,-187 143,-187 143,-206"/>
 <text text-anchor="middle" x="71.5" y="-194" font-family="Helvetica,sans-Serif" font-size="10.00">./FileSystem/FileSystem.h</text>
 </a>
@@ -131,7 +131,7 @@
 <!-- Node30 -->
 <g id="Node000030" class="node">
 <title>Node30</title>
-<g id="a_Node000030"><a xlink:href="Timer_8h.html" target="_top" xlink:title=" ">
+<g id="a_Node000030"><a xlink:href="Timer_8h.html" target="_top" xlink:title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets.">
 <polygon fill="white" stroke="#666666" points="980,-321.5 889,-321.5 889,-302.5 980,-302.5 980,-321.5"/>
 <text text-anchor="middle" x="934.5" y="-309.5" font-family="Helvetica,sans-Serif" font-size="10.00">./Timer/Timer.h</text>
 </a>

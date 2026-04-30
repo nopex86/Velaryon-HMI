@@ -4,7 +4,7 @@
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="281,48,245,68,212,95,190,123,171,153,140,216,119,276,106,323,101,321,113,275,135,214,166,150,186,119,208,91,242,63,279,43"/>
 <area shape="rect" id="Node000004" href="$Messages_8h.html" title=" " alt="" coords="317,416,455,456"/>
 <area shape="poly" id="edge36_Node000001_Node000004" title=" " alt="" coords="310,48,286,74,260,109,239,149,233,171,231,193,231,269,234,291,241,312,267,351,302,382,338,407,335,411,298,386,263,354,237,315,229,292,226,269,226,193,228,170,234,147,255,106,281,71,307,44"/>
-<area shape="rect" id="Node000012" href="$Logger_8h.html" title=" " alt="" coords="418,328,565,368"/>
+<area shape="rect" id="Node000012" href="$Logger_8h.html" title="Tool that provide the ability to display and log errors and debug messages." alt="" coords="418,328,565,368"/>
 <area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="335,45,344,86,359,132,385,185,415,235,471,316,466,319,410,238,380,187,354,134,339,87,330,46"/>
 <area shape="rect" id="Node000014" href="$UdpChannel_8h.html" title="UDP communication channel between the microcontroller and the HMI." alt="" coords="368,93,572,133"/>
 <area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="362,43,429,84,426,89,359,48"/>

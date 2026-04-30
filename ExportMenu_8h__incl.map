@@ -14,7 +14,7 @@
 <area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="401,121,362,165,358,162,397,117"/>
 <area shape="rect" id="Node000008" href="$CsvExporter_8h.html" title=" " alt="" coords="589,167,761,207"/>
 <area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="448,116,599,160,598,165,447,121"/>
-<area shape="rect" id="Node000011" href="$FileSystem_8h.html" title=" " alt="" coords="391,167,565,207"/>
+<area shape="rect" id="Node000011" href="$FileSystem_8h.html" title="File system allow the managment of files path used in the application." alt="" coords="391,167,565,207"/>
 <area shape="poly" id="edge11_Node000005_Node000011" title=" " alt="" coords="421,117,454,155,450,158,417,121"/>
 <area shape="poly" id="edge10_Node000008_Node000006" title=" " alt="" coords="629,209,521,252,519,247,627,204"/>
 <area shape="rect" id="Node000009" title=" " alt="" coords="603,255,662,280"/>

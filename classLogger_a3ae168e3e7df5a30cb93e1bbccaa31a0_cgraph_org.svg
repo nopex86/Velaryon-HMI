@@ -11,7 +11,7 @@
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title=" ">
+<g id="a_Node000001"><a xlink:title="Log the messages and send signal to display it.">
 <polygon fill="#999999" stroke="#666666" points="71,-19 0,-19 0,0 71,0 71,-19"/>
 <text text-anchor="middle" x="35.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::log</text>
 </a>
@@ -20,7 +20,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classLogger.html#a02453fd0695fe06c495de714399e8bf7" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="classLogger.html#a02453fd0695fe06c495de714399e8bf7" target="_top" xlink:title="Signal that send the message to the rest of the app.">
 <polygon fill="white" stroke="#666666" points="242,-19 107,-19 107,0 242,0 242,-19"/>
 <text text-anchor="middle" x="174.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::messageLogged</text>
 </a>

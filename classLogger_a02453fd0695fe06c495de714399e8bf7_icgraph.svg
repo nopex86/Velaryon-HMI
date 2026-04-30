@@ -57,7 +57,7 @@ var sectionId = 'dynsection-8';
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title=" ">
+<g id="a_Node000001"><a xlink:title="Signal that send the message to the rest of the app.">
 <polygon fill="#999999" stroke="#666666" points="1598,-169 1463,-169 1463,-150 1598,-150 1598,-169"/>
 <text text-anchor="middle" x="1530.5" y="-157" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::messageLogged</text>
 </a>
@@ -66,7 +66,7 @@ var sectionId = 'dynsection-8';
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classLogger.html#ad89b36eb9b5a28d1f61b3c74a6975031" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="classLogger.html#ad89b36eb9b5a28d1f61b3c74a6975031" target="_top" xlink:title="Log the messages as a debug and send a signal to display it.">
 <polygon fill="white" stroke="#666666" points="1402,-367 1316,-367 1316,-348 1402,-348 1402,-367"/>
 <text text-anchor="middle" x="1359" y="-355" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::debug</text>
 </a>
@@ -84,7 +84,7 @@ var sectionId = 'dynsection-8';
 <!-- Node18 -->
 <g id="Node000018" class="node">
 <title>Node18</title>
-<g id="a_Node000018"><a xlink:href="classLogger.html#a6c8bf2fc8c89d76b7f4fe25d97ad4bf3" target="_top" xlink:title=" ">
+<g id="a_Node000018"><a xlink:href="classLogger.html#a6c8bf2fc8c89d76b7f4fe25d97ad4bf3" target="_top" xlink:title="Log the messages as an error and send a signal to display it.">
 <polygon fill="white" stroke="#666666" points="1398.5,-206 1319.5,-206 1319.5,-187 1398.5,-187 1398.5,-206"/>
 <text text-anchor="middle" x="1359" y="-194" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::error</text>
 </a>
@@ -102,7 +102,7 @@ var sectionId = 'dynsection-8';
 <!-- Node25 -->
 <g id="Node000025" class="node">
 <title>Node25</title>
-<g id="a_Node000025"><a xlink:href="classLogger.html#a3ae168e3e7df5a30cb93e1bbccaa31a0" target="_top" xlink:title=" ">
+<g id="a_Node000025"><a xlink:href="classLogger.html#a3ae168e3e7df5a30cb93e1bbccaa31a0" target="_top" xlink:title="Log the messages and send signal to display it.">
 <polygon fill="white" stroke="#666666" points="1394.5,-169 1323.5,-169 1323.5,-150 1394.5,-150 1394.5,-169"/>
 <text text-anchor="middle" x="1359" y="-157" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::log</text>
 </a>
@@ -139,7 +139,7 @@ var sectionId = 'dynsection-8';
 <!-- Node29 -->
 <g id="Node000029" class="node">
 <title>Node29</title>
-<g id="a_Node000029"><a xlink:href="classLogger.html#a0722f34ac1340d456dcea045974732dc" target="_top" xlink:title=" ">
+<g id="a_Node000029"><a xlink:href="classLogger.html#a0722f34ac1340d456dcea045974732dc" target="_top" xlink:title="Log the messages as a warning and send a signal to display it.">
 <polygon fill="white" stroke="#666666" points="1406.5,-83 1311.5,-83 1311.5,-64 1406.5,-64 1406.5,-83"/>
 <text text-anchor="middle" x="1359" y="-71" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::warning</text>
 </a>

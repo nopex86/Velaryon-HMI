@@ -2,11 +2,11 @@
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,92,199,132"/>
 <area shape="rect" id="Node000002" href="$classDebugDisplayViewModel.html#ac47110ea203aeec5314d620ce3b6a250" title=" " alt="" coords="247,5,432,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,89,246,55,266,48,268,53,248,60,156,94"/>
-<area shape="rect" id="Node000004" href="$classTimer.html#a1f0198a161974b2ef0c35253e29d98ba" title=" " alt="" coords="264,70,415,95"/>
+<area shape="rect" id="Node000004" href="$classTimer.html#a1f0198a161974b2ef0c35253e29d98ba" title="Allow to get the effective frequency of the timer." alt="" coords="264,70,415,95"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,97,250,91,251,96,199,103"/>
 <area shape="rect" id="Node000005" href="$classDebugDisplayViewModel.html#a997e4bf3f31b3ebc687d3db9a22dc99c" title=" " alt="" coords="247,120,432,160"/>
 <area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="199,121,233,125,233,130,198,126"/>
-<area shape="rect" id="Node000006" href="$classTimer.html#ab8b4318d87a4ce20f552168be58dce1f" title=" " alt="" coords="280,185,399,210"/>
+<area shape="rect" id="Node000006" href="$classTimer.html#ab8b4318d87a4ce20f552168be58dce1f" title="Signal that send the pulse of the timer." alt="" coords="280,185,399,210"/>
 <area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="148,130,248,169,276,178,274,184,246,175,146,135"/>
 <area shape="rect" id="Node000003" href="$classDebugDisplayViewModel.html#ad272f1c0a025d856e9cc247e9313db04" title=" " alt="" coords="480,5,688,45"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="432,23,466,23,466,28,432,28"/>

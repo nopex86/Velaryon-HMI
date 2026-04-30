@@ -1,55 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,639,80,664"/>
-<area shape="rect" id="Node000001" href="$classActuatorSwitchViewModel.html" title=" " alt="" coords="143,5,335,31"/>
-<area shape="poly" id="edge30_Node000000_Node000001" title=" " alt="" coords="41,625,43,501,53,326,64,236,78,154,99,87,112,60,126,40,141,28,144,33,130,44,116,63,104,88,84,155,69,237,58,326,48,501,46,625"/>
-<area shape="rect" id="Node000002" href="$classAppModels.html" title=" " alt="" coords="191,55,286,80"/>
-<area shape="poly" id="edge31_Node000000_Node000002" title=" " alt="" coords="41,625,45,510,56,350,67,268,81,193,101,132,113,108,126,89,140,78,156,70,190,63,192,69,158,76,143,83,130,93,117,111,106,134,87,194,72,269,62,350,50,510,47,625"/>
-<area shape="rect" id="Node000003" href="$classAppServices.html" title=" " alt="" coords="187,104,290,129"/>
-<area shape="poly" id="edge32_Node000000_Node000003" title=" " alt="" coords="42,625,47,519,59,374,70,300,84,232,103,177,126,139,154,121,187,113,188,118,156,126,130,143,108,179,90,234,75,301,65,374,52,519,47,625"/>
-<area shape="rect" id="Node000004" href="$classAppViewModel.html" title=" " alt="" coords="179,153,298,179"/>
-<area shape="poly" id="edge33_Node000000_Node000004" title=" " alt="" coords="42,624,49,528,63,397,74,331,87,271,105,222,126,188,150,172,178,164,180,169,153,177,130,192,110,224,93,273,79,332,68,398,54,528,48,625"/>
-<area shape="rect" id="Node000005" href="$classCSVLogger.html" title=" " alt="" coords="193,203,285,228"/>
-<area shape="poly" id="edge34_Node000000_Node000005" title=" " alt="" coords="43,625,51,537,66,422,90,311,107,267,126,238,141,226,157,219,192,212,193,217,159,224,143,231,130,241,111,270,96,312,71,422,56,538,48,625"/>
-<area shape="rect" id="Node000006" href="$classCountdownClockViewModel.html" title=" " alt="" coords="137,252,340,277"/>
-<area shape="poly" id="edge35_Node000000_Node000006" title=" " alt="" coords="44,625,53,547,69,446,93,350,109,312,126,287,141,275,144,280,130,291,113,315,99,352,75,447,58,548,49,625"/>
-<area shape="rect" id="Node000007" href="$classDebugDisplayViewModel.html" title=" " alt="" coords="146,301,331,327"/>
-<area shape="poly" id="edge36_Node000000_Node000007" title=" " alt="" coords="45,625,56,557,73,471,97,389,111,358,126,336,144,324,147,328,130,340,115,360,102,391,78,472,61,558,50,626"/>
-<area shape="rect" id="Node000008" href="$classEmergencyControlsViewModel.html" title=" " alt="" coords="128,351,349,376"/>
-<area shape="poly" id="edge37_Node000000_Node000008" title=" " alt="" coords="42,625,46,574,58,509,69,476,83,443,102,412,126,385,143,374,146,378,130,389,107,415,88,445,74,477,63,511,51,575,47,625"/>
-<area shape="rect" id="Node000009" href="$classExportMenuViewModel.html" title=" " alt="" coords="153,400,325,425"/>
-<area shape="poly" id="edge38_Node000000_Node000009" title=" " alt="" coords="44,624,51,582,65,531,90,479,106,455,126,435,151,420,153,425,130,439,110,459,94,482,70,533,56,584,49,625"/>
-<area shape="rect" id="Node000010" href="$classFileSystem.html" title=" " alt="" coords="191,449,286,475"/>
-<area shape="poly" id="edge39_Node000000_Node000010" title=" " alt="" coords="48,624,58,592,73,554,96,517,126,485,157,469,190,461,192,467,159,474,130,489,100,520,78,557,63,594,53,626"/>
-<area shape="rect" id="Node000011" href="$classInitialiseValveButtonViewModel.html" title=" " alt="" coords="144,499,333,539"/>
-<area shape="poly" id="edge40_Node000000_Node000011" title=" " alt="" coords="56,626,85,586,105,566,127,549,149,537,152,542,129,554,108,570,90,590,61,629"/>
-<area shape="rect" id="Node000012" href="$classLogTerminalViewModel.html" title=" " alt="" coords="152,564,325,589"/>
-<area shape="poly" id="edge41_Node000000_Node000012" title=" " alt="" coords="72,628,127,598,163,587,164,592,129,603,74,633"/>
-<area shape="rect" id="Node000013" href="$classLogger.html" title=" " alt="" coords="205,613,272,639"/>
-<area shape="poly" id="edge42_Node000000_Node000013" title=" " alt="" coords="93,642,205,628,205,633,94,647"/>
-<area shape="rect" id="Node000014" href="$classPidViewModel.html" title=" " alt="" coords="181,663,296,688"/>
-<area shape="poly" id="edge43_Node000000_Node000014" title=" " alt="" coords="94,655,181,666,181,671,93,660"/>
-<area shape="rect" id="Node000015" href="$classPlotViewModel.html" title=" " alt="" coords="179,712,298,737"/>
-<area shape="poly" id="edge44_Node000000_Node000015" title=" " alt="" coords="75,669,129,697,180,712,178,717,127,702,73,674"/>
-<area shape="rect" id="Node000016" href="$classPressureTanksModel.html" title=" " alt="" coords="161,761,316,787"/>
-<area shape="poly" id="edge45_Node000000_Node000016" title=" " alt="" coords="61,674,90,712,108,731,129,746,162,760,160,765,127,751,105,735,86,716,57,678"/>
-<area shape="rect" id="Node000017" href="$classSensorValueIndicatorViewModel.html" title=" " alt="" coords="143,811,334,851"/>
-<area shape="poly" id="edge46_Node000000_Node000017" title=" " alt="" coords="54,676,82,737,103,769,130,796,151,809,148,814,126,800,99,772,77,739,50,678"/>
-<area shape="rect" id="Node000018" href="$classTankPressureControlerViewModel.html" title=" " alt="" coords="139,875,339,915"/>
-<area shape="poly" id="edge47_Node000000_Node000018" title=" " alt="" coords="50,677,57,718,72,768,95,818,111,841,130,861,146,873,143,877,126,865,107,844,91,821,67,770,52,719,44,678"/>
-<area shape="rect" id="Node000019" href="$classTankPressureSettingsIndicatorViewModel.html" title=" " alt="" coords="129,939,348,979"/>
-<area shape="poly" id="edge48_Node000000_Node000019" title=" " alt="" coords="47,678,51,730,63,797,74,831,88,866,107,897,130,925,145,937,142,941,126,929,102,901,83,868,69,833,58,798,46,731,42,678"/>
-<area shape="rect" id="Node000020" href="$classTestBenchModel.html" title=" " alt="" coords="175,1004,303,1029"/>
-<area shape="poly" id="edge49_Node000000_Node000020" title=" " alt="" coords="50,677,59,750,76,844,100,933,114,967,130,989,151,1003,175,1011,173,1016,148,1008,126,993,110,969,95,934,71,845,54,751,44,678"/>
-<area shape="rect" id="Node000021" href="$classTestLauncherViewModel.html" title=" " alt="" coords="149,1053,328,1079"/>
-<area shape="poly" id="edge50_Node000000_Node000021" title=" " alt="" coords="49,678,57,760,73,869,97,972,112,1012,130,1039,150,1053,147,1057,126,1043,108,1015,92,974,68,870,52,761,43,678"/>
-<area shape="rect" id="Node000022" href="$classTimer.html" title=" " alt="" coords="209,1103,269,1128"/>
-<area shape="poly" id="edge51_Node000000_Node000022" title=" " alt="" coords="48,678,55,770,70,893,80,955,94,1012,111,1057,130,1088,147,1101,167,1109,209,1114,208,1119,166,1114,145,1106,126,1092,106,1060,89,1013,75,956,64,894,50,770,43,678"/>
-<area shape="rect" id="Node000023" href="$classTxtParser.html" title=" " alt="" coords="197,1152,280,1177"/>
-<area shape="poly" id="edge52_Node000000_Node000023" title=" " alt="" coords="47,678,53,779,66,917,77,987,91,1051,109,1103,130,1138,144,1149,161,1156,198,1163,197,1168,160,1161,142,1153,126,1141,104,1105,86,1052,72,988,61,918,48,779,42,678"/>
-<area shape="rect" id="Node000024" href="$classUdpChannel.html" title="UDP communication channel between the microcontroller and the HMI." alt="" coords="188,1201,289,1227"/>
-<area shape="poly" id="edge53_Node000000_Node000024" title=" " alt="" coords="47,678,51,788,63,941,74,1019,88,1090,107,1148,118,1170,130,1187,142,1197,156,1204,188,1212,187,1217,155,1209,139,1201,126,1190,113,1173,102,1150,83,1091,69,1020,58,942,46,788,42,678"/>
-<area shape="rect" id="Node000025" href="$classUdpChannelParametersViewModel.html" title=" " alt="" coords="135,1251,342,1291"/>
-<area shape="poly" id="edge54_Node000000_Node000025" title=" " alt="" coords="47,678,50,797,62,964,72,1050,87,1128,106,1193,117,1217,130,1236,145,1249,141,1253,126,1240,113,1220,101,1194,81,1129,67,1051,56,965,45,797,41,678"/>
-<area shape="rect" id="Node000026" href="$classUdpWorker.html" title="UDP socket worker running on a dedicated thread." alt="" coords="192,1316,285,1341"/>
-<area shape="poly" id="edge55_Node000000_Node000026" title=" " alt="" coords="46,678,47,809,56,996,66,1093,81,1181,102,1253,115,1281,130,1302,143,1312,158,1320,192,1327,191,1332,157,1325,140,1317,126,1305,111,1283,97,1255,76,1182,61,1094,51,997,42,809,41,678"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,5,112,31"/>
+<area shape="rect" id="Node000001" href="$classInitialiseValveButton.html" title=" " alt="" coords="160,5,317,31"/>
+<area shape="poly" id="edge56_Node000000_Node000001" title=" " alt="" coords="126,15,160,15,160,21,126,21"/>
 </map>

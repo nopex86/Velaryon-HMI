@@ -11,7 +11,7 @@
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title=" ">
+<g id="a_Node000001"><a xlink:title="Tool that provide the ability to display and log errors and debug messages.">
 <polygon fill="#999999" stroke="transparent" points="68,-109 0,-109 0,0 68,0 68,-109"/>
 <text text-anchor="start" x="17" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">Logger</text>
 <text text-anchor="start" x="32" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>

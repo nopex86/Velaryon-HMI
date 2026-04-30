@@ -57,7 +57,7 @@ var sectionId = 'dynsection-3';
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title=" ">
+<g id="a_Node000001"><a xlink:title="Log the messages as a debug and send a signal to display it.">
 <polygon fill="#999999" stroke="#666666" points="1313,-122 1227,-122 1227,-103 1313,-103 1313,-122"/>
 <text text-anchor="middle" x="1270" y="-110" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::debug</text>
 </a>

@@ -175,7 +175,7 @@ var sectionId = 'dynsection-1';
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="classTimer.html" target="_top" xlink:title=" ">
+<g id="a_Node000005"><a xlink:href="classTimer.html" target="_top" xlink:title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets.">
 <polygon fill="white" stroke="transparent" points="262,-1661 146,-1661 146,-1537 262,-1537 262,-1661"/>
 <text text-anchor="start" x="189.5" y="-1649" font-family="Helvetica,sans-Serif" font-size="10.00">Timer</text>
 <text text-anchor="start" x="152.5" y="-1634" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
@@ -350,7 +350,7 @@ var sectionId = 'dynsection-1';
 <!-- Node11 -->
 <g id="Node000011" class="node">
 <title>Node11</title>
-<g id="a_Node000011"><a xlink:href="classLogger.html" target="_top" xlink:title=" ">
+<g id="a_Node000011"><a xlink:href="classLogger.html" target="_top" xlink:title="Tool that provide the ability to display and log errors and debug messages.">
 <polygon fill="white" stroke="transparent" points="492,-1788 424,-1788 424,-1679 492,-1679 492,-1788"/>
 <text text-anchor="start" x="441" y="-1775.5" font-family="Helvetica,sans-Serif" font-size="10.00">Logger</text>
 <text text-anchor="start" x="456" y="-1760.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
@@ -382,7 +382,7 @@ var sectionId = 'dynsection-1';
 <!-- Node12 -->
 <g id="Node000012" class="node">
 <title>Node12</title>
-<g id="a_Node000012"><a xlink:href="classFileSystem.html" target="_top" xlink:title=" ">
+<g id="a_Node000012"><a xlink:href="classFileSystem.html" target="_top" xlink:title="File system allow the managment of files path used in the application.">
 <polygon fill="white" stroke="transparent" points="289,-1212 197,-1212 197,-1133 289,-1133 289,-1212"/>
 <text text-anchor="start" x="215.5" y="-1199.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileSystem</text>
 <text text-anchor="start" x="203.5" y="-1184.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
@@ -390,9 +390,9 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="201" y="-1169.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="214" y="-1169.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileSystem()</text>
 <text text-anchor="start" x="201" y="-1154.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="214" y="-1154.5" font-family="Helvetica,sans-Serif" font-size="10.00">addDirectory()</text>
-<text text-anchor="start" x="201" y="-1139.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="214" y="-1139.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDirectory()</text>
+<text text-anchor="start" x="214" y="-1154.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDirectory()</text>
+<text text-anchor="start" x="203.5" y="-1139.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="214" y="-1139.5" font-family="Helvetica,sans-Serif" font-size="10.00">addDirectory()</text>
 <polygon fill="#666666" stroke="#666666" points="197,-1194.5 197,-1194.5 289,-1194.5 289,-1194.5 197,-1194.5"/>
 <polygon fill="#666666" stroke="#666666" points="197,-1179.5 197,-1179.5 212,-1179.5 212,-1179.5 197,-1179.5"/>
 <polygon fill="#666666" stroke="#666666" points="212,-1179.5 212,-1179.5 289,-1179.5 289,-1179.5 212,-1179.5"/>

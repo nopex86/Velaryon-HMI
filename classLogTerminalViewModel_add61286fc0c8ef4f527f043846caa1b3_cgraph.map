@@ -1,6 +1,6 @@
 <map id="LogTerminalViewModel::LogTerminalViewModel" name="LogTerminalViewModel::LogTerminalViewModel">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,55,187,95"/>
-<area shape="rect" id="Node000002" href="$classLogger.html#a02453fd0695fe06c495de714399e8bf7" title=" " alt="" coords="271,5,451,31"/>
+<area shape="rect" id="Node000002" href="$classLogger.html#a02453fd0695fe06c495de714399e8bf7" title="Signal that send the message to the rest of the app." alt="" coords="271,5,451,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,53,234,41,281,31,282,36,235,46,182,58"/>
 <area shape="rect" id="Node000003" href="$classLogTerminalViewModel.html#a9f667ac6e725a43bf51fb1f5823da492" title=" " alt="" coords="275,55,448,95"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,73,261,73,261,78,187,78"/>

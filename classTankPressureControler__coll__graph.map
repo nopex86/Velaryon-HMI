@@ -6,15 +6,15 @@
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,2668,193,2715,188,2713,204,2666"/>
 <area shape="rect" id="Node000004" title=" " alt="" coords="320,5,387,71"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="306,42,219,48,170,57,121,70,77,89,41,115,27,131,17,149,10,169,8,191,8,1948,14,1981,31,2004,86,2047,111,2066,134,2077,156,2089,179,2110,193,2127,188,2130,175,2114,153,2093,131,2081,108,2070,82,2051,27,2007,9,1983,3,1948,3,191,5,168,12,147,23,128,37,111,74,84,119,65,169,51,219,43,306,36"/>
-<area shape="rect" id="Node000005" href="$classTimer.html" title=" " alt="" coords="25,289,180,455"/>
+<area shape="rect" id="Node000005" href="$classTimer.html" title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets." alt="" coords="25,289,180,455"/>
 <area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="307,45,276,51,242,60,211,75,183,97,152,140,130,189,116,241,109,290,103,289,111,240,125,188,147,137,179,93,208,71,241,55,274,45,306,40"/>
 <area shape="rect" id="Node000006" href="$classUdpChannel.html" title="UDP communication channel between the microcontroller and the HMI." alt="" coords="434,1336,614,1781"/>
 <area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="370,83,382,135,388,191,388,1101,392,1165,402,1229,418,1292,436,1352,431,1353,413,1293,397,1230,387,1166,383,1101,383,191,377,136,365,85"/>
 <area shape="rect" id="Node000007" href="$classUdpWorker.html" title="UDP socket worker running on a dedicated thread." alt="" coords="423,1017,636,1183"/>
 <area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="398,79,406,93,434,160,456,221,484,333,496,435,498,532,491,737,495,856,511,993,515,1017,509,1018,505,994,490,856,486,737,492,532,491,435,479,334,451,223,430,162,402,96,393,82"/>
-<area shape="rect" id="Node000009" href="$classLogger.html" title=" " alt="" coords="516,120,607,265"/>
+<area shape="rect" id="Node000009" href="$classLogger.html" title="Tool that provide the ability to display and log errors and debug messages." alt="" coords="516,120,607,265"/>
 <area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="400,59,458,92,517,143,514,147,454,97,398,63"/>
-<area shape="rect" id="Node000010" href="$classFileSystem.html" title=" " alt="" coords="227,888,349,993"/>
+<area shape="rect" id="Node000010" href="$classFileSystem.html" title="File system allow the managment of files path used in the application." alt="" coords="227,888,349,993"/>
 <area shape="poly" id="edge15_Node000010_Node000004" title=" " alt="" coords="353,85,294,888,289,887,347,84"/>
 <area shape="rect" id="Node000011" href="$classTestBenchModel.html" title=" " alt="" coords="208,1844,387,2049"/>
 <area shape="poly" id="edge19_Node000011_Node000004" title=" " alt="" coords="342,85,333,121,288,334,258,502,236,671,217,888,211,1014,211,1112,216,1336,209,1462,198,1561,196,1608,196,1658,203,1715,216,1781,239,1843,234,1845,211,1782,197,1715,191,1659,190,1608,193,1561,204,1462,211,1336,206,1112,205,1014,212,888,231,670,253,501,283,333,328,119,337,83"/>

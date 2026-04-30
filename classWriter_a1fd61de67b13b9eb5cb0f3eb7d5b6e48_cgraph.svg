@@ -66,7 +66,7 @@ var sectionId = 'dynsection-4';
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="classLogger.html#a6c8bf2fc8c89d76b7f4fe25d97ad4bf3" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="classLogger.html#a6c8bf2fc8c89d76b7f4fe25d97ad4bf3" target="_top" xlink:title="Log the messages as an error and send a signal to display it.">
 <polygon fill="white" stroke="#666666" points="361,-38 282,-38 282,-19 361,-19 361,-38"/>
 <text text-anchor="middle" x="321.5" y="-26" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::error</text>
 </a>
@@ -102,7 +102,7 @@ var sectionId = 'dynsection-4';
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="classLogger.html#a02453fd0695fe06c495de714399e8bf7" target="_top" xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="classLogger.html#a02453fd0695fe06c495de714399e8bf7" target="_top" xlink:title="Signal that send the message to the rest of the app.">
 <polygon fill="white" stroke="#666666" points="532,-38 397,-38 397,-19 532,-19 532,-38"/>
 <text text-anchor="middle" x="464.5" y="-26" font-family="Helvetica,sans-Serif" font-size="10.00">Logger::messageLogged</text>
 </a>

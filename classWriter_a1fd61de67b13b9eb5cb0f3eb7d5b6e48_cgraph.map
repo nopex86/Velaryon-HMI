@@ -1,10 +1,10 @@
 <map id="Writer::logFrame" name="Writer::logFrame">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,5,136,31"/>
-<area shape="rect" id="Node000002" href="$classLogger.html#a6c8bf2fc8c89d76b7f4fe25d97ad4bf3" title=" " alt="" coords="381,5,487,31"/>
+<area shape="rect" id="Node000002" href="$classLogger.html#a6c8bf2fc8c89d76b7f4fe25d97ad4bf3" title="Log the messages as an error and send a signal to display it." alt="" coords="381,5,487,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,15,367,15,367,21,136,21"/>
 <area shape="rect" id="Node000004" href="$classWriter.html#a8370450b521293c9b754c234d0e46a73" title=" " alt="" coords="184,31,333,56"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="137,24,171,29,170,34,136,29"/>
-<area shape="rect" id="Node000003" href="$classLogger.html#a02453fd0695fe06c495de714399e8bf7" title=" " alt="" coords="535,5,715,31"/>
+<area shape="rect" id="Node000003" href="$classLogger.html#a02453fd0695fe06c495de714399e8bf7" title="Signal that send the message to the rest of the app." alt="" coords="535,5,715,31"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="487,15,521,15,521,21,487,21"/>
 <area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="333,30,367,25,368,30,334,35"/>
 </map>

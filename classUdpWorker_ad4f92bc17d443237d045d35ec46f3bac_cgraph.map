@@ -1,10 +1,10 @@
 <map id="UdpWorker::start" name="UdpWorker::start">
 <area shape="rect" id="Node000001" title="Bind the socket and begin receiving datagrams." alt="" coords="5,76,136,101"/>
-<area shape="rect" id="Node000002" href="$classLogger.html#a3ae168e3e7df5a30cb93e1bbccaa31a0" title=" " alt="" coords="238,27,333,52"/>
+<area shape="rect" id="Node000002" href="$classLogger.html#a3ae168e3e7df5a30cb93e1bbccaa31a0" title="Log the messages and send signal to display it." alt="" coords="238,27,333,52"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,73,224,51,225,56,127,79"/>
 <area shape="rect" id="Node000004" href="$classUdpWorker.html#a052037523508f888aff917428879c089" title="Drain and process all datagrams pending on the socket." alt="" coords="184,97,387,137"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="137,94,171,99,170,104,136,100"/>
-<area shape="rect" id="Node000003" href="$classLogger.html#a02453fd0695fe06c495de714399e8bf7" title=" " alt="" coords="457,5,637,31"/>
+<area shape="rect" id="Node000003" href="$classLogger.html#a02453fd0695fe06c495de714399e8bf7" title="Signal that send the message to the rest of the app." alt="" coords="457,5,637,31"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="333,33,443,24,443,29,333,38"/>
 <area shape="rect" id="Node000005" href="$classUdpWorker.html#abf76f544794092e13cfcad6ad275f96b" title="Emitted when a datagram has passed logging and decimation." alt="" coords="435,55,659,80"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="386,95,465,80,466,85,387,100"/>

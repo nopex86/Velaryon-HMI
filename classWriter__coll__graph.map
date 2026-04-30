@@ -4,7 +4,7 @@
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,224,154,302,165,314,161,318,150,306,91,227"/>
 <area shape="rect" id="Node000003" href="$structWriter_1_1Header.html" title=" " alt="" coords="163,133,355,253"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="261,253,261,311,256,311,256,253"/>
-<area shape="rect" id="Node000004" href="$classLogger.html" title=" " alt="" coords="379,120,469,265"/>
+<area shape="rect" id="Node000004" href="$classLogger.html" title="Tool that provide the ability to display and log errors and debug messages." alt="" coords="379,120,469,265"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="409,267,389,305,369,330,365,326,384,303,404,264"/>
 <area shape="rect" id="Node000005" title=" " alt="" coords="391,5,457,71"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="427,84,427,120,421,120,421,84"/>

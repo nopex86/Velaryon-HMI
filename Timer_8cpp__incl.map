@@ -1,6 +1,6 @@
 <map id="services/Timer/Timer.cpp" name="services/Timer/Timer.cpp">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,5,192,31"/>
-<area shape="rect" id="Node000002" href="$Timer_8h.html" title=" " alt="" coords="18,79,89,104"/>
+<area shape="rect" id="Node000002" href="$Timer_8h.html" title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets." alt="" coords="18,79,89,104"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,32,70,69,66,66,89,30"/>
 <area shape="rect" id="Node000004" title=" " alt="" coords="113,79,178,104"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="109,30,132,66,128,69,104,32"/>

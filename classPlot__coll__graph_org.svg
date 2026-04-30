@@ -175,7 +175,7 @@
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="classTimer.html" target="_top" xlink:title=" ">
+<g id="a_Node000005"><a xlink:href="classTimer.html" target="_top" xlink:title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets.">
 <polygon fill="white" stroke="transparent" points="283.5,-1999 167.5,-1999 167.5,-1875 283.5,-1875 283.5,-1999"/>
 <text text-anchor="start" x="211" y="-1987" font-family="Helvetica,sans-Serif" font-size="10.00">Timer</text>
 <text text-anchor="start" x="174" y="-1972" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
@@ -350,7 +350,7 @@
 <!-- Node11 -->
 <g id="Node000011" class="node">
 <title>Node11</title>
-<g id="a_Node000011"><a xlink:href="classLogger.html" target="_top" xlink:title=" ">
+<g id="a_Node000011"><a xlink:href="classLogger.html" target="_top" xlink:title="Tool that provide the ability to display and log errors and debug messages.">
 <polygon fill="white" stroke="transparent" points="513.5,-2126 445.5,-2126 445.5,-2017 513.5,-2017 513.5,-2126"/>
 <text text-anchor="start" x="462.5" y="-2113.5" font-family="Helvetica,sans-Serif" font-size="10.00">Logger</text>
 <text text-anchor="start" x="477.5" y="-2098.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
@@ -382,7 +382,7 @@
 <!-- Node12 -->
 <g id="Node000012" class="node">
 <title>Node12</title>
-<g id="a_Node000012"><a xlink:href="classFileSystem.html" target="_top" xlink:title=" ">
+<g id="a_Node000012"><a xlink:href="classFileSystem.html" target="_top" xlink:title="File system allow the managment of files path used in the application.">
 <polygon fill="white" stroke="transparent" points="310.5,-1550 218.5,-1550 218.5,-1471 310.5,-1471 310.5,-1550"/>
 <text text-anchor="start" x="237" y="-1537.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileSystem</text>
 <text text-anchor="start" x="225" y="-1522.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
@@ -390,9 +390,9 @@
 <text text-anchor="start" x="222.5" y="-1507.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="235.5" y="-1507.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileSystem()</text>
 <text text-anchor="start" x="222.5" y="-1492.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="235.5" y="-1492.5" font-family="Helvetica,sans-Serif" font-size="10.00">addDirectory()</text>
-<text text-anchor="start" x="222.5" y="-1477.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="235.5" y="-1477.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDirectory()</text>
+<text text-anchor="start" x="235.5" y="-1492.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDirectory()</text>
+<text text-anchor="start" x="225" y="-1477.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="235.5" y="-1477.5" font-family="Helvetica,sans-Serif" font-size="10.00">addDirectory()</text>
 <polygon fill="#666666" stroke="#666666" points="218.5,-1532.5 218.5,-1532.5 310.5,-1532.5 310.5,-1532.5 218.5,-1532.5"/>
 <polygon fill="#666666" stroke="#666666" points="218.5,-1517.5 218.5,-1517.5 233.5,-1517.5 233.5,-1517.5 218.5,-1517.5"/>
 <polygon fill="#666666" stroke="#666666" points="233.5,-1517.5 233.5,-1517.5 310.5,-1517.5 310.5,-1517.5 233.5,-1517.5"/>

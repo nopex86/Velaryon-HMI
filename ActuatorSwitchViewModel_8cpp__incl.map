@@ -8,7 +8,7 @@
 <area shape="poly" id="edge40_Node000001_Node000019" title=" " alt="" coords="741,41,633,58,506,86,373,127,308,153,246,184,196,216,152,255,87,326,83,322,148,251,193,212,243,179,305,148,371,122,504,81,632,53,741,36"/>
 <area shape="rect" id="Node000025" href="$TestBenchModel_8h.html" title=" " alt="" coords="800,328,999,368"/>
 <area shape="poly" id="edge34_Node000001_Node000025" title=" " alt="" coords="797,48,765,67,740,95,735,113,740,132,765,188,799,239,836,283,869,317,865,320,832,286,794,242,760,191,735,134,730,113,736,92,761,63,794,43"/>
-<area shape="rect" id="Node000026" href="$Timer_8h.html" title=" " alt="" coords="1129,93,1270,133"/>
+<area shape="rect" id="Node000026" href="$Timer_8h.html" title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets." alt="" coords="1129,93,1270,133"/>
 <area shape="poly" id="edge38_Node000001_Node000026" title=" " alt="" coords="929,43,1116,89,1114,94,928,48"/>
 <area shape="rect" id="Node000003" title=" " alt="" coords="977,504,1051,529"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1157,451,1052,501,1049,496,1155,446"/>
@@ -52,7 +52,7 @@
 <area shape="poly" id="edge23_Node000018_Node000020" title=" " alt="" coords="329,278,392,325,389,329,326,282"/>
 <area shape="rect" id="Node000021" title=" " alt="" coords="270,335,355,361"/>
 <area shape="poly" id="edge25_Node000018_Node000021" title=" " alt="" coords="315,280,315,321,310,321,310,280"/>
-<area shape="rect" id="Node000022" href="$Logger_8h.html" title=" " alt="" coords="529,328,675,368"/>
+<area shape="rect" id="Node000022" href="$Logger_8h.html" title="Tool that provide the ability to display and log errors and debug messages." alt="" coords="529,328,675,368"/>
 <area shape="poly" id="edge26_Node000018_Node000022" title=" " alt="" coords="355,277,520,322,519,327,354,283"/>
 <area shape="poly" id="edge28_Node000022_Node000007" title=" " alt="" coords="626,366,670,405,667,409,622,370"/>
 <area shape="rect" id="Node000023" title=" " alt="" coords="529,423,608,449"/>

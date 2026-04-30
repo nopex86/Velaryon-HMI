@@ -6,7 +6,7 @@
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,2547,176,2594,171,2593,183,2546"/>
 <area shape="rect" id="Node000004" title=" " alt="" coords="429,5,495,71"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="416,48,351,62,316,74,282,89,251,108,227,131,211,158,205,192,205,1857,207,1939,214,2021,209,2021,202,1939,199,1857,199,191,206,157,223,127,248,103,279,84,314,69,350,57,415,43"/>
-<area shape="rect" id="Node000005" href="$classTimer.html" title=" " alt="" coords="229,289,383,455"/>
+<area shape="rect" id="Node000005" href="$classTimer.html" title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets." alt="" coords="229,289,383,455"/>
 <area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="419,68,391,96,364,143,344,193,329,243,319,290,314,289,324,242,339,191,359,140,387,93,416,64"/>
 <area shape="rect" id="Node000006" href="$classTestBenchModel.html" title=" " alt="" coords="415,1753,594,1959"/>
 <area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="509,40,638,54,717,66,796,82,870,101,931,126,955,140,973,155,985,172,989,191,989,1469,986,1506,977,1541,964,1573,947,1604,901,1660,844,1708,781,1749,715,1783,652,1810,595,1831,593,1826,650,1805,713,1778,778,1744,841,1703,897,1656,942,1601,959,1571,972,1539,980,1505,983,1469,983,192,980,175,969,159,951,144,928,130,868,106,795,87,716,71,638,59,509,46"/>
@@ -14,9 +14,9 @@
 <area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="465,84,465,191,465,1101,469,1134,481,1175,518,1274,513,1276,475,1177,464,1135,459,1102,459,191,459,84"/>
 <area shape="rect" id="Node000009" href="$classUdpWorker.html" title="UDP socket worker running on a dedicated thread." alt="" coords="499,1017,713,1183"/>
 <area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="481,83,483,94,510,229,528,344,538,447,545,542,557,740,568,856,587,993,591,1017,586,1018,582,994,563,857,552,741,539,542,533,447,522,345,505,230,478,95,475,85"/>
-<area shape="rect" id="Node000011" href="$classLogger.html" title=" " alt="" coords="599,120,690,265"/>
+<area shape="rect" id="Node000011" href="$classLogger.html" title="Tool that provide the ability to display and log errors and debug messages." alt="" coords="599,120,690,265"/>
 <area shape="poly" id="edge15_Node000011_Node000004" title=" " alt="" coords="508,71,534,93,601,149,598,153,531,97,505,76"/>
-<area shape="rect" id="Node000012" href="$classFileSystem.html" title=" " alt="" coords="297,888,419,993"/>
+<area shape="rect" id="Node000012" href="$classFileSystem.html" title="File system allow the managment of files path used in the application." alt="" coords="297,888,419,993"/>
 <area shape="poly" id="edge18_Node000012_Node000004" title=" " alt="" coords="449,85,446,95,421,261,397,489,364,888,359,887,392,489,416,260,441,94,443,83"/>
 <area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="296,455,270,674,259,806,255,939,255,1857,255,2005,250,2005,250,1857,250,939,254,806,264,673,291,455"/>
 <area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="447,1960,352,2120,347,2118,442,1957"/>

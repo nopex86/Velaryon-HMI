@@ -278,7 +278,7 @@ var sectionId = 'dynsection-1';
 <!-- Node8 -->
 <g id="Node000008" class="node">
 <title>Node8</title>
-<g id="a_Node000008"><a xlink:href="classLogger.html" target="_top" xlink:title=" ">
+<g id="a_Node000008"><a xlink:href="classLogger.html" target="_top" xlink:title="Tool that provide the ability to display and log errors and debug messages.">
 <polygon fill="white" stroke="transparent" points="366,-1504 298,-1504 298,-1395 366,-1395 366,-1504"/>
 <text text-anchor="start" x="315" y="-1491.5" font-family="Helvetica,sans-Serif" font-size="10.00">Logger</text>
 <text text-anchor="start" x="330" y="-1476.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
@@ -310,7 +310,7 @@ var sectionId = 'dynsection-1';
 <!-- Node9 -->
 <g id="Node000009" class="node">
 <title>Node9</title>
-<g id="a_Node000009"><a xlink:href="classFileSystem.html" target="_top" xlink:title=" ">
+<g id="a_Node000009"><a xlink:href="classFileSystem.html" target="_top" xlink:title="File system allow the managment of files path used in the application.">
 <polygon fill="white" stroke="transparent" points="631,-1377 539,-1377 539,-1298 631,-1298 631,-1377"/>
 <text text-anchor="start" x="557.5" y="-1364.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileSystem</text>
 <text text-anchor="start" x="545.5" y="-1349.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
@@ -318,9 +318,9 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="543" y="-1334.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="556" y="-1334.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileSystem()</text>
 <text text-anchor="start" x="543" y="-1319.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="556" y="-1319.5" font-family="Helvetica,sans-Serif" font-size="10.00">addDirectory()</text>
-<text text-anchor="start" x="543" y="-1304.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="556" y="-1304.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDirectory()</text>
+<text text-anchor="start" x="556" y="-1319.5" font-family="Helvetica,sans-Serif" font-size="10.00">getDirectory()</text>
+<text text-anchor="start" x="545.5" y="-1304.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="556" y="-1304.5" font-family="Helvetica,sans-Serif" font-size="10.00">addDirectory()</text>
 <polygon fill="#666666" stroke="#666666" points="539,-1359.5 539,-1359.5 631,-1359.5 631,-1359.5 539,-1359.5"/>
 <polygon fill="#666666" stroke="#666666" points="539,-1344.5 539,-1344.5 554,-1344.5 554,-1344.5 539,-1344.5"/>
 <polygon fill="#666666" stroke="#666666" points="554,-1344.5 554,-1344.5 631,-1344.5 631,-1344.5 554,-1344.5"/>

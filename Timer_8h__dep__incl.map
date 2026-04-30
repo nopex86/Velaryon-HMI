@@ -1,5 +1,5 @@
 <map id="services/Timer/Timer.h" name="services/Timer/Timer.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="910,5,1081,31"/>
+<area shape="rect" id="Node000001" title="Timer that emit a signal at a certain frequency to synchronise the refresh of the app widgets." alt="" coords="910,5,1081,31"/>
 <area shape="rect" id="Node000002" href="$PlotViewModel_8cpp.html" title=" " alt="" coords="5,86,169,126"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="896,23,755,27,576,37,379,54,181,81,148,89,147,83,180,76,378,49,576,31,755,22,896,18"/>
 <area shape="rect" id="Node000003" href="$DebugDisplayViewModel_8cpp.html" title=" " alt="" coords="193,86,464,126"/>

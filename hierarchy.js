@@ -4,7 +4,6 @@ var hierarchy =
     [ "PidTabConfig::BackgroundConfig", "structPidTabConfig_1_1BackgroundConfig.html", null ],
     [ "BdfHeader", "structBdfHeader.html", null ],
     [ "Plot::Binding", "structPlot_1_1Binding.html", null ],
-    [ "Config", "classConfig.html", null ],
     [ "ControlEvent", "structControlEvent.html", null ],
     [ "CountdownFrame", "structCountdownFrame.html", null ],
     [ "CurveParameters", "structCurveParameters.html", null ],

@@ -1,5 +1,5 @@
 <map id="Logger::warning" name="Logger::warning">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,132,31"/>
-<area shape="rect" id="Node000002" href="$classLogger.html#a02453fd0695fe06c495de714399e8bf7" title=" " alt="" coords="180,5,360,31"/>
+<area shape="rect" id="Node000001" title="Log the messages as a warning and send a signal to display it." alt="" coords="5,5,132,31"/>
+<area shape="rect" id="Node000002" href="$classLogger.html#a02453fd0695fe06c495de714399e8bf7" title="Signal that send the message to the rest of the app." alt="" coords="180,5,360,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,15,166,15,166,21,132,21"/>
 </map>
